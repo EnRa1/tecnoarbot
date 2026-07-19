@@ -5,15 +5,14 @@ Configuración general del pipeline de noticias tecno.ar
 # --- Feeds RSS semilla (fuente inicial de tópicos) ---
 FEEDS_SEMILLA = [
     "https://techcrunch.com/feed/",
-    "https://www.theverge.com/rss/index.xml",
-    "https://hnrss.org/frontpage",
-    "https://feeds.arstechnica.com/arstechnica/index",
+    "https://www.theverge.com/rss/index.xml"
 ]
 
 # --- Parámetros de recolección ---
 VENTANA_HORAS = 24              # solo noticias de las últimas 24hs
 MAX_TOPICOS_POR_CORRIDA = 6     # cantidad de noticias a redactar por corrida
-MIN_FUENTES_POR_NOTICIA = 2     # mínimo de portales con texto completo válido
+MIN_FUENTES_POR_NOTICIA = 1     # la fuente semilla siempre cuenta como 1; portales
+                                 # adicionales de Google News suman pero no son obligatorios
 MAX_FUENTES_A_BUSCAR = 6        # cuántos portales pedirle a Google News por tópico
 MIN_CHARS_ARTICULO_VALIDO = 300 # descartar extracciones vacías/rotas
 
