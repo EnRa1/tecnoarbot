@@ -1,6 +1,7 @@
 """
 Recolección de tópicos y búsqueda de portales relacionados.
 """
+import re
 import time
 from datetime import datetime, timezone, timedelta
 from urllib.parse import quote
@@ -9,6 +10,30 @@ import feedparser
 import requests
 
 from config import FEEDS_SEMILLA, VENTANA_HORAS, MAX_FUENTES_A_BUSCAR
+
+# Palabras vacías en inglés (las fuentes semilla son medios en inglés) para
+# limpiar el título y quedarnos con los términos que realmente identifican
+# la noticia. Un título completo como query es demasiado específico: casi
+# ningún otro portal lo redacta igual, y Google News devuelve 0 resultados.
+_STOPWORDS_EN = {
+    "the", "a", "an", "and", "or", "of", "in", "on", "for", "to", "is", "are",
+    "this", "that", "with", "at", "by", "from", "as", "it", "its", "be",
+    "was", "were", "will", "can", "could", "should", "not", "no", "new",
+    "how", "why", "what", "who", "your", "you", "we", "our", "their",
+    "than", "into", "up", "out", "all", "just", "now", "still", "get",
+}
+
+
+def _simplificar_query(titulo, max_palabras=6):
+    """Convierte un título largo/específico en términos de búsqueda más
+    genéricos, para que otros portales que cubrieron lo mismo con otra
+    redacción también aparezcan en los resultados."""
+    limpio = re.sub(r"[^\w\s]", " ", titulo)  # saca : ? ¿ ! ( ) etc.
+    palabras = limpio.split()
+    relevantes = [p for p in palabras if p.lower() not in _STOPWORDS_EN and len(p) > 2]
+    if not relevantes:
+        relevantes = palabras
+    return " ".join(relevantes[:max_palabras])
 
 
 def _dentro_de_ventana(entry, horas):
@@ -42,9 +67,7 @@ def recolectar_topicos_semilla():
     return items
 
 
-def buscar_portales_relacionados(query, idioma="es", pais="AR"):
-    """Busca la misma noticia en múltiples medios vía Google News RSS,
-    limitado a publicaciones del último día."""
+def _consultar_google_news(query, idioma, pais):
     query_con_fecha = f"{query} when:1d"
     url = (
         f"https://news.google.com/rss/search?q={quote(query_con_fecha)}"
@@ -53,16 +76,38 @@ def buscar_portales_relacionados(query, idioma="es", pais="AR"):
     try:
         feed = feedparser.parse(url)
     except Exception as e:
-        print(f"  [aviso] falló búsqueda Google News para '{query}': {e}")
+        print(f"  [aviso] falló búsqueda Google News ({idioma}/{pais}) para '{query}': {e}")
         return []
 
-    resultados = []
-    for entry in feed.entries[:MAX_FUENTES_A_BUSCAR]:
-        resultados.append({
+    return [
+        {
             "titulo": entry.title,
             "link": entry.link,
             "fuente": entry.get("source", {}).get("title", "desconocida"),
-        })
+        }
+        for entry in feed.entries[:MAX_FUENTES_A_BUSCAR]
+    ]
+
+
+def buscar_portales_relacionados(titulo_original, idioma="en", pais="US"):
+    """Busca la misma noticia en múltiples medios vía Google News RSS,
+    limitado a publicaciones del último día.
+
+    Por defecto busca en la edición en/US porque las fuentes semilla
+    (TechCrunch, The Verge, Ars Technica, HN) son medios en inglés: buscar
+    en la edición es/AR devuelve prácticamente 0 resultados para ese tipo
+    de cobertura. Si no aparece nada, reintenta con el título completo
+    (sin simplificar) antes de rendirse.
+    """
+    query = _simplificar_query(titulo_original)
+
+    resultados = _consultar_google_news(query, idioma, pais)
+    if resultados:
+        return resultados
+
+    # fallback: probar con el título completo, tal cual, por si la
+    # simplificación quitó justo el término que sí matchea
+    resultados = _consultar_google_news(titulo_original, idioma, pais)
     return resultados
 
 

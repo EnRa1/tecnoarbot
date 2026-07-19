@@ -22,7 +22,9 @@ from datetime import datetime
 def procesar_topico(topico, historial):
     print(f"\n→ Tópico: {topico['titulo']}")
 
-    # 1. buscar cobertura en otros portales (últimas 24hs)
+    # 1. buscar cobertura en otros portales (últimas 24hs).
+    #    internamente simplifica el título a términos clave antes de buscar,
+    #    y hace fallback a en/US si la edición local no trae resultados.
     relacionados = buscar_portales_relacionados(topico["titulo"])
     time.sleep(1.5)  # cortesía con Google News
 
