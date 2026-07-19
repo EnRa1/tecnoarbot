@@ -30,6 +30,12 @@ jobs:
         run: |
           git config user.name "tecno-ar-bot"
           git config user.email "bot@users.noreply.github.com"
+          mkdir -p noticias  # evita que git add falle si no se generó ninguna nota
+          git add noticias/ historial_publicadas.json enlaces_internos.json
+          git commit -m "Noticias generadas: $(date +'%Y-%m-%d %H:%M')" || echo "sin cambios para commitear"
+          git push
+
+          git config user.email "bot@users.noreply.github.com"
           git add noticias/ historial_publicadas.json enlaces_internos.json
           git commit -m "Noticias generadas: $(date +'%Y-%m-%d %H:%M')" || echo "sin cambios para commitear"
           git push
