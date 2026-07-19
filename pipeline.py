@@ -22,27 +22,48 @@ from datetime import datetime
 def procesar_topico(topico, historial):
     print(f"\n→ Tópico: {topico['titulo']}")
 
-    # 1. buscar cobertura en otros portales (últimas 24hs).
+    articulos_completos = []
+
+    # 1. SIEMPRE extraemos primero el artículo original de la fuente semilla
+    #    (el link del RSS que originó el tópico). Esto garantiza que nunca
+    #    nos quedemos sin nota solo porque Google News no encontró más
+    #    cobertura: como mínimo, redactamos con esta fuente.
+    extraido_principal = extraer_articulo_completo(topico["link"])
+    if extraido_principal and fecha_articulo_valida(extraido_principal["fecha"]):
+        articulos_completos.append({
+            "fuente": topico["fuente"],
+            "url": topico["link"],
+            "texto": truncar_articulo(extraido_principal["texto"], max_palabras=600),
+        })
+        print(f"  fuente semilla extraída: {topico['fuente']}")
+    else:
+        print(f"  [aviso] no se pudo extraer la fuente semilla ({topico['fuente']}), "
+              f"se intentará seguir solo con portales relacionados si aparecen")
+
+    # 2. buscamos portales relacionados como COMPLEMENTO (opcional, no bloqueante).
     #    internamente simplifica el título a términos clave antes de buscar,
     #    y hace fallback a en/US si la edición local no trae resultados.
     relacionados = buscar_portales_relacionados(topico["titulo"])
     time.sleep(1.5)  # cortesía con Google News
+    print(f"  {len(relacionados)} portales adicionales encontrados vía Google News")
 
-    if not relacionados:
-        print("  descartado: sin cobertura adicional encontrada")
-        return None
+    fallos_extraccion = 0
+    fallos_fecha = 0
+    urls_ya_incluidas = {a["url"] for a in articulos_completos}
 
-    # 2. extraer texto completo de cada portal
-    articulos_completos = []
     for r in relacionados:
         url_real = resolver_url_real(r["link"])
+        if url_real in urls_ya_incluidas:
+            continue  # evita duplicar la fuente semilla si Google News la vuelve a traer
+
         extraido = extraer_articulo_completo(url_real)
         time.sleep(1)  # cortesía con el sitio origen
 
         if not extraido:
+            fallos_extraccion += 1
             continue
         if not fecha_articulo_valida(extraido["fecha"]):
-            print(f"  descartado por antigüedad: {r['fuente']}")
+            fallos_fecha += 1
             continue
 
         articulos_completos.append({
@@ -50,15 +71,27 @@ def procesar_topico(topico, historial):
             "url": url_real,
             "texto": truncar_articulo(extraido["texto"], max_palabras=600),
         })
+        urls_ya_incluidas.add(url_real)
 
-    # 3. confirmar que realmente hablan del mismo hecho
-    articulos_completos = filtrar_fuentes_relevantes(topico["titulo"], articulos_completos)
+    print(f"  portales adicionales: {len(articulos_completos) - (1 if extraido_principal else 0)} sumados, "
+          f"{fallos_extraccion} sin texto útil, {fallos_fecha} descartados por fecha")
+
+    # 3. de los portales ADICIONALES (no de la fuente semilla, que ya sabemos
+    #    que es la correcta por definición), confirmamos que hablan del mismo
+    #    hecho para no mezclar ruido temático
+    if len(articulos_completos) > 1:
+        principal = articulos_completos[0]
+        adicionales_filtrados = filtrar_fuentes_relevantes(topico["titulo"], articulos_completos[1:])
+        descartados = len(articulos_completos) - 1 - len(adicionales_filtrados)
+        if descartados:
+            print(f"  clustering: {descartados} portal(es) descartado(s) por no parecer la misma noticia")
+        articulos_completos = [principal] + adicionales_filtrados
 
     if len(articulos_completos) < MIN_FUENTES_POR_NOTICIA:
-        print(f"  descartado: solo {len(articulos_completos)} fuente(s) válida(s) (mínimo {MIN_FUENTES_POR_NOTICIA})")
+        print(f"  descartado: no se logró extraer ninguna fuente utilizable")
         return None
 
-    print(f"  {len(articulos_completos)} fuentes confirmadas: "
+    print(f"  redactando con {len(articulos_completos)} fuente(s): "
           f"{', '.join(a['fuente'] for a in articulos_completos)}")
 
     # 4. palabra clave
