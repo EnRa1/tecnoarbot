@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "titulo": "La Batalla Regulatoria de Robotaxis en D.C. y la Expansión Gigante de Uber, según TechCrunch",
+    "url": "https://tecno.ar/2026-07-20-la-batalla-regulatoria-de-robotaxis-en-dc-y-la-expansion-gig",
+    "tema": "techcrunch"
+  },
+  {
+    "titulo": "Apple Demanda a OpenAI por Robo de Secretos Comerciales en Pleno Auge de sus Planes de Hardware",
+    "url": "https://tecno.ar/2026-07-20-apple-demanda-a-openai-por-robo-de-secretos-comerciales-en-p",
+    "tema": "openai"
+  },
+  {
+    "titulo": "Nvidia Impulsa a Japón como Centro Global de la IA Física",
+    "url": "https://tecno.ar/2026-07-20-nvidia-impulsa-a-japon-como-centro-global-de-la-ia-fisica",
+    "tema": "japan"
+  },
+  {
+    "titulo": "Netflix Desembolsa $587 Millones por la Startup de IA de Ben Affleck",
+    "url": "https://tecno.ar/2026-07-20-netflix-desembolsa-587-millones-por-la-startup-de-ia-de-ben-",
+    "tema": "affleck"
+  },
+  {
+    "titulo": "StrictlyVC Regresa a Nueva York para Celebrar un Año Monumental en el Ecosistema Startup",
+    "url": "https://tecno.ar/2026-07-20-strictlyvc-regresa-a-nueva-york-para-celebrar-un-ano-monumen",
+    "tema": "strictlyvc"
+  },
+  {
+    "titulo": "Hugging Face Confirma Brecha de Seguridad que Afectó sus Datasets Internos y Credenciales",
+    "url": "https://tecno.ar/2026-07-20-hugging-face-confirma-brecha-de-seguridad-que-afecto-sus-dat",
+    "tema": "datasets"
+  }
+]
