@@ -1,0 +1,30 @@
+---
+titulo: "EE. UU. Acusa a Ciudadano por Borrar Datos de su Phone con Contraseña de Coacción en Frontera"
+fecha: 2026-07-24
+keyword: phone
+---
+
+# EE. UU. Acusa a Ciudadano por Borrar Datos de su Phone con Contraseña de Coacción en Frontera
+
+*El Departamento de Justicia de EE. UU. ha iniciado un proceso legal contra un ciudadano estadounidense, Samuel Tunick, por presuntamente haber borrado el contenido de su **phone** utilizando una contraseña de coacción durante una inspección en la frontera. Este sería el primer caso conocido de su tipo en el país.*
+
+La justicia estadounidense ha acusado formalmente a un ciudadano, Samuel Tunick, de manipular y borrar los datos de su dispositivo móvil mientras era sometido a una inspección fronteriza, según reportes de medios y la propia acusación. El incidente, que ha captado la atención por su singularidad, involucra el uso de una "contraseña de coacción" diseñada para eliminar información de un **phone** al ser ingresada. Este tipo de acción representa el primer caso conocido en el país donde fiscales federales persiguen legalmente a alguien por la supuesta destrucción de datos a través de esta funcionalidad de software integrada en un teléfono.
+
+Los abogados de Tunick, residente de Atlanta, han manifestado que la incautación de su teléfono por parte de la Oficina de Aduanas y Protección Fronteriza de EE. UU. (CBP) el año pasado, cuando regresaba al país, fue ilegal. Argumentan que cualquier evidencia obtenida, incluyendo la supuesta eliminación de datos del **phone**, debería ser desestimada. El caso pone de relieve cuestiones fundamentales sobre los derechos constitucionales que pueden invocarse en las fronteras, un área donde el gobierno estadounidense ha sostenido históricamente que el territorio no se considera suelo estadounidense hasta que una persona es autorizada a ingresar.
+
+## Debate Constitucional y la Incautación del Phone en Fronteras
+
+El meollo del litigio gira en torno a una característica presente en GrapheneOS, un sistema operativo Android personalizado que se instala en lugar del software estándar en muchos dispositivos Google Pixel. Los defensores de Tunick confirmaron que su **phone** operaba con GrapheneOS. Esta función específica permite al propietario del dispositivo configurar una contraseña que, al ser introducida en lugar de la clave de desbloqueo habitual, borra deliberadamente todo el contenido del equipo.
+
+La acusación formal del gobierno, que según TechCrunch contenía un error tipográfico, imputa a Tunick por supuestamente proporcionar una contraseña a los agentes fronterizos que provocó que el **phone** "eliminara el contenido digital" antes de que el dispositivo fuera incautado. Los abogados de Tunick presentaron una moción para suprimir las pruebas, alegando que la detención y la incautación fueron ilegales. La moción detalla que las autoridades fronterizas de EE. UU. llevaron a Tunick a una inspección secundaria en el aeropuerto Hartsfield-Jackson de Atlanta el 24 de enero de 2025, a su regreso del extranjero, y que se le negó repetidamente el acceso a un abogado y no se le informó de sus derechos legales.
+
+La defensa de Tunick ha acusado al gobierno de exigir acceso a su **phone** bajo el pretexto de buscar imágenes de explotación infantil, pero sin proporcionar pruebas que justificaran su sospecha. En cambio, la moción para suprimir las pruebas argumentó que el gobierno lo estaba investigando por su vinculación con un movimiento ambientalista de larga data llamado "Defend the Atlanta Forest", que se opone al desarrollo de un extenso centro de capacitación para las fuerzas del orden en Atlanta, conocido como "Cop City". Los agentes fronterizos, según la moción, afirmaron que no necesitaban una orden judicial para registrar el **phone** de Tunick porque aún no había cruzado la frontera estadounidense, basándose en la postura del gobierno de poder registrar y confiscar dispositivos sin orden judicial hasta que se permita la entrada al país.
+
+## Implicaciones Legales y la Protección de Datos del Phone
+
+Cuando Tunick proporcionó su contraseña y las autoridades la ingresaron, "la pantalla se quedó en blanco, parpadeó varias veces y el teléfono pareció reiniciarse", según el testimonio. A pesar de esto, las autoridades confiscaron su **[phone](https://tecno.ar/2026-07-24-cognition-adquiere-poke-ai-para-potenciar-la-personalidad-en)** antes de indicarle que era libre de irse y podía ingresar a los Estados Unidos. Posteriormente, los fiscales acusaron a Tunick bajo un estatuto federal que prohíbe la destrucción o daño intencional de propiedad para evitar su incautación por parte de las autoridades. Tunick se ha declarado no culpable de los cargos.
+
+Matthew Dodge, un defensor público federal que forma parte del equipo legal de Tunick, comentó a TechCrunch que es extraordinariamente raro ver este estatuto federal aplicado en una acusación. Expertos en seguridad también indicaron que no tenían conocimiento de cargos presentados de esta manera anteriormente. Este caso subraya la creciente tensión entre la privacidad digital y las prerrogativas de seguridad nacional en las fronteras, un debate que se intensifica a medida que la tecnología de los [dispositivos móviles](https://tecno.ar/2026-07-24-los-guardrails-de-la-ia-barrera-para-la-ciberseguridad-ofensiv) avanza. La resolución de este litigio podría sentar un precedente importante para la forma en que se manejan las búsquedas y la protección de datos en los [teléfonos](https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-[phone](https://tecno.ar/2026-07-24-corgi-cierra-otra-megaronda-de-financiamiento-y-duplica-valo)-using-a-duress-password-during-border-search/) en puntos de entrada al país, afectando potencialmente a futuros viajeros y las capacidades de defensa de la privacidad en sus dispositivos electrónicos.
+
+## Fuentes
+TechCrunch - https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/
