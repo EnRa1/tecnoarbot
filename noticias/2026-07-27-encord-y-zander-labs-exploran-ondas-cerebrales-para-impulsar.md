@@ -1,0 +1,28 @@
+---
+titulo: "Encord y Zander Labs Exploran Ondas Cerebrales para Impulsar el Futuro del *Brain* Robótico"
+fecha: 2026-07-27
+keyword: brain
+---
+
+# Encord y Zander Labs Exploran Ondas Cerebrales para Impulsar el Futuro del *Brain* Robótico
+
+*Una innovadora colaboración busca decodificar la actividad del *brain* humano para generar datos de entrenamiento cruciales, superando el cuello de botella en el desarrollo de la inteligencia artificial física.*
+
+La frontera de la inteligencia artificial física se expande con una nueva dirección: el uso de ondas cerebrales humanas para el entrenamiento robótico. Encord, una empresa especializada en herramientas para modelos de IA, ha iniciado un programa piloto con Zander Labs, una startup alemana de neurociencia, para explorar cómo la actividad cerebral puede proporcionar datos de entrenamiento más ricos y efectivos para la próxima generación de robots humanoides y de almacén. Este esfuerzo busca resolver la creciente escasez de datos del mundo real, un obstáculo significativo para el avance de la robótica.
+
+## Decodificando el *Brain* Humano para Robots Más Inteligentes
+
+El núcleo de esta iniciativa se encuentra en un almacén en San Leandro, California, donde "pilotos" robóticos humanos, como Andrew Ceja, realizan tareas meticulosas. TechCrunch reporta que Ceja, por ejemplo, extrae bloques de una torre de Jenga mientras lleva un auricular equipado con una cámara y sensores que miden sus ondas cerebrales. Este dispositivo, desarrollado por Zander Labs, tiene como objetivo capturar no solo las acciones visuales del piloto, sino también sus estados mentales subyacentes, como el error, la intención o la sorpresa. La promesa es que esta información detallada del *brain* humano puede enriquecer exponencialmente los conjuntos de datos de entrenamiento para la IA robótica.
+
+Lucas Gehrke, neurocientífico de Zander Labs, explica que la intensidad de la actividad del *brain* durante una tarea específica puede ofrecer a los desarrolladores de modelos pistas vitales sobre cuándo necesitan desplegar algoritmos de mayor complejidad y esfuerzo. Para Vineeth Velmurugan, jefe de aprendizaje robótico en Encord y veterano de OpenAI, esta aproximación representa la "frontera" para superar el cuello de botella de datos que aqueja a la robótica. Encord, originalmente centrada en la anotación de datos para aplicaciones de visión artificial, ahora se enfoca en la "fabricación" de datos que simplemente no existen, una necesidad crítica a medida que sus clientes avanzan hacia el aprendizaje de extremo a extremo en tareas de manipulación robótica.
+
+## El Desafío del *Brain* Robótico y la Escasez de Datos
+
+La ambición de que la IA generativa replique su éxito en chatbots para el ámbito robótico físico se enfrenta a una barrera persistente: la escasez de datos del mundo real a gran escala. A diferencia de las empresas de vehículos autónomos que pueden recolectar datos a través de sus propias flotas, la generación de datos para robots humanoides es un desafío de escalabilidad considerable. Si bien el entrenamiento a partir de videos es factible, carece de la fidelidad y el detalle contextual que solo los datos físicos pueden ofrecer. Velmurugan estima que se necesitarían conjuntos de datos con un volumen que podría ser hasta cinco veces el corpus de videos de YouTube para lograr un avance significativo, una escala que ha transformado la generación de datos en un sector empresarial por derecho propio.
+
+Para suplir las exigencias de los "cerebros" robóticos en desarrollo, las empresas están utilizando principalmente dos fuentes: videos "egocéntricos" grabados por trabajadores con cámaras (a menudo complementados con múltiples ángulos y otras métricas) y datos de robots operados remotamente. Encord emplea ambas estrategias, recolectando datos egocéntricos de fábricas alrededor del mundo y utilizando sus instalaciones de San Leandro para experimentar con nuevas modalidades, como las [ondas cerebrales](https://techcrunch.com/2026/07/26/are-[brain](https://tecno.ar/2026-07-27-european-technology-network-etn-expande-su-contenido-live-a-)-waves-the-next-unlock-for-physical-ai/), o para compilar conjuntos de datos específicos para el ajuste fino de habilidades. Durante una visita de TechCrunch, se observó a pilotos empleando plataformas de "líder-seguidor", brazos robóticos donde uno es controlado directamente por un humano y el otro imita sus movimientos, para generar datos sobre tareas como servir café o apilar fichas de póker.
+
+Según Velmurugan, la demanda de este tipo de información detallada es universal entre las compañías que desarrollan humanoides, lo que subraya la importancia de este enfoque en la capacitación del [[brain](https://tecno.ar/2026-07-27-enigma-recauda-70-millones-para-desbloquear-la-interaccion-i)](https://tecno.ar/2026-07-27-enigma-recauda-70-millones-para-desbloquear-la-interaccion-i) artificial. La colaboración entre Encord y Zander Labs representa una apuesta audaz por superar las limitaciones actuales, buscando en la actividad del [cerebro](https://techcrunch.com/2026/07/26/are-[brain](https://tecno.ar/2026-07-27-snapchat-lanza-now-playing-comparti-musica-en-tiempo-real-en)-waves-the-next-unlock-for-physical-ai/) humano el camino hacia robots más autónomos e intuitivos. Si este ensayo inicial demuestra una mejora tangible en el rendimiento de los modelos robóticos, podría marcar un punto de inflexión en la forma en que se entrena a la inteligencia artificial física.
+
+## Fuentes
+TechCrunch - https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/

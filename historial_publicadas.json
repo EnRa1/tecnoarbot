@@ -1,29 +1,5 @@
 [
   {
-    "titulo": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
-    "fecha": "2026-07-20T13:46:41.409186"
-  },
-  {
-    "titulo": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
-    "fecha": "2026-07-20T13:48:18.261652"
-  },
-  {
-    "titulo": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
-    "fecha": "2026-07-20T13:48:59.955682"
-  },
-  {
-    "titulo": "What to watch for after Jensen Huang’s Japan visit",
-    "fecha": "2026-07-20T13:50:51.362722"
-  },
-  {
-    "titulo": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-    "fecha": "2026-07-20T13:52:22.881255"
-  },
-  {
-    "titulo": "TechCrunch Mobility: The battle over robotaxi rules",
-    "fecha": "2026-07-20T13:54:41.884354"
-  },
-  {
     "titulo": "Judge pauses $110B Paramount-Warner Bros merger",
     "fecha": "2026-07-20T18:48:52.910593"
   },
@@ -162,5 +138,29 @@
   {
     "titulo": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
     "fecha": "2026-07-24T23:55:53.034417"
+  },
+  {
+    "titulo": "Snapchat now lets you share what you’re listening to in real time",
+    "fecha": "2026-07-27T14:08:45.555949"
+  },
+  {
+    "titulo": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+    "fecha": "2026-07-27T14:10:25.582115"
+  },
+  {
+    "titulo": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
+    "fecha": "2026-07-27T14:12:15.203538"
+  },
+  {
+    "titulo": "Are brain waves the next unlock for physical AI?",
+    "fecha": "2026-07-27T14:13:54.159479"
+  },
+  {
+    "titulo": "Can Apple make smart glasses that aren’t a constant privacy threat?",
+    "fecha": "2026-07-27T14:15:09.157940"
+  },
+  {
+    "titulo": "Making sense of the panic over Chinese AI",
+    "fecha": "2026-07-27T14:16:45.011711"
   }
 ]
