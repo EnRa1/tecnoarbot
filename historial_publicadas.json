@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Judge pauses $110B Paramount-Warner Bros merger",
-    "fecha": "2026-07-20T18:48:52.910593"
-  },
-  {
-    "titulo": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
-    "fecha": "2026-07-20T23:47:20.897382"
-  },
-  {
     "titulo": "Gritt exits stealth with $34 million for robots to build solar plants — then, everything else",
     "fecha": "2026-07-21T13:13:23.477806"
   },
@@ -174,5 +166,13 @@
   {
     "titulo": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
     "fecha": "2026-07-27T18:22:25.643512"
+  },
+  {
+    "titulo": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "fecha": "2026-07-27T23:54:56.985385"
+  },
+  {
+    "titulo": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
+    "fecha": "2026-07-27T23:57:13.350600"
   }
 ]
