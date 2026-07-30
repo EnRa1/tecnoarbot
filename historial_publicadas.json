@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-    "fecha": "2026-07-22T23:53:59.905264"
-  },
-  {
-    "titulo": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-    "fecha": "2026-07-23T13:22:52.640705"
-  },
-  {
     "titulo": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
     "fecha": "2026-07-23T13:24:49.481603"
   },
@@ -194,5 +186,29 @@
   {
     "titulo": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
     "fecha": "2026-07-29T23:53:21.232047"
+  },
+  {
+    "titulo": "Zoox clears final federal hurdle to launch paid robotaxi service",
+    "fecha": "2026-07-30T13:25:03.528110"
+  },
+  {
+    "titulo": "Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks",
+    "fecha": "2026-07-30T13:26:35.256290"
+  },
+  {
+    "titulo": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+    "fecha": "2026-07-30T13:27:57.153315"
+  },
+  {
+    "titulo": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+    "fecha": "2026-07-30T13:29:29.311039"
+  },
+  {
+    "titulo": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+    "fecha": "2026-07-30T13:30:50.649787"
+  },
+  {
+    "titulo": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+    "fecha": "2026-07-30T13:32:50.218724"
   }
 ]
