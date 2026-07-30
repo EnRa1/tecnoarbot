@@ -1,29 +1,5 @@
 [
   {
-    "titulo": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-    "fecha": "2026-07-23T13:24:49.481603"
-  },
-  {
-    "titulo": "Google justifies its massive AI spending with a booming cloud business",
-    "fecha": "2026-07-23T13:27:03.854111"
-  },
-  {
-    "titulo": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-    "fecha": "2026-07-23T13:28:22.060407"
-  },
-  {
-    "titulo": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
-    "fecha": "2026-07-23T13:30:26.470630"
-  },
-  {
-    "titulo": "Social media addiction lawsuit against Meta is dropped",
-    "fecha": "2026-07-23T13:32:30.145000"
-  },
-  {
-    "titulo": "US government says Iran-linked hackers are disrupting American water and energy providers",
-    "fecha": "2026-07-23T18:08:04.058553"
-  },
-  {
     "titulo": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
     "fecha": "2026-07-23T23:49:21.895445"
   },
@@ -210,5 +186,9 @@
   {
     "titulo": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
     "fecha": "2026-07-30T13:32:50.218724"
+  },
+  {
+    "titulo": "LinkedIn adds a button to report AI-generated ‘slop’",
+    "fecha": "2026-07-30T18:10:26.415942"
   }
 ]
