@@ -1,17 +1,5 @@
 [
   {
-    "titulo": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
-    "fecha": "2026-07-24T23:55:53.034417"
-  },
-  {
-    "titulo": "Snapchat now lets you share what you’re listening to in real time",
-    "fecha": "2026-07-27T14:08:45.555949"
-  },
-  {
-    "titulo": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
-    "fecha": "2026-07-27T14:10:25.582115"
-  },
-  {
     "titulo": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
     "fecha": "2026-07-27T14:12:15.203538"
   },
@@ -190,5 +178,29 @@
   {
     "titulo": "Siri AI could come with a paywall for power users",
     "fecha": "2026-07-31T18:18:18.368600"
+  },
+  {
+    "titulo": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+    "fecha": "2026-08-03T14:12:58.628054"
+  },
+  {
+    "titulo": "Samsung bans smart TV apps that share users’ internet connections with strangers",
+    "fecha": "2026-08-03T14:14:12.919293"
+  },
+  {
+    "titulo": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+    "fecha": "2026-08-03T14:16:10.594596"
+  },
+  {
+    "titulo": "The global memory shortage hits the MacBook Air",
+    "fecha": "2026-08-03T14:18:25.947503"
+  },
+  {
+    "titulo": "Sam Altman and AI’s decel debate",
+    "fecha": "2026-08-03T14:19:49.854559"
+  },
+  {
+    "titulo": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+    "fecha": "2026-08-03T14:21:41.869472"
   }
 ]
