@@ -1,33 +1,5 @@
 [
   {
-    "titulo": "DoorDash is building its own drone delivery business",
-    "fecha": "2026-07-29T13:43:16.816092"
-  },
-  {
-    "titulo": "Spotify adds a running mode to its app",
-    "fecha": "2026-07-29T13:45:20.660633"
-  },
-  {
-    "titulo": "Fast Metals is treating waste with more waste to extract critical minerals",
-    "fecha": "2026-07-29T13:48:01.757154"
-  },
-  {
-    "titulo": "As AI content floods the internet, Pangram raises $9M to detect it",
-    "fecha": "2026-07-29T13:49:41.410714"
-  },
-  {
-    "titulo": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-    "fecha": "2026-07-29T13:51:42.846223"
-  },
-  {
-    "titulo": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-    "fecha": "2026-07-29T13:53:02.582241"
-  },
-  {
-    "titulo": "Sorry, haters. Ferrari’s first EV is doing just fine",
-    "fecha": "2026-07-29T18:02:48.101556"
-  },
-  {
     "titulo": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
     "fecha": "2026-07-29T23:53:21.232047"
   },
@@ -186,5 +158,13 @@
   {
     "titulo": "AI makes weather prediction better. Can WindBorne make it lucrative?",
     "fecha": "2026-08-05T13:49:30.813777"
+  },
+  {
+    "titulo": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
+    "fecha": "2026-08-05T18:16:24.308730"
+  },
+  {
+    "titulo": "Lucid Motors just delayed its affordable EV. Now what?",
+    "fecha": "2026-08-05T18:17:50.583604"
   }
 ]
