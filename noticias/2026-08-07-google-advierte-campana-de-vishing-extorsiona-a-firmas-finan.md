@@ -1,0 +1,30 @@
+---
+titulo: "Google Advierte: Campaña de Vishing Extorsiona a Firmas Financieras, Exponiendo a Numerosas **Víctimas**"
+fecha: 2026-08-07
+keyword: victims
+---
+
+# Google Advierte: Campaña de Vishing Extorsiona a Firmas Financieras, Exponiendo a Numerosas **Víctimas**
+
+*Investigadores de seguridad de Google han revelado una sofisticada campaña de ciberataques dirigida a grandes firmas de inversión y financieras en Estados Unidos, donde los hackers emplean el 'vishing' para engañar a empleados y extorsionar a las **víctimas** con la amenaza de publicar datos sensibles.*
+
+La seguridad digital se enfrenta a una paradoja: mientras la inteligencia artificial impulsa ciberataques cada vez más autónomos, las técnicas de hacking más elementales y probadas, basadas en el engaño humano, continúan generando resultados alarmantes. Un informe reciente de Google subraya esta realidad al detallar una operación coordinada de grupos de hackers que se infiltran en importantes empresas financieras y de inversión en Estados Unidos. El objetivo es claro: robar información confidencial para extorsionar a las organizaciones afectadas bajo la amenaza de divulgar los datos.
+
+Google, a través de sus investigadores, identificó a estos grupos como Falcon, Helix, Pink y Redact, y los rastrea bajo el paraguas de una colectividad mayor denominada UNC6671. La compañía no ha divulgado los nombres específicos de las empresas comprometidas. No obstante, Reuters informó que entre las posibles **víctimas** se encuentran firmas de capital privado líderes como Apollo Global Management, Bain Capital, Blackstone, Bridgewater Associates, CME Group, KKR, Moody's y TPG. Portavoces de CME Group declinaron hacer comentarios, mientras que otras empresas mencionadas no respondieron a las solicitudes de información.
+
+## Vishing: La Táctica de Ingeniería Social Detrás de los Ataques a **Víctimas**
+
+La técnica principal empleada por estos ciberdelincuentes es una forma de phishing por voz, conocida como "vishing". Los atacantes realizan llamadas a los teléfonos móviles personales de los empleados, haciéndose pasar por compañeros de trabajo o personal de soporte técnico de TI. Durante estas conversaciones, intentan manipular a sus objetivos para que ingresen sus credenciales y códigos de autenticación multifactor en sitios web falsificados, diseñados para imitar las plataformas legítimas de las empresas. Esta estratagema demuestra que, a pesar de las robustas medidas de seguridad técnicas, el factor humano sigue siendo un eslabón crítico y vulnerable.
+
+El modus operandi no es nuevo, pero su aplicación a gran escala y la persistencia lo hacen notable. Anteriormente, estos grupos ya habían apuntado a grandes compañías en sectores como manufactura, bienes raíces, salud y seguros, así como a empresas de tecnología, transporte y hostelería. En esas ocasiones, su objetivo era sustraer propiedad intelectual valiosa, código fuente de software o datos sensibles de clientes VIP. La reciente concentración en organizaciones legales y financieras, especialmente aquellas involucradas en fusiones, adquisiciones, despliegue de capital y litigios, sugiere una estrategia deliberada para obtener acceso a datos corporativos de alto valor, maximizando así su capacidad de extorsión y la presión sobre las **víctimas**.
+
+## El Modelo de Extorsión y las Demandas a las **Víctimas** Corporativas
+
+Una vez que los hackers obtienen acceso a los datos, implementan un modelo de extorsión bien definido. Algunos de los grupos identificados por Google operan sitios web específicos donde publican información sobre sus ciberataques y amenazan con filtrar los datos robados. Este método busca presionar a las empresas **víctimas** para que paguen un rescate y evitar la exposición pública de su información confidencial. Un mensaje en uno de estos sitios, parafraseado por los investigadores, ilustra su enfoque: "Realizamos cada negociación en términos profesionales. La publicación de sus datos nunca es nuestra resolución preferida; es la consecuencia de la negativa a participar, la dilación deliberada o el incumplimiento de un acuerdo. Responda con prontitud y buena fe, y el asunto se resolverá sin más incidentes".
+
+Las demandas de rescate a las **víctimas** suelen oscilar entre 750.000 y 3 millones de dólares. Según Google, la efectividad de estos ataques se refleja en el flujo de dinero: una de las billeteras de criptomonedas asociada con estos grupos de hackers ha recibido aproximadamente 10 millones de dólares en bitcoin solo en los primeros meses de este año. La hipótesis de Google es que los diferentes grupos podrían formar parte de un colectivo más grande, operando múltiples "marcas" de extorsión pública. Esto permitiría compartimentar las operaciones, ocultar el volumen total de infracciones y aislar cualquier repercusión de las negociaciones, haciendo más difícil para las **víctimas** rastrear el alcance real de la amenaza.
+
+Esta situación subraya la necesidad crítica de fortalecer las defensas contra la ingeniería social y educar a los empleados para protegerse de convertirse en [víctimas](https://tecno.ar/2026-08-07-la-new-mexico-court-ordena-a-meta-pagar-942-millones-y-modif) de estas sofisticadas estafas. El modus operandi de estos grupos demuestra que, a pesar de los avances tecnológicos, las técnicas de engaño basadas en la manipulación humana siguen siendo altamente efectivas, dejando a un número creciente de [víctimas](https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-[victims](https://tecno.ar/2026-08-07-la-new-mexico-court-ordena-a-meta-pagar-942-millones-y-modif)/) corporativas en una situación vulnerable y con pérdidas financieras significativas. La vigilancia constante y la capacitación en ciberseguridad son esenciales para mitigar los riesgos frente a estas amenazas persistentes.
+
+## Fuentes
+TechCrunch - https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/
