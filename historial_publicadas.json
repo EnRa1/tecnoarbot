@@ -1,29 +1,5 @@
 [
   {
-    "titulo": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
-    "fecha": "2026-07-31T13:27:58.780677"
-  },
-  {
-    "titulo": "Anthropic says its own AI models breached three companies during security tests",
-    "fecha": "2026-07-31T13:29:29.469634"
-  },
-  {
-    "titulo": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "fecha": "2026-07-31T13:31:29.238359"
-  },
-  {
-    "titulo": "Reddit reports a solid quarter but shows signs of AI’s impact",
-    "fecha": "2026-07-31T13:33:16.772290"
-  },
-  {
-    "titulo": "Investors love AI, as long as you’re a cloud host",
-    "fecha": "2026-07-31T13:34:44.533173"
-  },
-  {
-    "titulo": "Apple says gaming slowdown and App Store changes hurt services growth",
-    "fecha": "2026-07-31T13:36:44.164641"
-  },
-  {
     "titulo": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
     "fecha": "2026-07-31T18:15:59.234994"
   },
@@ -186,5 +162,17 @@
   {
     "titulo": "Defense tech Hadrian raises $1.37B at $8B valuation",
     "fecha": "2026-08-07T12:45:13.704674"
+  },
+  {
+    "titulo": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "fecha": "2026-08-07T17:39:53.634327"
+  },
+  {
+    "titulo": "Computer maker Framework notifies ‘all customers’ of a data breach",
+    "fecha": "2026-08-07T17:41:09.137911"
+  },
+  {
+    "titulo": "Trump administration has spent nearly $4B to cancel offshore wind farms",
+    "fecha": "2026-08-07T17:43:14.849131"
   }
 ]
