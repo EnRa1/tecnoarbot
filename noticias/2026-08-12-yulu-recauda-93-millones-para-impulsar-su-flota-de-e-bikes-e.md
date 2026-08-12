@@ -1,0 +1,28 @@
+---
+titulo: "Yulu Recauda $93 Millones para Impulsar su Flota de E-bikes en el Auge del Quick-Commerce Indio"
+fecha: 2026-08-12
+keyword: yulu
+---
+
+# Yulu Recauda $93 Millones para Impulsar su Flota de E-bikes en el Auge del Quick-Commerce Indio
+
+*La startup india de movilidad eléctrica, **Yulu**, ha asegurado una inversión de 93 millones de dólares, marcando un hito en su expansión para satisfacer la creciente demanda de vehículos para el comercio rápido y la logística de última milla.*
+
+En un mercado indio donde las plataformas de quick-commerce compiten por entregar productos en minutos, la startup de movilidad eléctrica Yulu ha capitalizado este auge, cerrando una ronda de financiación de 93 millones de dólares. Con sede en Bengaluru, la empresa ofrece vehículos eléctricos de dos ruedas mediante planes de suscripción semanal, permitiendo a los trabajadores de la economía gig acceder rápidamente a oportunidades de entrega sin la necesidad de comprar sus propios vehículos. Actualmente, la flota de Yulu asciende a unos 50.000 vehículos, registrando aproximadamente 1,6 millones de millas de cero emisiones por semana y facilitando más de 750.000 entregas diarias.
+
+## Yulu se Impulsa con Capital y Expansión de Flota
+
+La reciente inyección de capital, una ronda de Serie C, incluye 63 millones de dólares en capital liderados por GEF Capital Partners y 30 millones de dólares en financiación de deuda. Aproximadamente 5,5 millones de dólares del componente de capital se utilizaron para adquirir acciones de inversores iniciales cuyos fondos estaban llegando al final de su ciclo de inversión. Fuentes cercanas al asunto indicaron a TechCrunch que la valoración de Yulu post-dinero se sitúa en unos 170 millones de dólares. El CEO y cofundador, Amit Gupta, optó por no comentar sobre la valoración, pero tampoco la desmintió.
+
+Según Gupta, inversores previos como Bajaj Auto y Magna International no participaron en esta ronda, renunciando a sus derechos preferentes para permitir que GEF alcanzara su participación deseada. La startup anticipa que esta será su última ronda de financiación de capital antes de una eventual salida a bolsa, proyectando que futuras expansiones de la flota se financiarán principalmente a través de deuda y arrendamiento. Yulu ya logró un EBITDA positivo el pasado año fiscal y se encamina a la rentabilidad antes de intereses e impuestos para el próximo año. Además, la compañía reportó un aumento de ingresos de siete veces entre los años fiscales 2023 y 2026, lo que refuerza su posición para la próxima fase.
+
+## De Compartir Bicicletas a Gigantes de la Logística Eléctrica con Yulu Express
+
+Fundada en 2017 como una startup de bicicletas compartidas para viajeros urbanos, Yulu encontró su mayor oportunidad de crecimiento durante la pandemia de COVID-19, cuando la demanda de entregas de alimentos y comestibles se disparó. Hoy, aproximadamente el 95% de los ingresos de la empresa provienen del alquiler de bicicletas eléctricas a trabajadores autónomos mediante suscripciones semanales, mientras que el resto se genera a través de su servicio de alquiler basado en estaciones en Bengaluru. La compañía también ha abandonado un plan anterior de vender bicicletas directamente a los consumidores.
+
+Para impulsar su próxima fase de crecimiento, Yulu está introduciendo un scooter eléctrico de tamaño completo y mayor velocidad, denominado Yulu Express. Este nuevo modelo está diseñado para entregas de e-commerce de mayor distancia, servicios de mototaxi y paquetería express, áreas que su flota más lenta no podía cubrir previamente. Alrededor de un tercio de la flota planificada de 200.000 vehículos estará compuesta por este nuevo modelo, que se fabrica en India por un proveedor distinto a Bajaj Auto, responsable de la flota actual de baja velocidad. Actualmente, 500 de los nuevos scooters [Yulu](https://tecno.ar/2026-08-12-startup-reservoir-levanta-8-millones-para-optimizar-el-uso-d) ya están operativos en Bengaluru y en fase de prueba en otras tres ciudades.
+
+La ambición de [Yulu](https://tecno.ar/2026-08-12-blacksmith-triplica-su-valoracion-a-550-millones-con-inyecci) es expandir su presencia. Actualmente, opera en 12 ciudades de la India, gestionando sus propias operaciones en Bengaluru, Mumbai, Delhi-NCR e Hyderabad, y colaborando con franquiciados en otros ocho mercados. El objetivo es alcanzar aproximadamente 20 ciudades en el próximo año, con Chennai y Pune como objetivos clave de expansión. [Yulu](https://tecno.ar/2026-08-11-bluesky-enfrenta-caida-de-usuarios-activos-mientras-impulsa-) colabora con casi todas las principales plataformas de quick-commerce, entrega de alimentos y comercio electrónico, incluidas Amazon y Flipkart, propiedad de Walmart, aunque sus clientes directos son los trabajadores de la economía gig que alquilan las bicicletas. Amit Gupta comparó el rol de Yulu con "el AWS de la movilidad", proporcionando la infraestructura que permite a los repartidores operar sin la intervención de proveedores de logística externos. Para más información sobre el financiamiento de startups en el sector tecnológico, puede consultar noticias como la de [Blacksmith que triplica su valoración](https://tecno.ar/2026-08-12-blacksmith-triplica-su-valoracion-a-550-millones-con-inyecci). Este nuevo impulso permitirá a [Yulu](https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/) consolidar su liderazgo en el segmento de la movilidad eléctrica para entregas.
+
+## Fuentes
+TechCrunch - https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/
