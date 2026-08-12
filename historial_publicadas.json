@@ -1,29 +1,5 @@
 [
   {
-    "titulo": "Disney+ looks to TikTok creators to bring fan content to its short-form video feed",
-    "fecha": "2026-08-05T13:40:58.901900"
-  },
-  {
-    "titulo": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-    "fecha": "2026-08-05T13:42:26.709702"
-  },
-  {
-    "titulo": "Robinhood to list a fund that lets anyone back Y Combinator startups",
-    "fecha": "2026-08-05T13:43:19.709623"
-  },
-  {
-    "titulo": "Indian EV startup River raises $120M Series C to scale production, launch more models",
-    "fecha": "2026-08-05T13:45:29.033232"
-  },
-  {
-    "titulo": "Saudi Aramco backs India’s Mitti Labs to make Asia’s rice farming more water-resilient",
-    "fecha": "2026-08-05T13:47:09.868649"
-  },
-  {
-    "titulo": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-    "fecha": "2026-08-05T13:49:30.813777"
-  },
-  {
     "titulo": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
     "fecha": "2026-08-05T18:16:24.308730"
   },
@@ -182,5 +158,13 @@
   {
     "titulo": "Uber surprised robotics company Serve by selling its entire stake",
     "fecha": "2026-08-12T12:56:35.409828"
+  },
+  {
+    "titulo": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+    "fecha": "2026-08-12T17:50:05.530508"
+  },
+  {
+    "titulo": "Uber Freight reportedly investigating after hacking group claims data breach",
+    "fecha": "2026-08-12T17:50:45.104485"
   }
 ]
