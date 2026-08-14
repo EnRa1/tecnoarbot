@@ -1,37 +1,5 @@
 [
   {
-    "titulo": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-    "fecha": "2026-08-07T12:38:05.154541"
-  },
-  {
-    "titulo": "New Mexico court orders Meta to pay additional $567M in child safety case",
-    "fecha": "2026-08-07T12:39:56.164066"
-  },
-  {
-    "titulo": "Google says hackers are calling financial firm employees to hack and extort victims",
-    "fecha": "2026-08-07T12:42:40.337023"
-  },
-  {
-    "titulo": "China-linked LightSpy spyware caught targeting victims in 13 countries, including the US",
-    "fecha": "2026-08-07T12:44:33.437177"
-  },
-  {
-    "titulo": "Defense tech Hadrian raises $1.37B at $8B valuation",
-    "fecha": "2026-08-07T12:45:13.704674"
-  },
-  {
-    "titulo": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "fecha": "2026-08-07T17:39:53.634327"
-  },
-  {
-    "titulo": "Computer maker Framework notifies ‘all customers’ of a data breach",
-    "fecha": "2026-08-07T17:41:09.137911"
-  },
-  {
-    "titulo": "Trump administration has spent nearly $4B to cancel offshore wind farms",
-    "fecha": "2026-08-07T17:43:14.849131"
-  },
-  {
     "titulo": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
     "fecha": "2026-08-10T12:42:53.070775"
   },
@@ -174,5 +142,13 @@
   {
     "titulo": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
     "fecha": "2026-08-14T12:44:25.564871"
+  },
+  {
+    "titulo": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
+    "fecha": "2026-08-14T17:44:50.332488"
+  },
+  {
+    "titulo": "Google will now allow users to remove visible watermark from its AI generations",
+    "fecha": "2026-08-14T17:45:48.868302"
   }
 ]
