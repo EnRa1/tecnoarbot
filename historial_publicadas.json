@@ -1,9 +1,5 @@
 [
   {
-    "titulo": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-    "fecha": "2026-08-10T17:44:21.019573"
-  },
-  {
     "titulo": "Jeff Bezos might finally get his hands on a sports team",
     "fecha": "2026-08-10T23:25:24.158435"
   },
@@ -158,5 +154,9 @@
   {
     "titulo": "Amazon, which started off selling books, is destroying rare texts to train AI",
     "fecha": "2026-08-17T17:19:32.276432"
+  },
+  {
+    "titulo": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+    "fecha": "2026-08-17T23:12:30.821625"
   }
 ]
