@@ -1,29 +1,5 @@
 [
   {
-    "titulo": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-    "fecha": "2026-08-10T12:42:53.070775"
-  },
-  {
-    "titulo": "Google Play adds Venmo as a payment option",
-    "fecha": "2026-08-10T12:44:42.613221"
-  },
-  {
-    "titulo": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-    "fecha": "2026-08-10T12:46:35.559365"
-  },
-  {
-    "titulo": "Anthropic is turning Claude Code’s auto mode on by default",
-    "fecha": "2026-08-10T12:47:53.475004"
-  },
-  {
-    "titulo": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
-    "fecha": "2026-08-10T12:49:09.065324"
-  },
-  {
-    "titulo": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-    "fecha": "2026-08-10T12:51:08.790629"
-  },
-  {
     "titulo": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
     "fecha": "2026-08-10T17:44:21.019573"
   },
@@ -174,5 +150,13 @@
   {
     "titulo": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
     "fecha": "2026-08-17T12:28:30.532935"
+  },
+  {
+    "titulo": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
+    "fecha": "2026-08-17T17:17:42.857200"
+  },
+  {
+    "titulo": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "fecha": "2026-08-17T17:19:32.276432"
   }
 ]
