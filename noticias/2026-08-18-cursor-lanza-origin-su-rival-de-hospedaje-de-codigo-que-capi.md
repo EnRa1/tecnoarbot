@@ -1,0 +1,26 @@
+---
+titulo: "Cursor Lanza Origin, su Rival de Hospedaje de Código que Capitaliza la Frustración con GitHub"
+fecha: 2026-08-18
+keyword: github
+---
+
+# Cursor Lanza Origin, su Rival de Hospedaje de Código que Capitaliza la Frustración con GitHub
+
+*La startup de IA, parte de SpaceX, presenta Origin, una nueva plataforma de colaboración para desarrolladores que busca posicionarse como una alternativa interoperable a GitHub, en un momento de crecientes problemas de rendimiento y estabilidad para el gigante del hospedaje de código.*
+
+En el panorama actual del desarrollo de software, GitHub ha sido, durante mucho tiempo, la plataforma dominante para el alojamiento de código, utilizada por la mayoría de los desarrolladores a nivel global. Sin embargo, en los últimos tiempos, el servicio ha enfrentado desafíos significativos, incluyendo interrupciones generalizadas y una degradación del rendimiento que han generado frustración en su comunidad de usuarios. En este contexto, la startup de inteligencia artificial Cursor, ahora parte de SpaceX, ha lanzado Origin, una nueva plataforma de hospedaje de código diseñada para satisfacer las necesidades de colaboración, edición y gestión de repositorios.
+
+Origin se presenta como un paso natural para Cursor, cuya actividad principal hasta ahora se centraba en la prestación de servicios de desarrollo web automatizados a través de su editor de código basado en IA. La plataforma no solo busca replicar las funcionalidades esenciales que los desarrolladores esperan de un sistema de alojamiento de código —como el trabajo colaborativo en bases de código, la navegación y edición, y la gestión de pull requests— sino que también planea introducir características "agent native" y desarrollar un ecosistema de aplicaciones más amplio para apoyar los esfuerzos de codificación dentro de Origin. Un aspecto distintivo de Origin es su diseño interoperable, que permite a los desarrolladores utilizar la plataforma en conjunto con GitHub, sincronizando y transfiriendo código entre ambas sin problemas. "Tus repositorios de GitHub pueden coexistir con los que aloja Cursor", explica la compañía en su blog, subrayando la facilidad para conectar y sincronizar organizaciones y repositorios existentes.
+
+## Origin: Una Nueva Propuesta para la Gestión Colaborativa de Código frente a GitHub
+
+El lanzamiento de Origin no es casual, ya que coincide con un período de descontento creciente por la calidad del servicio de GitHub. De hecho, el mismo día en que Cursor presentó su nueva plataforma, GitHub sufrió una interrupción significativa a nivel mundial, que afectó sus funciones durante más de seis horas y reportó una tasa de error cercana al 20%. Este incidente no es un hecho aislado; a principios de año, la plataforma ya había anunciado nuevas medidas para mitigar la insatisfacción de los desarrolladores tras una serie de problemas de disponibilidad. Un análisis reciente de LeadDev, citado por TechCrunch, indica que GitHub ha experimentado 257 interrupciones en el último año, lo que ha llevado, según LeadDev, a un "éxodo visible de usuarios de alto perfil". Esta situación crea un escenario propicio para la aparición de alternativas que ofrezcan mayor estabilidad.
+
+## Las Constantes Interrupciones de GitHub Impulsan la Búsqueda de Alternativas
+
+A pesar de los desafíos actuales, GitHub mantiene una posición dominante en el mercado. Fundada en 2007 y adquirida por Microsoft en 2012, la plataforma reportó contar con aproximadamente 180 millones de desarrolladores activos en octubre del año pasado, consolidándose como el mayor anfitrión de código fuente del mundo. Este dato resalta la magnitud del desafío que Cursor asume con Origin. La competencia en este sector es intensa, y aunque las interrupciones pueden erosionar la confianza, la inercia de una base de usuarios tan vasta es considerable. La apuesta de Cursor por la interoperabilidad podría ser clave para atraer a desarrolladores que, si bien están frustrados, no desean abandonar por completo sus flujos de trabajo existentes en [GitHub](https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/).
+
+El futuro de la gestión de código podría ver un aumento en la diversidad de plataformas, especialmente con el auge de las soluciones de inteligencia artificial. Mientras que algunas startups en el ámbito de la automatización con IA han enfrentado cierres recientes, como Relay, la entrada de empresas como Cursor, con el respaldo de SpaceX, sugiere un interés continuo en innovar en este espacio. La capacidad de Origin para integrar funciones de IA y su enfoque en la colaboración podría ofrecer una ventaja competitiva. Sin embargo, el camino para desafiar el reinado de [GitHub](https://tecno.ar/2026-08-17-relay-la-startup-de-automatizacion-con-ia-cierra-mientras-su) será largo, dada la infraestructura y la comunidad que ha construido a lo largo de los años. Los desarrolladores ahora tienen una nueva opción que promete más estabilidad y características avanzadas, y será interesante observar cómo la dinámica del mercado evoluciona en los próximos meses.
+
+## Fuentes
+TechCrunch - https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/
