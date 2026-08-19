@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-    "fecha": "2026-08-12T17:50:05.530508"
-  },
-  {
-    "titulo": "Uber Freight reportedly investigating after hacking group claims data breach",
-    "fecha": "2026-08-12T17:50:45.104485"
-  },
-  {
     "titulo": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
     "fecha": "2026-08-12T23:33:37.492683"
   },
@@ -162,5 +154,9 @@
   {
     "titulo": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
     "fecha": "2026-08-19T17:20:28.504538"
+  },
+  {
+    "titulo": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "fecha": "2026-08-19T23:15:17.800630"
   }
 ]
