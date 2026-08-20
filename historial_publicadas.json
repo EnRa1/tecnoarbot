@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "OpenAI hires new CRO as executive shake-up continues",
-    "fecha": "2026-08-13T17:48:29.936617"
-  },
-  {
-    "titulo": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
-    "fecha": "2026-08-13T17:50:20.057134"
-  },
-  {
     "titulo": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
     "fecha": "2026-08-13T23:33:01.528038"
   },
@@ -150,5 +142,13 @@
   {
     "titulo": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
     "fecha": "2026-08-20T12:41:11.306279"
+  },
+  {
+    "titulo": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "fecha": "2026-08-20T23:16:45.902260"
+  },
+  {
+    "titulo": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+    "fecha": "2026-08-20T23:18:54.447336"
   }
 ]
