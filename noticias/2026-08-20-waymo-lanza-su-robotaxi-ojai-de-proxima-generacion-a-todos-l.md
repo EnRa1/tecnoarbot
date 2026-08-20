@@ -1,0 +1,28 @@
+---
+titulo: "Waymo Lanza su Robotaxi Ojai de Próxima Generación a Todos los Usuarios en Tres Ciudades Clave"
+fecha: 2026-08-20
+keyword: waymo
+---
+
+# Waymo Lanza su Robotaxi Ojai de Próxima Generación a Todos los Usuarios en Tres Ciudades Clave
+
+*La compañía de Alphabet, **Waymo**, ha dado un paso significativo al poner a disposición de todos los usuarios en Los Ángeles, Phoenix y San Francisco su robotaxi Ojai, marcando una nueva era para su servicio de vehículos autónomos diseñado para ser más económico y sostenible.*
+
+## La Nueva Generación de Robotaxis Waymo: El Ojai
+
+Waymo, la reconocida filial de Alphabet especializada en tecnología de conducción autónoma, ha marcado un hito significativo al lanzar oficialmente su robotaxi de próxima generación, denominado Ojai, para todos los usuarios en Los Ángeles, Phoenix y San Francisco. Este despliegue representa un paso crucial en la estrategia de la compañía para expandir su flota con vehículos que son más económicos de fabricar, operar y mantener.
+
+Actualmente, los clientes en estas tres ciudades pueden ser asignados al nuevo robotaxi Ojai cuando solicitan un viaje. Sin embargo, una vez que Waymo acumule suficientes unidades de Ojai en su flota comercial, se ofrecerá a los pasajeros la opción de elegir entre el innovador Ojai y el robotaxi Jaguar I-Pace, que ha servido como base para la flota durante años. Según un portavoz de la empresa, la flota comercial de Waymo cuenta ya con aproximadamente 300 robotaxis Ojai. La compañía ha estado utilizando el Jaguar I-Pace eléctrico modificado en 11 ciudades de EE. UU. Este modelo, con su distintivo color blanco y múltiples sensores, se ha vuelto familiar en mercados como San Francisco, pero ha sido considerado una solución provisional en la ambición a largo plazo de Waymo de alcanzar una escala masiva y, en última instancia, la rentabilidad. El robotaxi Ojai busca concretar esta visión de negocio y eficiencia.
+
+## Innovación y Estrategia de Expansión de Waymo
+
+El Waymo Ojai está equipado con la sexta generación del sistema de autoconducción de la empresa, una característica vital para su estrategia comercial. Este sistema es modular, lo que le permite adaptarse a diversos tipos de vehículos, garantizando flexibilidad y escalabilidad. Además, el Ojai incorpora una interfaz de usuario rediseñada y la inteligencia artificial Gemini de Google, que funciona como un asistente a bordo para los pasajeros, mejorando la experiencia del usuario.
+
+En cuanto a su construcción, el Ojai es una minivan fabricada por Zeekr, una marca propiedad del gigante chino Geely Holding Group. La colaboración entre Waymo y Zeekr se estableció en 2021, y desde entonces se han invertido años en la fase de pruebas de prototipos y, posteriormente, de una versión destinada a la producción. El vehículo se basa en la plataforma SEA-M de Zeekr, una versión actualizada de la "Sustainable Experience Architecture" del fabricante, diseñada específicamente para vehículos como robotaxis y furgonetas de reparto. El objetivo principal de este diseño fue crear un robotaxi atractivo y accesible para los usuarios, pero al mismo tiempo económico en su construcción y mantenimiento, y lo suficientemente duradero para soportar un uso casi constante. Aunque el Ojai cumple con muchos de estos objetivos, los aranceles sobre los vehículos importados han incrementado los costos. La política comercial actual de Estados Unidos impone fuertes aranceles a los vehículos fabricados en China, lo que eleva el costo para [Waymo](https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/) por cada unidad de Ojai que ingresa al país. Es importante señalar que los vehículos base de Zeekr se envían sin ninguna tecnología china de vehículos conectados. Una vez en EE. UU., son transportados a la fábrica de [Waymo](https://tecno.ar/2026-08-20-stripe-realiza-una-audaz-apuesta-por-la-ia-con-la-adquisicio) en Arizona, donde se les instala el sistema de autoconducción. Mirando hacia el futuro, la empresa anunció que planea implementar el Ojai en Denver, Las Vegas y San Diego a finales de este mismo año, consolidando aún más la presencia de [Waymo](https://tecno.ar/2026-08-20-binance-lanza-agent-os-la-inteligencia-artificial-autonomica) en el mercado de la movilidad autónoma.
+
+## La Escala del Despliegue de Waymo y Proyecciones Futuras
+
+El ritmo de expansión de [Waymo](https://tecno.ar/2026-08-20-meta-ai-desembarca-en-mac-con-app-dedicada-para-dictado-y-he) con el Ojai es notable. Según MoffettNathanson, una firma de investigación con sede en Nueva York que rastrea las importaciones de Ojai mediante el análisis de recibos detallados de bienes enviados, la compañía está en camino de traer 5,000 vehículos Ojai a Estados Unidos para finales de 2026. Esta cifra representaría más del doble de la flota actual de Jaguar de Waymo, según los datos de la firma. Solo en el mes de julio, 725 vehículos Ojai ingresaron al país, lo que subraya la magnitud y la celeridad de los esfuerzos de expansión de Waymo. Este ambicioso despliegue es fundamental para que la visión de los robotaxis como un servicio de transporte masivo y eficiente se haga realidad, con [Waymo](https://tecno.ar/2026-08-20-stripe-realiza-una-audaz-apuesta-por-la-ia-con-la-adquisicio) posicionándose como un líder clave en esta transformación, en un contexto de crecientes inversiones en inteligencia artificial por parte de grandes actores tecnológicos.
+
+## Fuentes
+TechCrunch - https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/
