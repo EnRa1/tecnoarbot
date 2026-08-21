@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Expertos en Ciberseguridad Fueron **Targeted** con Falsa Conferencia Crypto",
+    "url": "https://tecno.ar/2026-08-21-expertos-en-ciberseguridad-fueron-targeted-con-falsa-confere",
+    "tema": "targeted"
+  },
+  {
+    "titulo": "Agua Reciclada: La Solución Sostenible para Enfriar Centros de **Data** de IA",
+    "url": "https://tecno.ar/2026-08-21-agua-reciclada-la-solucion-sostenible-para-enfriar-centros-d",
+    "tema": "data"
+  },
+  {
+    "titulo": "Los Enhanced Games Reportan Pérdidas Millonarias Tras un Debut Decepcionante",
+    "url": "https://tecno.ar/2026-08-21-los-enhanced-games-reportan-perdidas-millonarias-tras-un-deb",
+    "tema": "games"
+  },
+  {
+    "titulo": "Sasha Orloff de Puzzle Revela **Qué** Buscan los Inversores en Fundadores Tech",
+    "url": "https://tecno.ar/2026-08-21-sasha-orloff-de-puzzle-revela-que-buscan-los-inversores-en-f",
+    "tema": "what"
+  },
+  {
+    "titulo": "La Explosiva Demanda de **Data** Impulsa el Crecimiento de Startups de Entrenamiento IA",
+    "url": "https://tecno.ar/2026-08-21-la-explosiva-demanda-de-data-impulsa-el-crecimiento-de-start",
+    "tema": "data"
+  },
+  {
+    "titulo": "Nevada Abre sus Puertas a Miles de Robotaxis de Tesla, Uber y Waymo",
+    "url": "https://tecno.ar/2026-08-21-nevada-abre-sus-puertas-a-miles-de-robotaxis-de-tesla-uber-y",
+    "tema": "robotaxis"
+  },
+  {
     "titulo": "ChatGPT Ahora Permite Enviar Mensajes de Apple, Conectando Tu Inbox con IA",
     "url": "https://tecno.ar/2026-08-20-chatgpt-ahora-permite-enviar-mensajes-de-apple-conectando-tu",
     "tema": "chatgpt"
@@ -968,35 +998,5 @@
     "titulo": "U.S. District Judge Frena Temporalmente la Megafusión de Paramount y Warner Bros. Discovery",
     "url": "https://tecno.ar/2026-07-20-us-district-judge-frena-temporalmente-la-megafusion-de-param",
     "tema": "judge"
-  },
-  {
-    "titulo": "La Batalla Regulatoria de Robotaxis en D.C. y la Expansión Gigante de Uber, según TechCrunch",
-    "url": "https://tecno.ar/2026-07-20-la-batalla-regulatoria-de-robotaxis-en-dc-y-la-expansion-gig",
-    "tema": "techcrunch"
-  },
-  {
-    "titulo": "Apple Demanda a OpenAI por Robo de Secretos Comerciales en Pleno Auge de sus Planes de Hardware",
-    "url": "https://tecno.ar/2026-07-20-apple-demanda-a-openai-por-robo-de-secretos-comerciales-en-p",
-    "tema": "openai"
-  },
-  {
-    "titulo": "Nvidia Impulsa a Japón como Centro Global de la IA Física",
-    "url": "https://tecno.ar/2026-07-20-nvidia-impulsa-a-japon-como-centro-global-de-la-ia-fisica",
-    "tema": "japan"
-  },
-  {
-    "titulo": "Netflix Desembolsa $587 Millones por la Startup de IA de Ben Affleck",
-    "url": "https://tecno.ar/2026-07-20-netflix-desembolsa-587-millones-por-la-startup-de-ia-de-ben-",
-    "tema": "affleck"
-  },
-  {
-    "titulo": "StrictlyVC Regresa a Nueva York para Celebrar un Año Monumental en el Ecosistema Startup",
-    "url": "https://tecno.ar/2026-07-20-strictlyvc-regresa-a-nueva-york-para-celebrar-un-ano-monumen",
-    "tema": "strictlyvc"
-  },
-  {
-    "titulo": "Hugging Face Confirma Brecha de Seguridad que Afectó sus Datasets Internos y Credenciales",
-    "url": "https://tecno.ar/2026-07-20-hugging-face-confirma-brecha-de-seguridad-que-afecto-sus-dat",
-    "tema": "datasets"
   }
 ]
