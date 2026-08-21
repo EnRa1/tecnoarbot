@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
-    "fecha": "2026-08-14T12:39:02.814444"
-  },
-  {
-    "titulo": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-    "fecha": "2026-08-14T12:44:25.564871"
-  },
-  {
     "titulo": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
     "fecha": "2026-08-14T17:44:50.332488"
   },
@@ -170,5 +162,13 @@
   {
     "titulo": "Someone targeted security researchers using a fake crypto conference as a lure",
     "fecha": "2026-08-21T12:35:06.264613"
+  },
+  {
+    "titulo": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
+    "fecha": "2026-08-21T17:19:56.864237"
+  },
+  {
+    "titulo": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "fecha": "2026-08-21T17:25:31.383913"
   }
 ]
