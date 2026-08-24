@@ -1,29 +1,5 @@
 [
   {
-    "titulo": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-    "fecha": "2026-08-17T12:23:04.400084"
-  },
-  {
-    "titulo": "TechCrunch Mobility: The shifting flight path of electric air taxis",
-    "fecha": "2026-08-17T12:24:15.999262"
-  },
-  {
-    "titulo": "How to take better photos of your pets",
-    "fecha": "2026-08-17T12:26:29.721695"
-  },
-  {
-    "titulo": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-    "fecha": "2026-08-17T12:28:30.532935"
-  },
-  {
-    "titulo": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
-    "fecha": "2026-08-17T17:17:42.857200"
-  },
-  {
-    "titulo": "Amazon, which started off selling books, is destroying rare texts to train AI",
-    "fecha": "2026-08-17T17:19:32.276432"
-  },
-  {
     "titulo": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
     "fecha": "2026-08-17T23:12:30.821625"
   },
@@ -178,5 +154,13 @@
   {
     "titulo": "Is it legal to train AI models on copyrighted books? It’s complicated",
     "fecha": "2026-08-24T12:32:02.565494"
+  },
+  {
+    "titulo": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "fecha": "2026-08-24T17:22:20.142229"
+  },
+  {
+    "titulo": "OpenAI is building AI agents for everything. Will everyone use them?",
+    "fecha": "2026-08-24T17:23:59.146425"
   }
 ]

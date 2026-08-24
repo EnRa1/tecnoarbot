@@ -1,5 +1,15 @@
 [
   {
+    "titulo": "OpenAI Lanza \"ChatGPT Work\": Agentes de IA Para Todas las Profesiones",
+    "url": "https://tecno.ar/2026-08-24-openai-lanza-chatgpt-work-agentes-de-ia-para-todas-las-profe",
+    "tema": "openai"
+  },
+  {
+    "titulo": "General Intuition Aspira a $6 Mil Millones para Impulsar su IA General",
+    "url": "https://tecno.ar/2026-08-24-general-intuition-aspira-a-6-mil-millones-para-impulsar-su-i",
+    "tema": "general"
+  },
+  {
     "titulo": "La Compleja Legalidad del Entrenamiento de **Models** de IA con Obras Protegidas",
     "url": "https://tecno.ar/2026-08-24-la-compleja-legalidad-del-entrenamiento-de-models-de-ia-con-",
     "tema": "models"
@@ -988,15 +998,5 @@
     "titulo": "WhatsApp se Renueva: Más allá del Móvil con CarPlay, iPad y Novedades Multimedia",
     "url": "https://tecno.ar/2026-07-22-whatsapp-se-renueva-mas-alla-del-movil-con-carplay-ipad-y-no",
     "tema": "whatsapp"
-  },
-  {
-    "titulo": "Passionfroot Recauda $15M para Impulsar su Mercado de Creadores B2B en EE. UU. y LATAM",
-    "url": "https://tecno.ar/2026-07-22-passionfroot-recauda-15m-para-impulsar-su-mercado-de-creador",
-    "tema": "passionfroot"
-  },
-  {
-    "titulo": "Centros de Data Proyectan Un Consumo Eléctrico Cuádruple para 2035 Impulsado por la IA",
-    "url": "https://tecno.ar/2026-07-21-centros-de-data-proyectan-un-consumo-electrico-cuadruple-par",
-    "tema": "data"
   }
 ]

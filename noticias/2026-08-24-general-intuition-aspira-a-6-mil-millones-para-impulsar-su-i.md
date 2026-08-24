@@ -1,0 +1,26 @@
+---
+titulo: "General Intuition Aspira a $6 Mil Millones para Impulsar su IA General"
+fecha: 2026-08-24
+keyword: general
+---
+
+# General Intuition Aspira a $6 Mil Millones para Impulsar su IA General
+
+*La startup neoyorquina General Intuition, que construye un modelo fundacional para entrenar agentes de IA **general** capaces de operar en el espacio y el tiempo, está en conversaciones para levantar una ronda de financiación que la valuaría en $6 mil millones antes de la inversión, según informa TechCrunch.*
+
+La startup de inteligencia artificial General Intuition, con sede en Nueva York, se encuentra en avanzadas negociaciones para asegurar una significativa ronda de financiación. El acuerdo, que según fuentes familiarizadas con el asunto podría valorar a la compañía en $6 mil millones antes de la inversión, atrae a nuevos inversores de alto perfil como Valor Equity Partners, Point72 Ventures y Seven Seven Six. A ellos se sumarían inversores actuales, entre los que se destacan Khosla Ventures y General Catalyst. Esta potencial inyección de capital, reportada por TechCrunch, se produce solo semanas después de que General Intuition cerrara una ronda previa de $320 millones a una valoración de $2.3 mil millones, confirmando su rápido ascenso como una de las startups más relevantes en el ámbito de la IA física.
+
+General Intuition se distingue por su enfoque en el desarrollo de un modelo fundacional diseñado para entrenar agentes de IA **general** que puedan navegar y actuar en el espacio y el tiempo. La empresa planea utilizar estos nuevos fondos para fortalecer y perfeccionar su modelo fundacional, poniendo un énfasis particular en la implementación robótica. Esto implica una inversión considerable en la expansión de su infraestructura de computación, aprovechando su colaboración estratégica con neolab CoreWeave, además de la contratación de talento altamente cualificado para impulsar sus proyectos. Este giro hacia la robótica es crucial para la visión de la compañía de una IA que no solo procesa datos, sino que también interactúa con el mundo físico de manera autónoma.
+
+## Del Gaming a la Inteligencia Artificial Generalizada
+
+La génesis de General Intuition se remonta a octubre pasado, cuando fue escindida de Medal, una plataforma de intercambio de clips de videojuegos, por su fundador y CEO, Pim de Witte. La compañía aprovechó la vasta base de datos de Medal, compuesta por cientos de millones de horas de juego y "etiquetas de acción" –registros precisos de los comandos y movimientos de los jugadores–, como su conjunto de datos inicial para el entrenamiento. Este innovador uso de datos de videojuegos ha sido un factor clave para atraer a inversores de la talla de Vinod Khosla. Según declaraciones recogidas por TechCrunch, Khosla sostiene que estas etiquetas de acción son fundamentales para la "emergencia de la intuición", es decir, la capacidad de un modelo de IA para la [generalización](https://tecno.ar/2026-08-24-la-compleja-legalidad-del-entrenamiento-de-models-de-ia-con-) de tareas que no fueron explícitamente programadas o entrenadas, marcando un hito hacia una inteligencia **general**.
+
+## Inversores Clave Respalden el Futuro de la IA General
+
+El interés de Valor Equity Partners en General Intuition es particularmente notable. Este fondo es reconocido por su temprano apoyo a empresas disruptivas como SpaceX, y esta sería su primera inversión en un laboratorio de IA desde entonces, según TechCrunch. Este movimiento resalta la creciente confianza de los grandes inversores en el potencial transformador de la inteligencia artificial y sus aplicaciones en el mundo real. La ronda de financiación, aunque aún no está cerrada, ya se considera sobresuscrita, lo que indica un fuerte y continuo interés por parte de la comunidad inversora en el enfoque de la startup. [General](https://tecno.ar/2026-08-24-la-compleja-legalidad-del-entrenamiento-de-models-de-ia-con-) Intuition sigue recibiendo propuestas, lo que podría incluso elevar la valoración final.
+
+La ambición de crear una inteligencia que demuestre una capacidad de [[general](https://tecno.ar/2026-08-24-flock-safety-ceo-pide-un-compromise-ante-la-creciente-polemi)ización](https://techcrunch.com/2026/08/24/valor-point72-back-[general](https://tecno.ar/2026-08-24-waymo-potencia-sus-robotaxis-ojai-con-chip-personalizado-de-)-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/) y adaptación a una amplia gama de contextos es uno de los objetivos más perseguidos en el campo de la IA. La incursión de General Intuition en la robótica, impulsada por esta nueva financiación, podría acelerar significativamente el desarrollo de sistemas autónomos capaces de percibir, razonar y actuar en entornos complejos. Estos avances no solo tienen el potencial de revolucionar la automatización industrial y la logística, sino también de abrir nuevas fronteras en la interacción humano-máquina y los servicios personalizados. Para explorar otros desarrollos en robótica y autonomía, como los vehículos autónomos, se puede consultar cómo [Waymo potencia sus robotaxis Ojai](https://tecno.ar/2026-08-24-waymo-potencia-sus-robotaxis-ojai-con-chip-personalizado-de-) con tecnología avanzada.
+
+## Fuentes
+TechCrunch - https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/
