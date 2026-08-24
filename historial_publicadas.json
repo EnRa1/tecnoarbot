@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-    "fecha": "2026-08-17T12:20:43.291485"
-  },
-  {
-    "titulo": "Why people aren’t buying Mark Zuckerberg’s AI future",
-    "fecha": "2026-08-17T12:21:54.629764"
-  },
-  {
     "titulo": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
     "fecha": "2026-08-17T12:23:04.400084"
   },
@@ -162,5 +154,29 @@
   {
     "titulo": "Starcloud raises $250 million for orbital data centers as launch options dry up",
     "fecha": "2026-08-21T17:25:31.383913"
+  },
+  {
+    "titulo": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+    "fecha": "2026-08-24T12:24:33.433096"
+  },
+  {
+    "titulo": "Uber faces fine of nearly $1B over automated driver suspensions",
+    "fecha": "2026-08-24T12:26:21.481629"
+  },
+  {
+    "titulo": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "fecha": "2026-08-24T12:27:29.437214"
+  },
+  {
+    "titulo": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+    "fecha": "2026-08-24T12:28:30.925836"
+  },
+  {
+    "titulo": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+    "fecha": "2026-08-24T12:30:25.612344"
+  },
+  {
+    "titulo": "Is it legal to train AI models on copyrighted books? It’s complicated",
+    "fecha": "2026-08-24T12:32:02.565494"
   }
 ]

@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "La Compleja Legalidad del Entrenamiento de **Models** de IA con Obras Protegidas",
+    "url": "https://tecno.ar/2026-08-24-la-compleja-legalidad-del-entrenamiento-de-models-de-ia-con-",
+    "tema": "models"
+  },
+  {
+    "titulo": "Flock Safety CEO Pide un Compromise Ante la Creciente Polémica por Vigilancia",
+    "url": "https://tecno.ar/2026-08-24-flock-safety-ceo-pide-un-compromise-ante-la-creciente-polemi",
+    "tema": "compromise"
+  },
+  {
+    "titulo": "Waymo Potencia sus Robotaxis Ojai con Chip Personalizado de 5nm, Destaca TechCrunch Mobility",
+    "url": "https://tecno.ar/2026-08-24-waymo-potencia-sus-robotaxis-ojai-con-chip-personalizado-de-",
+    "tema": "techcrunch"
+  },
+  {
+    "titulo": "Linkdaze Lanza un Smart Calendar Diseñado para Organizar Todo el Hogar",
+    "url": "https://tecno.ar/2026-08-24-linkdaze-lanza-un-smart-calendar-disenado-para-organizar-tod",
+    "tema": "calendar"
+  },
+  {
+    "titulo": "Uber Enfrenta Multa de Casi Mil Millones de Dólares por Decisiones Automatizadas de Suspensión",
+    "url": "https://tecno.ar/2026-08-24-uber-enfrenta-multa-de-casi-mil-millones-de-dolares-por-deci",
+    "tema": "uber"
+  },
+  {
+    "titulo": "El Misterioso Modelo de IA Ox Alpha Desencadena Especulaciones Globales",
+    "url": "https://tecno.ar/2026-08-24-el-misterioso-modelo-de-ia-ox-alpha-desencadena-especulacion",
+    "tema": "model"
+  },
+  {
     "titulo": "Starcloud Recauda Otros $250 Millones para sus Centros de Datos Orbitales",
     "url": "https://tecno.ar/2026-08-21-starcloud-recauda-otros-250-millones-para-sus-centros-de-dat",
     "tema": "starcloud"
@@ -968,35 +998,5 @@
     "titulo": "Centros de Data Proyectan Un Consumo Eléctrico Cuádruple para 2035 Impulsado por la IA",
     "url": "https://tecno.ar/2026-07-21-centros-de-data-proyectan-un-consumo-electrico-cuadruple-par",
     "tema": "data"
-  },
-  {
-    "titulo": "X Relanza su Aplicación Android Reconstruida Tras Un Año de Desarrollo",
-    "url": "https://tecno.ar/2026-07-21-x-relanza-su-aplicacion-android-reconstruida-tras-un-ano-de-",
-    "tema": "android"
-  },
-  {
-    "titulo": "Importante Actualización en el Model Context Protocol Promete Impulsar la Escalabilidad de la IA",
-    "url": "https://tecno.ar/2026-07-21-importante-actualizacion-en-el-model-context-protocol-promet",
-    "tema": "protocol"
-  },
-  {
-    "titulo": "Google Desarrolla un Nuevo Chip de IA: \"Frozen v2\" para Potenciar Gemini",
-    "url": "https://tecno.ar/2026-07-21-google-desarrolla-un-nuevo-chip-de-ia-frozen-v2-para-potenci",
-    "tema": "chip"
-  },
-  {
-    "titulo": "Dimisión en Cadena: Otro Director de Estándares de IA Renuncia en la Administración Trump",
-    "url": "https://tecno.ar/2026-07-21-dimision-en-cadena-otro-director-de-estandares-de-ia-renunci",
-    "tema": "trump"
-  },
-  {
-    "titulo": "Anthropic Cierra Acuerdo Histórico de $1.5 Mil Millones por Derechos de Autor",
-    "url": "https://tecno.ar/2026-07-21-anthropic-cierra-acuerdo-historico-de-15-mil-millones-por-de",
-    "tema": "anthropic"
-  },
-  {
-    "titulo": "Gritt Emerge con $34 Millones para Desplegar **Robots** en la Construcción de Plantas Solares",
-    "url": "https://tecno.ar/2026-07-21-gritt-emerge-con-34-millones-para-desplegar-robots-en-la-con",
-    "tema": "robots"
   }
 ]
