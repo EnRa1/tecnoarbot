@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "EE.UU. Desmantela Gran Botnet China Usada para Ciberataques a Entidades Gubernamentales Clave",
+    "url": "https://tecno.ar/2026-08-26-eeuu-desmantela-gran-botnet-china-usada-para-ciberataques-a-",
+    "tema": "botnet"
+  },
+  {
+    "titulo": "Fabricante de Dispositivos Médicos Boston Scientific Sufre Disrupción Global por Cyberattack",
+    "url": "https://tecno.ar/2026-08-26-fabricante-de-dispositivos-medicos-boston-scientific-sufre-d",
+    "tema": "cyberattack"
+  },
+  {
+    "titulo": "Flipboard Refuerza su Apuesta por la Web Social Abierta con la Adquisición de Graze",
+    "url": "https://tecno.ar/2026-08-26-flipboard-refuerza-su-apuesta-por-la-web-social-abierta-con-",
+    "tema": "social"
+  },
+  {
     "titulo": "Altas Direcciones en **OpenAI**: Exejecutivo de Centros de Datos Abandona en Medio de Ola de Salidas",
     "url": "https://tecno.ar/2026-08-26-altas-direcciones-en-openai-exejecutivo-de-centros-de-datos-",
     "tema": "openai"
@@ -983,20 +998,5 @@
     "titulo": "TechCrunch Startup Battlefield Anuncia Jueces Clave que **Will** Elegir a la Próxima Startup Revelación de Australia",
     "url": "https://tecno.ar/2026-07-24-techcrunch-startup-battlefield-anuncia-jueces-clave-que-will",
     "tema": "will"
-  },
-  {
-    "titulo": "Los Guardrails de la IA: ¿Barrera para la Ciberseguridad Ofensiva o Salvaguarda Esencial?",
-    "url": "https://tecno.ar/2026-07-24-los-guardrails-de-la-ia-barrera-para-la-ciberseguridad-ofens",
-    "tema": "guardrails"
-  },
-  {
-    "titulo": "Facebook impulsa su Marketplace con una app para vendedores y nueva verificación gratuita",
-    "url": "https://tecno.ar/2026-07-24-facebook-impulsa-su-marketplace-con-una-app-para-vendedores-",
-    "tema": "marketplace"
-  },
-  {
-    "titulo": "Mobileye se prepara para una nueva era: el fundador Amnon Shashua dejará el puesto de CEO",
-    "url": "https://tecno.ar/2026-07-23-mobileye-se-prepara-para-una-nueva-era-el-fundador-amnon-sha",
-    "tema": "mobileye"
   }
 ]
