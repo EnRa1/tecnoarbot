@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Altas Direcciones en **OpenAI**: Exejecutivo de Centros de Datos Abandona en Medio de Ola de Salidas",
+    "url": "https://tecno.ar/2026-08-26-altas-direcciones-en-openai-exejecutivo-de-centros-de-datos-",
+    "tema": "openai"
+  },
+  {
+    "titulo": "Generalist: La Startup de Robótica con IA Alcanza los $3 Mil Millones en Valoración",
+    "url": "https://tecno.ar/2026-08-26-generalist-la-startup-de-robotica-con-ia-alcanza-los-3-mil-m",
+    "tema": "generalist"
+  },
+  {
+    "titulo": "Impulso Millonario a la IA de Voz: Ringg Asegura $10 Millones para Expandir sus Soluciones Empresariales",
+    "url": "https://tecno.ar/2026-08-26-impulso-millonario-a-la-ia-de-voz-ringg-asegura-10-millones-",
+    "tema": "voice"
+  },
+  {
+    "titulo": "Ventures Platform Cierra Segundo Fondo de $84 Millones para Ampliar Inversiones en África",
+    "url": "https://tecno.ar/2026-08-26-ventures-platform-cierra-segundo-fondo-de-84-millones-para-a",
+    "tema": "ventures"
+  },
+  {
+    "titulo": "Runable Recauda $21 Millones para Impulsar Agentes de IA en el Crecimiento de Negocios",
+    "url": "https://tecno.ar/2026-08-26-runable-recauda-21-millones-para-impulsar-agentes-de-ia-en-e",
+    "tema": "runable"
+  },
+  {
+    "titulo": "Legato Lanza Gafas Inteligentes con IA para Mejorar la Hearing y Desafiar los Audífonos Tradicionales",
+    "url": "https://tecno.ar/2026-08-26-legato-lanza-gafas-inteligentes-con-ia-para-mejorar-la-heari",
+    "tema": "hearing"
+  },
+  {
     "titulo": "Alerta para Gamers: Demos Falsos de Grand Theft Auto VI Ocultan Malware",
     "url": "https://tecno.ar/2026-08-25-alerta-para-gamers-demos-falsos-de-grand-theft-auto-vi-ocult",
     "tema": "grand"
@@ -968,35 +998,5 @@
     "titulo": "Mobileye se prepara para una nueva era: el fundador Amnon Shashua dejará el puesto de CEO",
     "url": "https://tecno.ar/2026-07-23-mobileye-se-prepara-para-una-nueva-era-el-fundador-amnon-sha",
     "tema": "mobileye"
-  },
-  {
-    "titulo": "EE. UU. Alerta: Hackers Vinculados a Irán Perturban Infraestructura Crítica Estadounidense",
-    "url": "https://tecno.ar/2026-07-23-ee-uu-alerta-hackers-vinculados-a-iran-perturban-infraestruc",
-    "tema": "hackers"
-  },
-  {
-    "titulo": "Meta se libra de un juicio clave por adicción a redes sociales tras retiro de demanda",
-    "url": "https://tecno.ar/2026-07-23-meta-se-libra-de-un-juicio-clave-por-adiccion-a-redes-social",
-    "tema": "meta"
-  },
-  {
-    "titulo": "Tesla Retrasa la Producción en Volumen de Cybercab, Semi y Megapack 3 hasta 2027",
-    "url": "https://tecno.ar/2026-07-23-tesla-retrasa-la-produccion-en-volumen-de-cybercab-semi-y-me",
-    "tema": "production"
-  },
-  {
-    "titulo": "El Tesoro de EE. UU. Intensifica Amenazas de Sanciones por Distilación de IA China",
-    "url": "https://tecno.ar/2026-07-23-el-tesoro-de-ee-uu-intensifica-amenazas-de-sanciones-por-dis",
-    "tema": "treasury"
-  },
-  {
-    "titulo": "Google Disipa Dudas de Inversores con Auge Impulsado por la Nube y la IA",
-    "url": "https://tecno.ar/2026-07-23-google-disipa-dudas-de-inversores-con-auge-impulsado-por-la-",
-    "tema": "google"
-  },
-  {
-    "titulo": "ServiceNow Impulsa su Estrategia de IA Bancaria Global con Inversión de $40 Millones en BusinessNext",
-    "url": "https://tecno.ar/2026-07-23-servicenow-impulsa-su-estrategia-de-ia-bancaria-global-con-i",
-    "tema": "servicenow"
   }
 ]

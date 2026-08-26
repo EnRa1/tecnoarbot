@@ -1,0 +1,30 @@
+---
+titulo: "Altas Direcciones en **OpenAI**: Exejecutivo de Centros de Datos Abandona en Medio de Ola de Salidas"
+fecha: 2026-08-26
+keyword: openai
+---
+
+# Altas Direcciones en **OpenAI**: Exejecutivo de Centros de Datos Abandona en Medio de Ola de Salidas
+
+*La empresa líder en inteligencia artificial **OpenAI** enfrenta una serie de renuncias de alto perfil, con la reciente partida de Chris Malone, quien lideraba la estrategia de centros de datos, generando preguntas sobre la estabilidad ejecutiva de la compañía.*
+
+La compañía de inteligencia artificial **OpenAI** ha experimentado una notable ola de salidas de ejecutivos en lo que va del año, una tendencia que se acentúa con la reciente dimisión de Chris Malone, su anterior jefe de centros de datos. La marcha de Malone, reportada por The Wall Street Journal y recogida por TechCrunch, es particularmente significativa dado su rol crucial en la expansión de infraestructura tecnológica de la empresa.
+
+Malone se unió a **OpenAI** en marzo del año pasado, marcando una tenencia relativamente corta. Previamente, había acumulado una década de experiencia en Google y casi cinco años en Meta, aportando un vasto conocimiento en infraestructura de datos. Su partida se produce en un momento de efervescencia para la construcción de infraestructura de IA a nivel global, donde la estrategia de centros de datos es considerada uno de los pilares fundamentales para cualquier laboratorio de inteligencia artificial. Según TechCrunch, Malone también estaba vinculado al "Proyecto Stargate", una iniciativa de $500 millones para el desarrollo de centros de datos en EE. UU., donde **OpenAI** participa como socio clave junto a Oracle, Nvidia, SoftBank y Microsoft.
+
+Ante la consulta sobre la salida de Malone, **OpenAI** comunicó a TechCrunch que había "reorganizado recientemente" su "organización de infraestructura para apoyar la escala y el ritmo de nuestro trabajo". La empresa aseguró contar con un "equipo de centros de datos sólido y con profunda experiencia, con liderazgo claro y la pericia técnica para ejecutar nuestros planes". Como parte de esta reestructuración, Malone dejó de reportar directamente al presidente de **OpenAI**, Greg Brockman, para hacerlo al vicepresidente Sachin Katti, quien asumió el liderazgo del grupo. Otros ejecutivos como Uday Ruddarraju, Brent Mayo y Spas Lazarov también supervisan ahora la estrategia de centros de datos, un indicativo de la complejidad y la importancia estratégica de esta área para la firma.
+
+## Ola de Salidas Ejecutivas Afecta a OpenAI
+
+La salida de Malone se suma a una lista de más de una docena de directivos que han dejado **OpenAI** en lo que va de 2026. Business Insider contabilizó recientemente 13 salidas solo este año, varias de ellas en el último mes, involucrando a algunos de los puestos más altos de la compañía. Hace apenas dos semanas, Denise Dresser fue reemplazada como directora de ingresos, tras solo ocho meses en el cargo, señalando la rapidez de los cambios en la cúpula. Días antes, Brad Lightcap, uno de los ejecutivos más antiguos de la empresa y exdirector de operaciones, anunció su partida para "iniciar algo nuevo", sin especificar detalles, lo que generó especulaciones en el sector. Aproximadamente un mes antes de estas, Fidji Simo, considerada la segunda al mando y jefa de producto y negocio, renunció por "una enfermedad crónica", aunque permanece en un rol de asesoría, manteniendo un vínculo con la compañía.
+
+## Impacto en Equipos Clave de OpenAI
+
+Los equipos de seguridad y ética de la inteligencia artificial de **OpenAI** también han sufrido bajas importantes. En julio, Chloé Bakalar, jefa de ética, dejó la compañía, marcando una sensible pérdida en un área crítica. Además, la semana pasada se informó del desmantelamiento del equipo de preparación, una unidad dedicada a evaluar si los modelos de IA de la empresa podrían generar riesgos catastróficos. Este movimiento ha sido objeto de debate, especialmente en un contexto de crecientes preocupaciones globales sobre la seguridad y el uso responsable de la IA. Otros líderes, como Bill Peebles, exdirector del generador de imágenes por IA Sora (ya desaparecido), se marcharon debido al cierre de sus proyectos, un claro ejemplo de la dinámica de innovación y reestructuración interna de la empresa. En abril, Kate Rouch, directora de marketing, también dejó su puesto, según informes, por motivos de salud, similar al caso de Simo.
+
+A pesar de estas salidas, la dirección de **[OpenAI](https://tecno.ar/2026-08-25-openai-lanza-chatgpt-work-empoderando-profesionales-with-age)** ha buscado minimizar la trascendencia de esta fuga de talentos, reiterando la solidez de sus equipos restantes y su compromiso con los planes de expansión y desarrollo tecnológico. El continuo flujo de personal de alto nivel en una empresa tan influyente como **[OpenAI](https://tecno.ar/2026-08-24-openai-lanza-chatgpt-work-agentes-de-ia-para-todas-las-profe)** mantiene en vilo a observadores y analistas del sector, quienes monitorean de cerca cómo estos cambios podrían influir en el futuro desarrollo y liderazgo de la inteligencia artificial.
+
+La compañía se encuentra en una fase de intensa reestructuración ejecutiva para afrontar sus ambiciosas metas de crecimiento. Para entender más sobre las recientes estrategias de la firma, se puede consultar sobre cómo [[OpenAI](https://tecno.ar/2026-08-20-openai-recorta-terreno-a-anthropic-en-el-dinamico-mercado-em)](https://tecno.ar/2026-08-13-openai-reestructura-su-cupula-ejecutiva-en-busca-de-metas-de) ha reestructurado su cúpula ejecutiva recientemente. La información detallada sobre la salida de Malone y la reorganización interna puede encontrarse en el informe original de [TechCrunch](https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/).
+
+## Fuentes
+TechCrunch - https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/
