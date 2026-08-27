@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Ciberataque a la ATF Declarado un \"Major Incident\" por Robo de Datos Sensibles",
+    "url": "https://tecno.ar/2026-08-27-ciberataque-a-la-atf-declarado-un-major-incident-por-robo-de",
+    "tema": "major"
+  },
+  {
+    "titulo": "Barret Zoph, Figura Destacada de IA, Regresa a Google como Vicepresidente de Investigación",
+    "url": "https://tecno.ar/2026-08-27-barret-zoph-figura-destacada-de-ia-regresa-a-google-como-vic",
+    "tema": "zoph"
+  },
+  {
+    "titulo": "YouTube Potencia la Monetización para Creators con Integración Directa de Amazon",
+    "url": "https://tecno.ar/2026-08-27-youtube-potencia-la-monetizacion-para-creators-con-integraci",
+    "tema": "creators"
+  },
+  {
+    "titulo": "Meta Alcanza Acuerdo de $18 Mil Millones con Estados Unidos, Recibe Pase Legal para Datos Infantiles",
+    "url": "https://tecno.ar/2026-08-27-meta-alcanza-acuerdo-de-18-mil-millones-con-estados-unidos-r",
+    "tema": "meta"
+  },
+  {
+    "titulo": "Bluesky Introduce Opción de No-Viralidad para Publicaciones en su Feed \"Discover\"",
+    "url": "https://tecno.ar/2026-08-27-bluesky-introduce-opcion-de-no-viralidad-para-publicaciones-",
+    "tema": "bluesky"
+  },
+  {
+    "titulo": "La Directora Financiera de Rivian Renuncia en un Momento Clave para la Automotriz Eléctrica",
+    "url": "https://tecno.ar/2026-08-27-la-directora-financiera-de-rivian-renuncia-en-un-momento-cla",
+    "tema": "rivian"
+  },
+  {
     "titulo": "EE.UU. Desmantela Gran Botnet China Usada para Ciberataques a Entidades Gubernamentales Clave",
     "url": "https://tecno.ar/2026-08-26-eeuu-desmantela-gran-botnet-china-usada-para-ciberataques-a-",
     "tema": "botnet"
@@ -968,35 +998,5 @@
     "titulo": "Anduril aspira a una mega **valuation** de $100 mil millones impulsada por el sector de defensa",
     "url": "https://tecno.ar/2026-07-24-anduril-aspira-a-una-mega-valuation-de-100-mil-millones-impu",
     "tema": "valuation"
-  },
-  {
-    "titulo": "EE. UU. Acusa a Ciudadano por Borrar Datos de su Phone con Contraseña de Coacción en Frontera",
-    "url": "https://tecno.ar/2026-07-24-ee-uu-acusa-a-ciudadano-por-borrar-datos-de-su-phone-con-con",
-    "tema": "phone"
-  },
-  {
-    "titulo": "Cognition Adquiere Poke AI para Potenciar la Personalidad en Asistentes de Codificación",
-    "url": "https://tecno.ar/2026-07-24-cognition-adquiere-poke-ai-para-potenciar-la-personalidad-en",
-    "tema": "cognition"
-  },
-  {
-    "titulo": "Corgi Cierra Otra Megaronda de Financiamiento y Duplica Valoración a $4 Mil Millones",
-    "url": "https://tecno.ar/2026-07-24-corgi-cierra-otra-megaronda-de-financiamiento-y-duplica-valo",
-    "tema": "round"
-  },
-  {
-    "titulo": "Patreon Recorta el 20% de su Plantilla en Reestructuración Motivada por Cambios en el Mercado y la IA",
-    "url": "https://tecno.ar/2026-07-24-patreon-recorta-el-20-de-su-plantilla-en-reestructuracion-mo",
-    "tema": "patreon"
-  },
-  {
-    "titulo": "AMD Desafía a Nvidia *Con* su Sistema Helios de Racks para IA",
-    "url": "https://tecno.ar/2026-07-24-amd-desafia-a-nvidia-con-su-sistema-helios-de-racks-para-ia",
-    "tema": "with"
-  },
-  {
-    "titulo": "TechCrunch Startup Battlefield Anuncia Jueces Clave que **Will** Elegir a la Próxima Startup Revelación de Australia",
-    "url": "https://tecno.ar/2026-07-24-techcrunch-startup-battlefield-anuncia-jueces-clave-que-will",
-    "tema": "will"
   }
 ]

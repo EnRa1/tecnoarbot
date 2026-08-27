@@ -1,0 +1,28 @@
+---
+titulo: "Bluesky Introduce Opción de No-Viralidad para Publicaciones en su Feed "Discover""
+fecha: 2026-08-27
+keyword: bluesky
+---
+
+# Bluesky Introduce Opción de No-Viralidad para Publicaciones en su Feed "Discover"
+
+*La red social abierta **Bluesky** ha lanzado una nueva funcionalidad que permite a los usuarios evitar que sus publicaciones aparezcan en el feed principal "Discover", ofreciendo mayor control sobre la visibilidad de su contenido en la plataforma.*
+
+La plataforma social descentralizada **Bluesky** ha implementado una característica innovadora que otorga a sus usuarios un control más granular sobre la difusión de sus posteos. Esta nueva función de exclusión algorítmica permite que las publicaciones individuales no se muestren en el feed principal "Discover" de la aplicación, una medida diseñada específicamente para aquellos miembros de la comunidad que prefieren no alcanzar una exposición masiva o "viralizarse", según los detalles proporcionados por TechCrunch. Esta importante adición al conjunto de herramientas de Bluesky llega justo después de que la plataforma incorporara soporte para videos de mayor duración, indicando un ritmo constante de evolución.
+
+Actualmente, el feed "Discover" de **Bluesky** tiene la capacidad de mostrar cualquier publicación disponible en la red, ya que, por defecto, todo el contenido subido es de carácter público. Con la introducción de esta opción, los usuarios ahora tienen la facultad de restringir la visibilidad de su contenido, asegurando que este sea principalmente accesible para su círculo de seguidores establecido, en lugar de ser expuesto a una audiencia general y potencialmente mucho más amplia a través de recomendaciones algorítmicas. Es fundamental aclarar que esta funcionalidad no tiene como objetivo hacer las publicaciones privadas. La compañía ha manifestado que aún se encuentra trabajando en el desarrollo de soporte para datos privados a nivel de protocolo, lo que significa que, por el momento, las publicaciones que optan por esta función siguen siendo públicas, pero su alcance a través del algoritmo se ve intencionalmente limitado.
+
+## Bluesky y la Gestión de la Exposición del Contenido
+
+La génesis de esta característica reside en la comprensión por parte de la empresa de que no todos los individuos que utilizan su red social buscan una difusión masiva de sus mensajes. Existe un segmento de usuarios que prefiere utilizar la plataforma para interacciones más íntimas o enfocadas, compartiendo ideas o momentos únicamente con sus seguidores directos, sin la presión o la visibilidad exponencial que a menudo conlleva aparecer en un feed de descubrimiento público. Para activar esta opción, los usuarios de **Bluesky** simplemente deben navegar a la sección de "Privacidad y Seguridad" dentro de la configuración de la aplicación y seleccionar la nueva preferencia de exclusión. La compañía ha especificado que, una vez activado, este cambio podría tardar hasta una hora en implementarse por completo en el sistema.
+
+Una particularidad destacable de esta implementación es que su alcance no se limita exclusivamente a la aplicación de **Bluesky**. La preferencia del usuario se registra a nivel de cuenta, lo que implica que esta elección de visibilidad acompaña al perfil en todo el ecosistema del protocolo subyacente, conocido como AT Proto. Esto significa que si un usuario publica desde otra aplicación que se basa en el mismo protocolo, su preferencia de "no viralidad" debería ser reconocida. Sin embargo, cabe señalar que, aunque otras aplicaciones federadas tienen acceso a esta información, la decisión final de respetar o no esta configuración de visibilidad recae en cada una de ellas. Este diseño refuerza la filosofía descentralizada y abierta que la plataforma de **Bluesky** se esfuerza por promover en el panorama de las redes sociales.
+
+## Impacto y Futuro de la Experiencia Bluesky
+
+Esta nueva herramienta representa un avance significativo hacia una mayor personalización y un control más robusto por parte del usuario en la experiencia de las redes sociales. Al permitir que la comunidad de [Bluesky](https://tecno.ar/2026-08-26-flipboard-refuerza-su-apuesta-por-la-web-social-abierta-con-) adapte la difusión de su contenido a sus necesidades específicas, ya sea para mantener un perfil bajo, compartir información sensible con un grupo selecto o simplemente usar la plataforma con fines más especializados donde la viralidad no es un objetivo principal, la plataforma se posiciona como un espacio más flexible. En un entorno digital en constante cambio, donde la privacidad de los datos y el control del usuario se han convertido en aspectos cada vez más valorados, movimientos como el adoptado por Bluesky señalan una dirección hacia plataformas más conscientes y centradas en las preferencias individuales de sus miembros. La naturaleza abierta de proyectos como Bluesky se alinea con iniciativas que buscan fortalecer la web social abierta, como la adquisición de Graze por parte de Flipboard para expandir su propuesta en este ámbito.
+
+La evolución de [Bluesky](https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/) continuará siendo un punto de interés para aquellos que buscan alternativas a las redes sociales tradicionales, apostando por modelos que prioricen la autonomía del usuario y la interoperabilidad entre servicios. La capacidad de elegir cómo y dónde aparece el contenido es un paso fundamental en esa dirección.
+
+## Fuentes
+TechCrunch - https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/
