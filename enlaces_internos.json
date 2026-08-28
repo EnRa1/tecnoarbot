@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Nuevo Survey de YouGov Revela Fuerte Oposición a Cámaras de Vigilancia Policial en EE. UU.",
+    "url": "https://tecno.ar/2026-08-28-nuevo-survey-de-yougov-revela-fuerte-oposicion-a-camaras-de-",
+    "tema": "survey"
+  },
+  {
+    "titulo": "El Auge de las Startups Suecas: Claves del Éxito en el Ecosistema Emprendedor",
+    "url": "https://tecno.ar/2026-08-28-el-auge-de-las-startups-suecas-claves-del-exito-en-el-ecosis",
+    "tema": "startup"
+  },
+  {
+    "titulo": "La Inversión en Modelos IA Open-Weight Impulsa una Nueva Era Tecnológica",
+    "url": "https://tecno.ar/2026-08-28-la-inversion-en-modelos-ia-open-weight-impulsa-una-nueva-era",
+    "tema": "open"
+  },
+  {
+    "titulo": "Brave Refuerza la Privacidad con Aliases de Email Avanzados",
+    "url": "https://tecno.ar/2026-08-28-brave-refuerza-la-privacidad-con-aliases-de-email-avanzados",
+    "tema": "email"
+  },
+  {
+    "titulo": "Anthropic Revela IA de Auto-Mejora para Optimizar la Alineación",
+    "url": "https://tecno.ar/2026-08-28-anthropic-revela-ia-de-auto-mejora-para-optimizar-la-alineac",
+    "tema": "anthropic"
+  },
+  {
+    "titulo": "Lambda Asegura $1.000 Millones en Deuda para Impulsar la Adquisición de Chips de IA",
+    "url": "https://tecno.ar/2026-08-28-lambda-asegura-1000-millones-en-deuda-para-impulsar-la-adqui",
+    "tema": "chips"
+  },
+  {
     "titulo": "Líderes de Anthropic y OpenAI Suben al AI Stage en TechCrunch Disrupt 2026",
     "url": "https://tecno.ar/2026-08-28-lideres-de-anthropic-y-openai-suben-al-ai-stage-en-techcrunc",
     "tema": "stage"
@@ -968,35 +998,5 @@
     "titulo": "Amazon Pone en Marcha su Estrategia Satelital para Móviles, Intensificando la Competencia",
     "url": "https://tecno.ar/2026-07-27-amazon-pone-en-marcha-su-estrategia-satelital-para-moviles-i",
     "tema": "amazon"
-  },
-  {
-    "titulo": "La Agitación en la Industria Tecnológica y la Regulación ante el Auge de la IA Chinese",
-    "url": "https://tecno.ar/2026-07-27-la-agitacion-en-la-industria-tecnologica-y-la-regulacion-ant",
-    "tema": "chinese"
-  },
-  {
-    "titulo": "Apple Retrasa el Lanzamiento de sus Gafas Inteligentes Priorizando la Privacidad",
-    "url": "https://tecno.ar/2026-07-27-apple-retrasa-el-lanzamiento-de-sus-gafas-inteligentes-prior",
-    "tema": "apple"
-  },
-  {
-    "titulo": "Encord y Zander Labs Exploran Ondas Cerebrales para Impulsar el Futuro del *Brain* Robótico",
-    "url": "https://tecno.ar/2026-07-27-encord-y-zander-labs-exploran-ondas-cerebrales-para-impulsar",
-    "tema": "brain"
-  },
-  {
-    "titulo": "European Technology Network (ETN) Expande su Contenido *Live* a Cinco Días Semanales Tras una Inversión Millonaria",
-    "url": "https://tecno.ar/2026-07-27-european-technology-network-etn-expande-su-contenido-live-a-",
-    "tema": "live"
-  },
-  {
-    "titulo": "Enigma Recauda $70 Millones para Desbloquear la Interacción Intuitiva con Robots",
-    "url": "https://tecno.ar/2026-07-27-enigma-recauda-70-millones-para-desbloquear-la-interaccion-i",
-    "tema": "enigma"
-  },
-  {
-    "titulo": "Snapchat Lanza \"Now Playing\": Compartí Música en Tiempo Real en Snap Map",
-    "url": "https://tecno.ar/2026-07-27-snapchat-lanza-now-playing-comparti-musica-en-tiempo-real-en",
-    "tema": "snapchat"
   }
 ]
