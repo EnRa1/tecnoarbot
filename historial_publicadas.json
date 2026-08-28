@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "OpenAI is gaining on Anthropic with business users, new data indicates",
-    "fecha": "2026-08-20T23:16:45.902260"
-  },
-  {
-    "titulo": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-    "fecha": "2026-08-20T23:18:54.447336"
-  },
-  {
     "titulo": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
     "fecha": "2026-08-21T12:22:40.630117"
   },
@@ -162,5 +154,13 @@
   {
     "titulo": "ATF declares ‘major incident’ as ransomware gang claims hack",
     "fecha": "2026-08-27T21:38:11.532792"
+  },
+  {
+    "titulo": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
+    "fecha": "2026-08-28T06:26:10.368593"
+  },
+  {
+    "titulo": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+    "fecha": "2026-08-28T06:28:05.572258"
   }
 ]

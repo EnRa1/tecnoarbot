@@ -1,5 +1,15 @@
 [
   {
+    "titulo": "Líderes de Anthropic y OpenAI Suben al AI Stage en TechCrunch Disrupt 2026",
+    "url": "https://tecno.ar/2026-08-28-lideres-de-anthropic-y-openai-suben-al-ai-stage-en-techcrunc",
+    "tema": "stage"
+  },
+  {
+    "titulo": "Vuelve StrictlyVC a Nueva York con un Panel de Expertos en Tecnología y Capital de Riesgo",
+    "url": "https://tecno.ar/2026-08-28-vuelve-strictlyvc-a-nueva-york-con-un-panel-de-expertos-en-t",
+    "tema": "york"
+  },
+  {
     "titulo": "Ciberataque a la ATF Declarado un \"Major Incident\" por Robo de Datos Sensibles",
     "url": "https://tecno.ar/2026-08-27-ciberataque-a-la-atf-declarado-un-major-incident-por-robo-de",
     "tema": "major"
@@ -988,15 +998,5 @@
     "titulo": "Snapchat Lanza \"Now Playing\": Compartí Música en Tiempo Real en Snap Map",
     "url": "https://tecno.ar/2026-07-27-snapchat-lanza-now-playing-comparti-musica-en-tiempo-real-en",
     "tema": "snapchat"
-  },
-  {
-    "titulo": "SpaceX Despliega Starlink V3, Pero el Booster Super Heavy Sufre un Nuevo Fallo",
-    "url": "https://tecno.ar/2026-07-24-spacex-despliega-starlink-v3-pero-el-booster-super-heavy-suf",
-    "tema": "spacex"
-  },
-  {
-    "titulo": "Anduril aspira a una mega **valuation** de $100 mil millones impulsada por el sector de defensa",
-    "url": "https://tecno.ar/2026-07-24-anduril-aspira-a-una-mega-valuation-de-100-mil-millones-impu",
-    "tema": "valuation"
   }
 ]
