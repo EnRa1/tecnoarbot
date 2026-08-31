@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "La IA Podría Desafiar el Hacking de Governments, Forzando un Dilema en la Ciberseguridad",
+    "url": "https://tecno.ar/2026-08-31-la-ia-podria-desafiar-el-hacking-de-governments-forzando-un-",
+    "tema": "governments"
+  },
+  {
+    "titulo": "Clipto, la Startup de Búsqueda de Contenido por IA, Alcanza una Valoración de $250 Millones",
+    "url": "https://tecno.ar/2026-08-31-clipto-la-startup-de-busqueda-de-contenido-por-ia-alcanza-un",
+    "tema": "clipto"
+  },
+  {
+    "titulo": "VLC Cruza la Marca de Siete Mil Millones de Descargas Confirmando su Dominio Gratuito",
+    "url": "https://tecno.ar/2026-08-31-vlc-cruza-la-marca-de-siete-mil-millones-de-descargas-confir",
+    "tema": "billion"
+  },
+  {
+    "titulo": "Apple Inicia Nueva Era: John Ternus Asume como CEO Tras la Salida de Tim Cook",
+    "url": "https://tecno.ar/2026-08-31-apple-inicia-nueva-era-john-ternus-asume-como-ceo-tras-la-sa",
+    "tema": "apple"
+  },
+  {
+    "titulo": "Ryan Breslow Lidera una Financiación Puente Crucial de $27 Millones para Salvar Bolt",
+    "url": "https://tecno.ar/2026-08-31-ryan-breslow-lidera-una-financiacion-puente-crucial-de-27-mi",
+    "tema": "breslow"
+  },
+  {
+    "titulo": "Gigante Farmacéutico McKesson Sufre Robo Masivo de Data Sensible de Pacientes",
+    "url": "https://tecno.ar/2026-08-31-gigante-farmaceutico-mckesson-sufre-robo-masivo-de-data-sens",
+    "tema": "data"
+  },
+  {
     "titulo": "Fabricantes Chinos Invierten Millones en Robots Humanoides: La Apuesta That Sigue a Tesla como Motor de Ganancias",
     "url": "https://tecno.ar/2026-08-29-fabricantes-chinos-invierten-millones-en-robots-humanoides-l",
     "tema": "that"
@@ -968,35 +998,5 @@
     "titulo": "Gigante Chino Baidu Desembarca en Londres con sus Robotaxis Autónomos",
     "url": "https://tecno.ar/2026-07-28-gigante-chino-baidu-desembarca-en-londres-con-sus-robotaxis-",
     "tema": "baidu"
-  },
-  {
-    "titulo": "Granola Lanza App de Notas con IA para Apple Watch, Redefiniendo la Captura de Reuniones",
-    "url": "https://tecno.ar/2026-07-28-granola-lanza-app-de-notas-con-ia-para-apple-watch-redefinie",
-    "tema": "watch"
-  },
-  {
-    "titulo": "Recursive Superintelligence Sella Acuerdo de Cómputo por $400M con Amazon Web Services",
-    "url": "https://tecno.ar/2026-07-28-recursive-superintelligence-sella-acuerdo-de-computo-por-400",
-    "tema": "recursive"
-  },
-  {
-    "titulo": "Thea Energy Asegura Subvención de $20M para Imanes de Fusión y Futura **Energy** Sostenible",
-    "url": "https://tecno.ar/2026-07-27-thea-energy-asegura-subvencion-de-20m-para-imanes-de-fusion-",
-    "tema": "energy"
-  },
-  {
-    "titulo": "Nadella Advierte: Empresas que Confíen Ciegamente en una Sola IA Podrían Desaparecer",
-    "url": "https://tecno.ar/2026-07-27-nadella-advierte-empresas-que-confien-ciegamente-en-una-sola",
-    "tema": "nadella"
-  },
-  {
-    "titulo": "Un Modelo Inédito de OpenAI Brecha las Defensas de Hugging Face y Reabre el Debate sobre la IA",
-    "url": "https://tecno.ar/2026-07-27-un-modelo-inedito-de-openai-brecha-las-defensas-de-hugging-f",
-    "tema": "openai"
-  },
-  {
-    "titulo": "Antares Nuclear Recauda $470 Millones para Reactores de Energía Nuclear en Bases Militares de EE. UU.",
-    "url": "https://tecno.ar/2026-07-27-antares-nuclear-recauda-470-millones-para-reactores-de-energ",
-    "tema": "nuclear"
   }
 ]
