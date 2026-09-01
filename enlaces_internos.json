@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "TechCrunch Abre Convocatoria para Voluntarios en Disrupt 2026",
+    "url": "https://tecno.ar/2026-09-01-techcrunch-abre-convocatoria-para-voluntarios-en-disrupt-202",
+    "tema": "techcrunch"
+  },
+  {
+    "titulo": "Waymo Acelera su Expansión de Robotaxis con Lanzamientos en Denver, San Diego y Tampa",
+    "url": "https://tecno.ar/2026-09-01-waymo-acelera-su-expansion-de-robotaxis-con-lanzamientos-en-",
+    "tema": "waymo"
+  },
+  {
+    "titulo": "Newlight Impulsa el Transporte Marítimo con Innovador Sistema de Inyección de Hydrogen",
+    "url": "https://tecno.ar/2026-09-01-newlight-impulsa-el-transporte-maritimo-con-innovador-sistem",
+    "tema": "hydrogen"
+  },
+  {
+    "titulo": "Florida y Texas Frenan Cámaras de Vigilancia de Flock por Serias Preocupaciones de Privacidad",
+    "url": "https://tecno.ar/2026-09-01-florida-y-texas-frenan-camaras-de-vigilancia-de-flock-por-se",
+    "tema": "florida"
+  },
+  {
+    "titulo": "Fambot Lanza un \"Jefe de Gabinete\" con IA para la Organización Familiar",
+    "url": "https://tecno.ar/2026-09-01-fambot-lanza-un-jefe-de-gabinete-con-ia-para-la-organizacion",
+    "tema": "fambot"
+  },
+  {
+    "titulo": "Outage de Microsoft 365 se Extiende, Pero Microsoft Reporta Avances Graduales en la Recuperación",
+    "url": "https://tecno.ar/2026-09-01-outage-de-microsoft-365-se-extiende-pero-microsoft-reporta-a",
+    "tema": "microsoft"
+  },
+  {
     "titulo": "Apple Presenta \"Evidencia Impactante\" en Demanda contra OpenAI por Robo de Secretos",
     "url": "https://tecno.ar/2026-09-01-apple-presenta-evidencia-impactante-en-demanda-contra-openai",
     "tema": "apple"
@@ -968,35 +998,5 @@
     "titulo": "Cybersecurity Startup Spur Intelligence Asegura $200 Millones para Combatir Bots",
     "url": "https://tecno.ar/2026-07-28-cybersecurity-startup-spur-intelligence-asegura-200-millones",
     "tema": "startup"
-  },
-  {
-    "titulo": "PayPal se Abre a Ofertas de Adquisición Superiores Tras Sólidos Resultados y Avances Estratégicos",
-    "url": "https://tecno.ar/2026-07-28-paypal-se-abre-a-ofertas-de-adquisicion-superiores-tras-soli",
-    "tema": "paypal"
-  },
-  {
-    "titulo": "La Red Eléctrica de EE. UU. Cortará Suministro a Grandes Centros de **Data** para Prevenir Apagones",
-    "url": "https://tecno.ar/2026-07-28-la-red-electrica-de-ee-uu-cortara-suministro-a-grandes-centr",
-    "tema": "data"
-  },
-  {
-    "titulo": "Príncipe Saudí Al Waleed Aumenta su Participación en Lucid Motors en Plena Reestructuración",
-    "url": "https://tecno.ar/2026-07-28-principe-saudi-al-waleed-aumenta-su-participacion-en-lucid-m",
-    "tema": "prince"
-  },
-  {
-    "titulo": "HBO Max Redefine la Experiencia del Usuario con Feed de Video Vertical y Búsqueda IA",
-    "url": "https://tecno.ar/2026-07-28-hbo-max-redefine-la-experiencia-del-usuario-con-feed-de-vide",
-    "tema": "video"
-  },
-  {
-    "titulo": "Peacock y YouTube: Una Alianza Estratégica Global Redefine el Streaming",
-    "url": "https://tecno.ar/2026-07-28-peacock-y-youtube-una-alianza-estrategica-global-redefine-el",
-    "tema": "peacock"
-  },
-  {
-    "titulo": "Dario Amodei de Anthropic Aclara su Postura sobre los Modelos IA Open-Weight",
-    "url": "https://tecno.ar/2026-07-28-dario-amodei-de-anthropic-aclara-su-postura-sobre-los-modelo",
-    "tema": "open"
   }
 ]
