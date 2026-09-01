@@ -1,0 +1,30 @@
+---
+titulo: "Lachy Groom Lidera Inversión en Startup India que Busca Aviones Perennes en el Cielo"
+fecha: 2026-09-01
+keyword: groom
+---
+
+# Lachy Groom Lidera Inversión en Startup India que Busca Aviones Perennes en el Cielo
+
+*El reconocido inversor Lachy Groom ha liderado una ronda de financiación pre-semilla de 2.5 millones de dólares para Alteon, una ambiciosa startup india que busca desarrollar aeronaves autónomas capaces de permanecer en el aire por más de un año, inspiradas en el dynamic soaring de los albatros.*
+
+La startup Alteon, con sede en Bengaluru y fundada por Samay Sanghvi, de 20 años, anunció recientemente una inversión clave liderada por el prominente inversor individual Lachy Groom, con la participación de Together Fund. El objetivo de Alteon es revolucionar la aviación autónoma diseñando aeronaves de ala fija que puedan extraer energía de las corrientes de viento oceánicas, eliminando la necesidad de combustible o baterías convencionales para vuelos de larga duración.
+
+La visión del joven Sanghvi capturó el interés de Lachy Groom rápidamente, quien decidió invertir tras apenas 30 minutos de su primera reunión, según reveló Sanghvi a TechCrunch. La tecnología central se basa en el "dynamic soaring", una técnica donde una aeronave se mueve repetidamente entre capas de aire con diferentes velocidades para cosechar energía e impulsarse. Este método permite que las aves marinas como los albatros vuelen durante extensos periodos con mínimo esfuerzo.
+
+## El Ambicioso Propósito de Alteon con el Respaldo de Groom
+
+El potencial de aeronaves que pueden mantenerse en el aire por más de un año es vasto, como señaló Sanghvi. Alteon planea aplicar esta tecnología inicialmente en la vigilancia marítima, ofreciendo a los gobiernos visibilidad en tiempo real sobre las actividades en sus aguas. El diseño inicial contempla una aeronave con una envergadura de aproximadamente tres metros, que volará cerca de la superficie oceánica, ascenderá y girará a través de aire más rápido, repitiendo el ciclo para ganar energía del viento. Con el tiempo, Alteon aspira a que sus hélices funcionen como turbinas, convirtiendo parte de la energía capturada en electricidad para recargar sus baterías a bordo.
+
+## Desafíos Técnicos y la Confianza de Lachy Groom
+
+Aunque la propuesta de Alteon es prometedora, el equipo aún debe demostrar que sus aeronaves pueden sostener el vuelo utilizando exclusivamente la energía del dynamic soaring. Sin embargo, ya han logrado un hito importante: la finalización de una prueba de su sistema de vuelo autónomo sobre la Bahía de Bengala. Durante esta prueba, la aeronave completó siete ciclos en forma de "O" a más de 100 kilómetros por hora, manteniendo una distancia de un metro sobre la superficie del agua. El próximo gran objetivo, según Sanghvi, es lograr el "dynamic soaring de energía neutral", donde la aeronave vuele continuamente con la propulsión apagada, extrayendo suficiente energía del viento para mantenerse en el aire.
+
+Expertos del sector, como el Dr. Gabriel Bousquet, ingeniero aeroespacial y robótico de Silicon Valley, calificaron el vuelo a baja altitud de Alteon sobre el agua como un "primer resultado prometedor". No obstante, Bousquet advirtió que el desafío principal radicará en probar que la aeronave puede extraer de manera fiable suficiente energía de los vientos en condiciones reales para sostener el vuelo por períodos prolongados. Volar a la altitud necesaria para cosechar esa energía de forma segura es particularmente complejo, ya que implica lidiar con turbulencias, olas, rocío, lluvia y cambios de luz mientras se detecta y reacciona continuamente a una superficie oceánica en movimiento, según explicó Bousquet a TechCrunch.
+
+Por su parte, el Dr. Bharath Swaminathan, quien investigó la estabilidad del dynamic soaring en IIT Madras, considera que la física subyacente está bien establecida y elogió el esfuerzo de Alteon. Mantener un avión en el aire durante varios días usando dynamic soaring ya sería un "paso muy grande y un gran logro", señaló. Sin embargo, Swaminathan también advirtió que, si bien las condiciones eólicas a gran escala pueden ser predecibles, la cizalladura local del viento y la turbulencia pueden variar sustancialmente, complicando la capacidad del avión para extraer energía de forma continua. Sugirió que algunos de estos desafíos solo surgirán a través de pruebas de vuelo en el mundo real.
+
+Frente a estos riesgos técnicos inherentes a proyectos tan ambiciosos, Lachy [Groom](https://tecno.ar/2026-08-31-la-ia-podria-desafiar-el-hacking-de-governments-forzando-un-) expresó su confianza. "Los problemas ambiciosos siempre van a venir con riesgos", comentó a TechCrunch. "Para mí, todo se redujo a creer que Samay y el equipo de Alteon son los indicados para resolverlos". Esta inversión del influyente inversor individual en una startup con un objetivo tan innovador resalta la continua apuesta por soluciones disruptivas en la industria tecnológica. Al igual que otras financiaciones que buscan apoyar tecnologías emergentes, la decisión de Lachy [Groom](https://tecno.ar/2026-08-31-clipto-la-startup-de-busqueda-de-contenido-por-ia-alcanza-un) subraya la importancia del capital de riesgo en el avance de proyectos que podrían redefinir límites conocidos. El camino de Alteon, con el respaldo de [inversores como [Groom](https://tecno.ar/2026-08-31-vlc-cruza-la-marca-de-siete-mil-millones-de-descargas-confir)](https://tecno.ar/2026-08-31-ryan-breslow-lidera-una-financiacion-puente-crucial-de-27-mi), es un ejemplo de cómo el capital permite a jóvenes emprendedores enfrentar desafíos científicos y de ingeniería con el potencial de transformar sectores enteros. El compromiso de Lachy Groom no solo inyecta capital, sino también la experiencia y la fe en un futuro donde las aeronaves puedan volar sin cesar, según la información compartida por [TechCrunch](https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/).
+
+## Fuentes
+TechCrunch - https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/

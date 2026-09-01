@@ -1,5 +1,15 @@
 [
   {
+    "titulo": "Apple Presenta \"Evidencia Impactante\" en Demanda contra OpenAI por Robo de Secretos",
+    "url": "https://tecno.ar/2026-09-01-apple-presenta-evidencia-impactante-en-demanda-contra-openai",
+    "tema": "apple"
+  },
+  {
+    "titulo": "Lachy Groom Lidera Inversión en Startup India que Busca Aviones Perennes en el Cielo",
+    "url": "https://tecno.ar/2026-09-01-lachy-groom-lidera-inversion-en-startup-india-que-busca-avio",
+    "tema": "groom"
+  },
+  {
     "titulo": "La IA Podría Desafiar el Hacking de Governments, Forzando un Dilema en la Ciberseguridad",
     "url": "https://tecno.ar/2026-08-31-la-ia-podria-desafiar-el-hacking-de-governments-forzando-un-",
     "tema": "governments"
@@ -988,15 +998,5 @@
     "titulo": "Dario Amodei de Anthropic Aclara su Postura sobre los Modelos IA Open-Weight",
     "url": "https://tecno.ar/2026-07-28-dario-amodei-de-anthropic-aclara-su-postura-sobre-los-modelo",
     "tema": "open"
-  },
-  {
-    "titulo": "Startup de codificación IA Cursor lanza plan de suscripción localizado en India antes de adquisición por SpaceX",
-    "url": "https://tecno.ar/2026-07-28-startup-de-codificacion-ia-cursor-lanza-plan-de-suscripcion-",
-    "tema": "cursor"
-  },
-  {
-    "titulo": "Gigante Chino Baidu Desembarca en Londres con sus Robotaxis Autónomos",
-    "url": "https://tecno.ar/2026-07-28-gigante-chino-baidu-desembarca-en-londres-con-sus-robotaxis-",
-    "tema": "baidu"
   }
 ]
