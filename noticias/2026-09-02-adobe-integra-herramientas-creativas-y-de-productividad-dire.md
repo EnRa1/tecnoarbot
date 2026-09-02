@@ -1,0 +1,22 @@
+---
+titulo: "Adobe Integra Herramientas Creativas y de Productividad Directamente en Slack con IA"
+fecha: 2026-09-02
+keyword: adobe
+---
+
+# Adobe Integra Herramientas Creativas y de Productividad Directamente en Slack con IA
+
+*La compañía Adobe amplía su ecosistema de inteligencia artificial al llevar sus aplicaciones más populares, como Photoshop y Firefly, directamente a la plataforma de comunicación Slack, optimizando flujos de trabajo colaborativos.*
+
+Adobe ha anunciado una integración estratégica con Slack, permitiendo a los usuarios acceder a una amplia gama de sus herramientas de creatividad y productividad directamente desde la interfaz de la plataforma de comunicación. Esta movida busca simplificar los flujos de trabajo y mejorar la colaboración, haciendo que el acceso a las potentes capacidades de Adobe sea más directo y contextualizado dentro de las conversaciones de equipo.
+
+## Optimización del Flujo de Trabajo con la Inteligencia de Adobe
+Los clientes de Slack Business+ y Enterprise+ podrán, a partir de ahora, utilizar aplicaciones como Firefly, Adobe Express, Photoshop, Premiere, Acrobat, InDesign, Illustrator, Stock y Lightroom, entre otras, directamente a través del chatbot de IA de Slack, conocido como Slackbot. La integración es profunda: los usuarios simplemente describirán la tarea que desean realizar, y Slackbot identificará y llamará a la herramienta de Adobe adecuada para completar el trabajo. Esta funcionalidad es un paso significativo hacia una mayor eficiencia, ya que el bot considera el contexto de las conversaciones, permitiendo, por ejemplo, transformar información de chats o de Canvas en PDFs, imágenes o videos. Además, se podrán incorporar y editar activos de campañas anteriores o de la biblioteca de Creative Cloud directamente en un chat. Más de 70 herramientas de Adobe estarán disponibles mediante la aplicación Adobe for Slack MCP.
+
+## La Estrategia de Expansión de Adobe en el Ecosistema Colaborativo
+Esta iniciativa de Adobe se alinea con una tendencia creciente en la industria tecnológica de integrar funcionalidades de IA y herramientas de productividad en las plataformas de comunicación. La mayoría de los profesionales realizan gran parte de su trabajo en entornos de chat, lo que impulsa a los proveedores de software a ofrecer sus características a través de servicios como ChatGPT, Claude y ahora, Slack. De hecho, el mes pasado, Adobe implementó una integración similar con ChatGPT y planea expandirse a Gemini próximamente. Deepti Pradeep, directora senior de IA Agente en [Adobe](https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/), explicó a TechCrunch que los usuarios valoran esta experiencia por el ahorro de tiempo, la capacidad de alcanzar resultados más rápido sin supervisar cada paso y el acceso a las herramientas de la empresa donde ya están trabajando. Pradeep destacó que esto ha llevado a la compañía a enfocarse menos en ediciones individuales y más en el resultado final que el usuario busca obtener.
+
+La competencia en este espacio es notable. Empresas como Canva y Figma también están haciendo que sus capacidades estén disponibles en chatbots, mientras que compañías como Anthropic están lanzando integraciones más estrechas en Slack, reconociendo que el contexto del equipo a menudo se captura a través de estas conversaciones. Pradeep señaló que la elección para los consumidores es positiva, pero que [[Adobe](https://tecno.ar/2026-09-02-noruega-evalua-prohibir-gafas-inteligentes-con-camara-ante-a)](https://tecno.ar/2026-09-02-[adobe](https://tecno.ar/2026-09-02-adobe-adquiere-rilo-para-impulsar-su-inteligencia-de-marketi)-adquiere-rilo-para-impulsar-su-inteligencia-de-marketi) posee una ventaja distintiva al ofrecer herramientas creativas y de productividad a través de diversas modalidades, lo que les permite abordar un espectro más amplio de necesidades. La visión es que la integración con plataformas como Slack no solo mejora la accesibilidad, sino que también potencia la colaboración en tiempo real, permitiendo a los equipos mantener un flujo de trabajo ininterrumpido y eficiente. Este movimiento consolida la posición de la empresa como líder en soluciones de creatividad y diseño, adaptándose a las nuevas dinámicas laborales impulsadas por la inteligencia artificial.
+
+## Fuentes
+TechCrunch - https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/

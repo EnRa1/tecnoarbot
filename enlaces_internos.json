@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Uber Anuncia Despidos Masivos y Profunda Reestructuración Global",
+    "url": "https://tecno.ar/2026-09-02-uber-anuncia-despidos-masivos-y-profunda-reestructuracion-gl",
+    "tema": "uber"
+  },
+  {
+    "titulo": "Adobe Integra Herramientas Creativas y de Productividad Directamente en Slack con IA",
+    "url": "https://tecno.ar/2026-09-02-adobe-integra-herramientas-creativas-y-de-productividad-dire",
+    "tema": "adobe"
+  },
+  {
+    "titulo": "Noruega Evalúa Prohibir Gafas Inteligentes con **Cámara** Ante Alerta de Privacidad",
+    "url": "https://tecno.ar/2026-09-02-noruega-evalua-prohibir-gafas-inteligentes-con-camara-ante-a",
+    "tema": "camera"
+  },
+  {
+    "titulo": "Adobe Adquiere Rilo para Impulsar su Inteligencia de Marketing con IA",
+    "url": "https://tecno.ar/2026-09-02-adobe-adquiere-rilo-para-impulsar-su-inteligencia-de-marketi",
+    "tema": "adobe"
+  },
+  {
+    "titulo": "Amazon Despliega IA para Combatir Estafas y Proteger a Sus Clientes",
+    "url": "https://tecno.ar/2026-09-02-amazon-despliega-ia-para-combatir-estafas-y-proteger-a-sus-c",
+    "tema": "amazon"
+  },
+  {
+    "titulo": "La startup de seguridad IA HiddenLayer recauda $100 millones para asegurar despliegues empresariales",
+    "url": "https://tecno.ar/2026-09-02-la-startup-de-seguridad-ia-hiddenlayer-recauda-100-millones-",
+    "tema": "hiddenlayer"
+  },
+  {
     "titulo": "OpenAI Detalla Capacidades de Astra: Su Modelo de IA Ciberseguro que Puede Explotar Vulnerabilidades",
     "url": "https://tecno.ar/2026-09-02-openai-detalla-capacidades-de-astra-su-modelo-de-ia-ciberseg",
     "tema": "astra"
@@ -968,35 +998,5 @@
     "titulo": "Inforcer asegura $50 millones para potenciar la ciberseguridad y gestión de IA en PYMES",
     "url": "https://tecno.ar/2026-07-30-inforcer-asegura-50-millones-para-potenciar-la-cibersegurida",
     "tema": "inforcer"
-  },
-  {
-    "titulo": "Zoox Recibe Luz Verde Federal para Operar su Servicio de Robotaxis Pagos",
-    "url": "https://tecno.ar/2026-07-30-zoox-recibe-luz-verde-federal-para-operar-su-servicio-de-rob",
-    "tema": "zoox"
-  },
-  {
-    "titulo": "Zuckerberg predice que miles de millones de personas usarán agentes de IA personales en cinco años",
-    "url": "https://tecno.ar/2026-07-29-zuckerberg-predice-que-miles-de-millones-de-personas-usaran-",
-    "tema": "that"
-  },
-  {
-    "titulo": "El primer eléctrico de Ferrari, el Luce, desafía a los críticos y supera sus objetivos de ventas",
-    "url": "https://tecno.ar/2026-07-29-el-primer-electrico-de-ferrari-el-luce-desafia-a-los-critico",
-    "tema": "ferrari"
-  },
-  {
-    "titulo": "Demanda millonaria sacude al ecosistema **startup**: Runlayer acusa a Rippling de clonar producto IA",
-    "url": "https://tecno.ar/2026-07-29-demanda-millonaria-sacude-al-ecosistema-startup-runlayer-acu",
-    "tema": "startup"
-  },
-  {
-    "titulo": "Cyera Adquiere Oasis Security por $1.000 Millones para Fortalecer la Seguridad de AI Agents",
-    "url": "https://tecno.ar/2026-07-29-cyera-adquiere-oasis-security-por-1000-millones-para-fortale",
-    "tema": "agents"
-  },
-  {
-    "titulo": "Pangram Recauda $9 Millones y Lanza Modelos Avanzados para Combatir Contenido AI",
-    "url": "https://tecno.ar/2026-07-29-pangram-recauda-9-millones-y-lanza-modelos-avanzados-para-co",
-    "tema": "pangram"
   }
 ]
