@@ -1,5 +1,15 @@
 [
   {
+    "titulo": "Pangram Impulsa la Detección de Contenido IA con $9 Millones y Alianza con Substack",
+    "url": "https://tecno.ar/2026-09-02-pangram-impulsa-la-deteccion-de-contenido-ia-con-9-millones-",
+    "tema": "pangram"
+  },
+  {
+    "titulo": "Uber Cerca de Consolidar su Liderazgo Global en el Servicio de Delivery con la Adquisición de Delivery Hero",
+    "url": "https://tecno.ar/2026-09-02-uber-cerca-de-consolidar-su-liderazgo-global-en-el-servicio-",
+    "tema": "delivery"
+  },
+  {
     "titulo": "Uber Anuncia Despidos Masivos y Profunda Reestructuración Global",
     "url": "https://tecno.ar/2026-09-02-uber-anuncia-despidos-masivos-y-profunda-reestructuracion-gl",
     "tema": "uber"
@@ -988,15 +998,5 @@
     "titulo": "Microsoft intensifica competencia con OpenAI y Anthropic, impulsando IA propia",
     "url": "https://tecno.ar/2026-07-30-microsoft-intensifica-competencia-con-openai-y-anthropic-imp",
     "tema": "microsoft"
-  },
-  {
-    "titulo": "Dili Asegura $15 Millones para Llevar la IA a la Conformidad de Proyectos de Infrastructure",
-    "url": "https://tecno.ar/2026-07-30-dili-asegura-15-millones-para-llevar-la-ia-a-la-conformidad-",
-    "tema": "infrastructure"
-  },
-  {
-    "titulo": "Inforcer asegura $50 millones para potenciar la ciberseguridad y gestión de IA en PYMES",
-    "url": "https://tecno.ar/2026-07-30-inforcer-asegura-50-millones-para-potenciar-la-cibersegurida",
-    "tema": "inforcer"
   }
 ]
