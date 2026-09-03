@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Palo Alto Networks Adquiere Console, Impulsada por Thrive Capital, en un Acuerdo de 500 Millones de Dólares",
+    "url": "https://tecno.ar/2026-09-03-palo-alto-networks-adquiere-console-impulsada-por-thrive-cap",
+    "tema": "thrive"
+  },
+  {
+    "titulo": "Zoox Extiende su Servicio de Robotaxis Comerciales al Aeropuerto de Las Vegas",
+    "url": "https://tecno.ar/2026-09-03-zoox-extiende-su-servicio-de-robotaxis-comerciales-al-aeropu",
+    "tema": "zoox"
+  },
+  {
+    "titulo": "Nvidia Adquiere Hugging Face por 12.930 Millones de Dólares en un Movimiento Clave para la IA Abierta",
+    "url": "https://tecno.ar/2026-09-03-nvidia-adquiere-hugging-face-por-12930-millones-de-dolares-e",
+    "tema": "hugging"
+  },
+  {
+    "titulo": "TikTok Renueva la Interacción en sus Comentarios con Funciones Multimedia",
+    "url": "https://tecno.ar/2026-09-03-tiktok-renueva-la-interaccion-en-sus-comentarios-con-funcion",
+    "tema": "comments"
+  },
+  {
+    "titulo": "TechCrunch Anuncia Convocatoria para **Volunteer** en su Próximo Founder Summit en Boston",
+    "url": "https://tecno.ar/2026-09-03-techcrunch-anuncia-convocatoria-para-volunteer-en-su-proximo",
+    "tema": "volunteer"
+  },
+  {
+    "titulo": "Google Lanza WeatherNext 3: Un Modelo de IA que Transforma el Pronóstico del Tiempo",
+    "url": "https://tecno.ar/2026-09-03-google-lanza-weathernext-3-un-modelo-de-ia-que-transforma-el",
+    "tema": "google"
+  },
+  {
     "titulo": "The Builders Stage Regresa a TechCrunch Disrupt 2026 con Estrategias para Escalar Startups",
     "url": "https://tecno.ar/2026-09-03-the-builders-stage-regresa-a-techcrunch-disrupt-2026-con-est",
     "tema": "builders"
@@ -968,35 +998,5 @@
     "titulo": "El Fondo de Cobertura de IA, Situational Awareness, Vende su Cartera Pública tras Pérdidas, Mantiene Apuesta en Anthropic",
     "url": "https://tecno.ar/2026-07-31-el-fondo-de-cobertura-de-ia-situational-awareness-vende-su-c",
     "tema": "fund"
-  },
-  {
-    "titulo": "Anthropic Confirma que Sus Modelos Claude Vulneraron **Three** Empresas en Pruebas de Ciberseguridad",
-    "url": "https://tecno.ar/2026-07-31-anthropic-confirma-que-sus-modelos-claude-vulneraron-three-e",
-    "tema": "three"
-  },
-  {
-    "titulo": "Ryan Williams Lanza Ellis AI con $10 Millones para Revolucionar el Crédito Privado",
-    "url": "https://tecno.ar/2026-07-31-ryan-williams-lanza-ellis-ai-con-10-millones-para-revolucion",
-    "tema": "ryan"
-  },
-  {
-    "titulo": "Apple se Prepara para Escasez Crítica de Chips y Alza de Precios Impulsada por la Demanda de IA",
-    "url": "https://tecno.ar/2026-07-30-apple-se-prepara-para-escasez-critica-de-chips-y-alza-de-pre",
-    "tema": "apple"
-  },
-  {
-    "titulo": "LinkedIn Lanza Botón para Reportar \"AI Slop\" en Lucha Contra Contenido de Baja Calidad",
-    "url": "https://tecno.ar/2026-07-30-linkedin-lanza-boton-para-reportar-ai-slop-en-lucha-contra-c",
-    "tema": "slop"
-  },
-  {
-    "titulo": "Meta Expande su Ambidiosa Estrategia de IA en el Segmento Enterprise",
-    "url": "https://tecno.ar/2026-07-30-meta-expande-su-ambidiosa-estrategia-de-ia-en-el-segmento-en",
-    "tema": "enterprise"
-  },
-  {
-    "titulo": "Microsoft Cierra un Sólido Fiscal 2026: Anthropic Supera a OpenAI en Valorización Trimestral",
-    "url": "https://tecno.ar/2026-07-30-microsoft-cierra-un-solido-fiscal-2026-anthropic-supera-a-op",
-    "tema": "microsoft"
   }
 ]
