@@ -1,5 +1,15 @@
 [
   {
+    "titulo": "Abliteration.ai Comercializa Modelos de IA sin Guardrails, Abriendo el Debate Ético",
+    "url": "https://tecno.ar/2026-09-03-abliterationai-comercializa-modelos-de-ia-sin-guardrails-abr",
+    "tema": "guardrails"
+  },
+  {
+    "titulo": "La Carrera por la Fusión: Realta Fusion y Madison Gas Lideran la Conexión a la Red",
+    "url": "https://tecno.ar/2026-09-03-la-carrera-por-la-fusion-realta-fusion-y-madison-gas-lideran",
+    "tema": "fusion"
+  },
+  {
     "titulo": "Palo Alto Networks Adquiere Console, Impulsada por Thrive Capital, en un Acuerdo de 500 Millones de Dólares",
     "url": "https://tecno.ar/2026-09-03-palo-alto-networks-adquiere-console-impulsada-por-thrive-cap",
     "tema": "thrive"
@@ -988,15 +998,5 @@
     "titulo": "Amazon Satisface a los Investors: El Éxito de la Nube AWS Justifica una Inversión Masiva en IA",
     "url": "https://tecno.ar/2026-07-31-amazon-satisface-a-los-investors-el-exito-de-la-nube-aws-jus",
     "tema": "investors"
-  },
-  {
-    "titulo": "Reddit Reporta un Sólido Quarter Financiero, Pero la Sombra de la IA Afecta la Confianza de los Inversores",
-    "url": "https://tecno.ar/2026-07-31-reddit-reporta-un-solido-quarter-financiero-pero-la-sombra-d",
-    "tema": "quarter"
-  },
-  {
-    "titulo": "El Fondo de Cobertura de IA, Situational Awareness, Vende su Cartera Pública tras Pérdidas, Mantiene Apuesta en Anthropic",
-    "url": "https://tecno.ar/2026-07-31-el-fondo-de-cobertura-de-ia-situational-awareness-vende-su-c",
-    "tema": "fund"
   }
 ]
