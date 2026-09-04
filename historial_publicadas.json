@@ -1,29 +1,5 @@
 [
   {
-    "titulo": "Rivian’s CFO is leaving the company",
-    "fecha": "2026-08-27T21:25:46.546970"
-  },
-  {
-    "titulo": "Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral",
-    "fecha": "2026-08-27T21:27:26.862311"
-  },
-  {
-    "titulo": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
-    "fecha": "2026-08-27T21:30:18.839672"
-  },
-  {
-    "titulo": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
-    "fecha": "2026-08-27T21:32:55.829901"
-  },
-  {
-    "titulo": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-    "fecha": "2026-08-27T21:35:51.104816"
-  },
-  {
-    "titulo": "ATF declares ‘major incident’ as ransomware gang claims hack",
-    "fecha": "2026-08-27T21:38:11.532792"
-  },
-  {
     "titulo": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
     "fecha": "2026-08-28T06:26:10.368593"
   },
@@ -198,5 +174,9 @@
   {
     "titulo": "Abliteration.ai is making a business out of removing AI guardrails",
     "fecha": "2026-09-03T19:33:53.084151"
+  },
+  {
+    "titulo": "Oura files to go public",
+    "fecha": "2026-09-04T00:32:27.662368"
   }
 ]
