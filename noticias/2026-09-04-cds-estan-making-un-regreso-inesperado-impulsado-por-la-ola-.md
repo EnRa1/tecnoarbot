@@ -1,0 +1,24 @@
+---
+titulo: "CDs Están **Making** un Regreso Inesperado Impulsado por la Ola Retro Tech"
+fecha: 2026-09-04
+keyword: making
+---
+
+# CDs Están **Making** un Regreso Inesperado Impulsado por la Ola Retro Tech
+
+*La Recording Industry Association of America (RIAA) reporta que las ventas de CDs están **haciendo** un sorprendente repunte, liderando una tendencia de auge en la tecnología retro, especialmente entre la Generación Z.*
+
+En un giro inesperado para la industria musical, los CDs están **haciendo** un notable regreso, desafiando las predicciones de su desaparición. Un nuevo informe de la Recording Industry Association of America (RIAA) para la primera mitad de 2026 ha revelado cifras contundentes que demuestran un crecimiento significativo en la venta de estos formatos físicos, un fenómeno que se inscribe en un auge más amplio de la tecnología retro. Este resurgimiento sorprende después de un período de declive, señalando un cambio en los hábitos de consumo de música.
+
+## El Resurgimiento de los CDs: Cifras que Están **Haciendo** la Diferencia
+
+Según los datos de la RIAA, los CDs generaron 171.1 millones de dólares en ingresos durante la primera mitad de 2026. Esta cifra representa un impresionante aumento del 58.6% en comparación con los 107.9 millones de dólares registrados en el mismo período de 2025. En cuanto a las unidades vendidas, el repunte es igualmente significativo: 17.5 millones de unidades se comercializaron en los primeros seis meses de 2026, un 45.7% más que los aproximadamente 12 millones de unidades del año anterior. Este crecimiento es particularmente notable si se considera que 2025 marcó una caída del 7.8% en los ingresos totales de CDs, de 338.9 millones de dólares en 2024 a 312.4 millones de dólares, con una disminución del 11.6% en unidades vendidas. Es importante señalar que, según TechCrunch, la RIAA modificó su método de cálculo de ingresos en 2025, pasando del valor minorista estimado al valor mayorista, lo que afecta la comparación directa de los ingresos entre 2024 y 2025. Sin embargo, las ventas unitarias, que no se vieron afectadas por este cambio, confirman la tendencia de declive previo al actual y robusto ascenso.
+
+## La Ola Retro y Gen Z: **Haciendo** de lo Antiguo una Tendencia Actual
+
+El auge de los CDs no es un fenómeno aislado, sino parte de una tendencia más amplia que ve un renovado interés en tecnologías más simples y menos invasivas. Artículos como los "dumbphones" (teléfonos básicos), cámaras digitales de antaño, máquinas de escribir y teléfonos fijos están **haciendo** una aparición estelar en el mercado. Esta inclinación hacia la tecnología retro es particularmente fuerte entre la Generación Z, que busca una experiencia tecnológica diferente a la saturación de notificaciones, aplicaciones adictivas y algoritmos que definen la era digital actual. Para esta generación, se trata de una añoranza por una era que no experimentaron directamente, donde se tenía un mayor control sobre cuándo y cómo interactuar con la tecnología, y esta tenía menos espacio para invadir la vida personal. La facilidad de uso y la tangibilidad de los formatos físicos están **haciendo** que muchos jóvenes se vuelquen a lo analógico.
+
+Además de los CDs, el mercado de medios físicos en general está experimentando un crecimiento considerable. Los ingresos por medios físicos en la primera mitad de 2026 se dispararon un 25.9%, alcanzando los 731.5 millones de dólares. Este aumento se atribuye no solo al incremento en las ventas de CDs, sino también a un sólido crecimiento del 17.7% en los ingresos por vinilos, que continúan su propia trayectoria ascendente. Esta dinámica está **haciendo** que diversas startups exploren el espacio de la tecnología retro, desarrollando nuevos dispositivos o rescatando conceptos olvidados. Empresas como Tin Can, Ooma y Pinwheel están **[making](https://tecno.ar/2026-09-04-oura-se-prepara-para-salir-a-bolsa-impulsada-por-crecimiento)** teléfonos fijos, mientras que marcas como Light, Dumb Co y Minimal, junto con el próximo Clicks (similar a BlackBerry), están **haciendo** su nombre con teléfonos no inteligentes. A su vez, los consumidores de la Generación Z están activamente adquiriendo estos dispositivos antiguos en tiendas de segunda mano o sitios web de tecnología vintage como eBay o Retrospekt. Es posible que el alcance real de esta tendencia sea aún mayor de lo que sugieren las cifras de la RIAA, ya que estas no incluyen las ventas de CDs usados ni aquellos que se transmiten de padres a hijos. La industria está **haciendo** frente a una reconfiguración de preferencias que no muchos anticipaban, con el formato físico demostrando su valor en la era digital.
+
+## Fuentes
+TechCrunch - https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/
