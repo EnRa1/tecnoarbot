@@ -1,5 +1,15 @@
 [
   {
+    "titulo": "Apple Se Prepara para un Evento Clave con el Esperado iPhone Plegable",
+    "url": "https://tecno.ar/2026-09-08-apple-se-prepara-para-un-evento-clave-con-el-esperado-iphone",
+    "tema": "apple"
+  },
+  {
+    "titulo": "Meta Desafía la Confianza con Muse, su Agente de IA Personal para Tareas Diarias",
+    "url": "https://tecno.ar/2026-09-08-meta-desafia-la-confianza-con-muse-su-agente-de-ia-personal-",
+    "tema": "meta"
+  },
+  {
     "titulo": "Poseidon Aerospace Recauda $60 Millones para Impulsar Aviones de Carga no Tripulados",
     "url": "https://tecno.ar/2026-09-08-poseidon-aerospace-recauda-60-millones-para-impulsar-aviones",
     "tema": "poseidon"
@@ -988,15 +998,5 @@
     "titulo": "Aramco Lidera Inversión de $9.5 Millones en Mitti Labs para Impulsar la Resiliencia Hídrica en el Cultivo de Arroz",
     "url": "https://tecno.ar/2026-08-05-aramco-lidera-inversion-de-95-millones-en-mitti-labs-para-im",
     "tema": "aramco"
-  },
-  {
-    "titulo": "La Startup Indian de Vehículos Eléctricos River Recauda $120 Millones para Expandir su Producción",
-    "url": "https://tecno.ar/2026-08-05-la-startup-indian-de-vehiculos-electricos-river-recauda-120-",
-    "tema": "indian"
-  },
-  {
-    "titulo": "Robinhood Lanza un Nuevo Fund Público para Invertir en Startups de Y Combinator",
-    "url": "https://tecno.ar/2026-08-05-robinhood-lanza-un-nuevo-fund-publico-para-invertir-en-start",
-    "tema": "fund"
   }
 ]
