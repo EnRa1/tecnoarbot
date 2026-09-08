@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Poseidon Aerospace Recauda $60 Millones para Impulsar Aviones de Carga no Tripulados",
+    "url": "https://tecno.ar/2026-09-08-poseidon-aerospace-recauda-60-millones-para-impulsar-aviones",
+    "tema": "poseidon"
+  },
+  {
+    "titulo": "Bluecore Energy Recauda $50M para Impulsar su Visión de Energía Nuclear Flotante",
+    "url": "https://tecno.ar/2026-09-08-bluecore-energy-recauda-50m-para-impulsar-su-vision-de-energ",
+    "tema": "energy"
+  },
+  {
+    "titulo": "Un Hacker Devuelve la Mayor Parte de Criptomonedas Robadas en un Histórico Robo de $340 Millones",
+    "url": "https://tecno.ar/2026-09-08-un-hacker-devuelve-la-mayor-parte-de-criptomonedas-robadas-e",
+    "tema": "hacker"
+  },
+  {
+    "titulo": "Mistral AI Capta €3 Mil Millones en Récord, Impulsando la Soberanía Tecnológica Europea",
+    "url": "https://tecno.ar/2026-09-08-mistral-ai-capta-3-mil-millones-en-record-impulsando-la-sobe",
+    "tema": "mistral"
+  },
+  {
+    "titulo": "Chrome Acelera sus Actualizaciones a Ciclo Quincenal Impulsado por Seguridad y la IA",
+    "url": "https://tecno.ar/2026-09-08-chrome-acelera-sus-actualizaciones-a-ciclo-quincenal-impulsa",
+    "tema": "chrome"
+  },
+  {
+    "titulo": "El Futuro del Power: Google Apuesta por la Energía Nuclear para Alimentar sus Data Centers de IA",
+    "url": "https://tecno.ar/2026-09-08-el-futuro-del-power-google-apuesta-por-la-energia-nuclear-pa",
+    "tema": "power"
+  },
+  {
     "titulo": "Sorpresa en Telluride: Un Nuevo Documentary Secreto de Elizabeth Holmes Causa Asombro",
     "url": "https://tecno.ar/2026-09-07-sorpresa-en-telluride-un-nuevo-documentary-secreto-de-elizab",
     "tema": "documentary"
@@ -968,35 +998,5 @@
     "titulo": "Robinhood Lanza un Nuevo Fund Público para Invertir en Startups de Y Combinator",
     "url": "https://tecno.ar/2026-08-05-robinhood-lanza-un-nuevo-fund-publico-para-invertir-en-start",
     "tema": "fund"
-  },
-  {
-    "titulo": "MacPaw Impulsa la IA Local con Liquid AI y Prepara SetApp para Modelos en Dispositivo",
-    "url": "https://tecno.ar/2026-08-05-macpaw-impulsa-la-ia-local-con-liquid-ai-y-prepara-setapp-pa",
-    "tema": "macpaw"
-  },
-  {
-    "titulo": "Disney Impulsa su Contenido con una Alianza Estratégica con TikTok para Disney+",
-    "url": "https://tecno.ar/2026-08-05-disney-impulsa-su-contenido-con-una-alianza-estrategica-con-",
-    "tema": "disney"
-  },
-  {
-    "titulo": "Las Ambiciones de Elon Musk: Visiones Futuras de Starlink y el Negocio de IA de SpaceX",
-    "url": "https://tecno.ar/2026-08-04-las-ambiciones-de-elon-musk-visiones-futuras-de-starlink-y-e",
-    "tema": "musk"
-  },
-  {
-    "titulo": "El Tiempo de TV Time Revive con Bingers, la Nueva App Social de Seguimiento",
-    "url": "https://tecno.ar/2026-08-04-el-tiempo-de-tv-time-revive-con-bingers-la-nueva-app-social-",
-    "tema": "time"
-  },
-  {
-    "titulo": "Waymo Elimina la Lista de Espera para su Servicio de Robotaxis en Dallas",
-    "url": "https://tecno.ar/2026-08-04-waymo-elimina-la-lista-de-espera-para-su-servicio-de-robotax",
-    "tema": "dallas"
-  },
-  {
-    "titulo": "AWS Impulsa el `Vibe` Coding de Superblocks para IA Segura en la Nube Privada",
-    "url": "https://tecno.ar/2026-08-04-aws-impulsa-el-vibe-coding-de-superblocks-para-ia-segura-en-",
-    "tema": "vibe"
   }
 ]
