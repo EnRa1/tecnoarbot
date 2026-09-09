@@ -1,5 +1,30 @@
 [
   {
+    "titulo": "El Gasto Empresarial en IA se Estancó en August: ¿Una Pausa de Verano o Señal de Alerta para el Sector Tech?",
+    "url": "https://tecno.ar/2026-09-09-el-gasto-empresarial-en-ia-se-estanco-en-august-una-pausa-de",
+    "tema": "august"
+  },
+  {
+    "titulo": "Uber Invierte $10 Millones en Carrum Mobility para Potenciar su Estrategia de Flotas en India",
+    "url": "https://tecno.ar/2026-09-09-uber-invierte-10-millones-en-carrum-mobility-para-potenciar-",
+    "tema": "uber"
+  },
+  {
+    "titulo": "Ex-Investigador de Anthropic Renuncia con Advertencias Apocalípticas sobre IA",
+    "url": "https://tecno.ar/2026-09-09-ex-investigador-de-anthropic-renuncia-con-advertencias-apoca",
+    "tema": "anthropic"
+  },
+  {
+    "titulo": "inDrive Expande su Negocio Más Allá del Transporte con Apuestas en Publicidad, Entregas y Finanzas",
+    "url": "https://tecno.ar/2026-09-09-indrive-expande-su-negocio-mas-alla-del-transporte-con-apues",
+    "tema": "indrive"
+  },
+  {
+    "titulo": "Instinct: El Asistente de IA Ahora Cuenta con su Propio Correo Electrónico para Mayor Autonomía",
+    "url": "https://tecno.ar/2026-09-09-instinct-el-asistente-de-ia-ahora-cuenta-con-su-propio-corre",
+    "tema": "instinct"
+  },
+  {
     "titulo": "Polémica por el Game 'Build the Wall': La Casa Blanca lo Elimina tras Queja de Tetris Company",
     "url": "https://tecno.ar/2026-09-09-polemica-por-el-game-build-the-wall-la-casa-blanca-lo-elimin",
     "tema": "game"
@@ -973,30 +998,5 @@
     "titulo": "Ex-ingenieros de Spotify Recaudan $10M para Llevar su IA de Recomendación al E-commerce",
     "url": "https://tecno.ar/2026-08-06-ex-ingenieros-de-spotify-recaudan-10m-para-llevar-su-ia-de-r",
     "tema": "spotify"
-  },
-  {
-    "titulo": "Ford Lanza la Fathom, su Nueva Pick-up Eléctrica con Precios Competitivos",
-    "url": "https://tecno.ar/2026-08-06-ford-lanza-la-fathom-su-nueva-pick-up-electrica-con-precios-",
-    "tema": "ford"
-  },
-  {
-    "titulo": "Prepárate para Impulsar Your Futuro: Descuento Exclusivo en TechCrunch Disrupt 2026",
-    "url": "https://tecno.ar/2026-08-05-preparate-para-impulsar-your-futuro-descuento-exclusivo-en-t",
-    "tema": "your"
-  },
-  {
-    "titulo": "Lucid Motors Retrasa su SUV Eléctrico Cosmos para Priorizar la Calidad",
-    "url": "https://tecno.ar/2026-08-05-lucid-motors-retrasa-su-suv-electrico-cosmos-para-priorizar-",
-    "tema": "lucid"
-  },
-  {
-    "titulo": "Reddit Potencia la Moderación con IA y Reduce la Importancia del Karma para Nuevos Usuarios",
-    "url": "https://tecno.ar/2026-08-05-reddit-potencia-la-moderacion-con-ia-y-reduce-la-importancia",
-    "tema": "moderation"
-  },
-  {
-    "titulo": "WindBorne Systems Recauda $37M para Impulsar la Predicción del Weather con IA y Globos",
-    "url": "https://tecno.ar/2026-08-05-windborne-systems-recauda-37m-para-impulsar-la-prediccion-de",
-    "tema": "weather"
   }
 ]
