@@ -1,5 +1,10 @@
 [
   {
+    "titulo": "Apple Lanza el Duo, su Primer Phone Plegable con Bisagra Diseñada con IA",
+    "url": "https://tecno.ar/2026-09-09-apple-lanza-el-duo-su-primer-phone-plegable-con-bisagra-dise",
+    "tema": "phone"
+  },
+  {
     "titulo": "El Gasto Empresarial en IA se Estancó en August: ¿Una Pausa de Verano o Señal de Alerta para el Sector Tech?",
     "url": "https://tecno.ar/2026-09-09-el-gasto-empresarial-en-ia-se-estanco-en-august-una-pausa-de",
     "tema": "august"
@@ -993,10 +998,5 @@
     "titulo": "Mirendil asegura un acuerdo de $100M con Google Cloud para potenciar su IA auto-mejorante",
     "url": "https://tecno.ar/2026-08-06-mirendil-asegura-un-acuerdo-de-100m-con-google-cloud-para-po",
     "tema": "mirendil"
-  },
-  {
-    "titulo": "Ex-ingenieros de Spotify Recaudan $10M para Llevar su IA de Recomendación al E-commerce",
-    "url": "https://tecno.ar/2026-08-06-ex-ingenieros-de-spotify-recaudan-10m-para-llevar-su-ia-de-r",
-    "tema": "spotify"
   }
 ]
