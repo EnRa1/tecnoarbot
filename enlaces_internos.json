@@ -1,5 +1,10 @@
 [
   {
+    "titulo": "Listen Labs: La Startup de IA que Declinó una Gigante Ronda de Financiamiento por Salesforce",
+    "url": "https://tecno.ar/2026-09-10-listen-labs-la-startup-de-ia-que-declino-una-gigante-ronda-d",
+    "tema": "listen"
+  },
+  {
     "titulo": "Apple Lanza el Duo, su Primer Phone Plegable con Bisagra Diseñada con IA",
     "url": "https://tecno.ar/2026-09-09-apple-lanza-el-duo-su-primer-phone-plegable-con-bisagra-dise",
     "tema": "phone"
@@ -993,10 +998,5 @@
     "titulo": "Google Maps Se Transforma en Asistente Personal Avanzado con IA Agéntica",
     "url": "https://tecno.ar/2026-08-06-google-maps-se-transforma-en-asistente-personal-avanzado-con",
     "tema": "google"
-  },
-  {
-    "titulo": "Mirendil asegura un acuerdo de $100M con Google Cloud para potenciar su IA auto-mejorante",
-    "url": "https://tecno.ar/2026-08-06-mirendil-asegura-un-acuerdo-de-100m-con-google-cloud-para-po",
-    "tema": "mirendil"
   }
 ]
