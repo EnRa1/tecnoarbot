@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Anthropic Revela que su IA Luchó Contra CAPTCHAs en un Acceso No Autorizado",
+    "url": "https://tecno.ar/2026-09-10-anthropic-revela-que-su-ia-lucho-contra-captchas-en-un-acces",
+    "tema": "anthropic"
+  },
+  {
+    "titulo": "Amazon Facilita las Compras en Prime Video con Nuevas Funciones Interactivas",
+    "url": "https://tecno.ar/2026-09-10-amazon-facilita-las-compras-en-prime-video-con-nuevas-funcio",
+    "tema": "amazon"
+  },
+  {
+    "titulo": "Proxima Fusion Invierte €140 Millones en un Componente Clave para la Energía de Fusión",
+    "url": "https://tecno.ar/2026-09-10-proxima-fusion-invierte-140-millones-en-un-componente-clave-",
+    "tema": "fusion"
+  },
+  {
     "titulo": "IDScan Confirma Robo Masivo de Más de 150 Millones de Licencias de Conducir (Driver’s Licenses) en Brecha de Datos",
     "url": "https://tecno.ar/2026-09-10-idscan-confirma-robo-masivo-de-mas-de-150-millones-de-licenc",
     "tema": "driver"
@@ -983,20 +998,5 @@
     "titulo": "Hadrian, Gigante de la Defense Tech, Recauda $1.37 Mil Millones",
     "url": "https://tecno.ar/2026-08-07-hadrian-gigante-de-la-defense-tech-recauda-137-mil-millones",
     "tema": "defense"
-  },
-  {
-    "titulo": "LightSpy: El Sofisticado Spyware Chino Expande su Alcance Global y Evoluciona a Plataforma Comercial",
-    "url": "https://tecno.ar/2026-08-07-lightspy-el-sofisticado-spyware-chino-expande-su-alcance-glo",
-    "tema": "spyware"
-  },
-  {
-    "titulo": "Google Advierte: Campaña de Vishing Extorsiona a Firmas Financieras, Exponiendo a Numerosas **Víctimas**",
-    "url": "https://tecno.ar/2026-08-07-google-advierte-campana-de-vishing-extorsiona-a-firmas-finan",
-    "tema": "victims"
-  },
-  {
-    "titulo": "La New Mexico Court Ordena a Meta Pagar $942 Millones y Modificar Plataformas por Daño a Menores",
-    "url": "https://tecno.ar/2026-08-07-la-new-mexico-court-ordena-a-meta-pagar-942-millones-y-modif",
-    "tema": "court"
   }
 ]

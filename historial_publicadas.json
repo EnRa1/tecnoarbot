@@ -1,29 +1,5 @@
 [
   {
-    "titulo": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-    "fecha": "2026-09-03T15:25:02.486516"
-  },
-  {
-    "titulo": "Volunteer at TechCrunch Founder Summit in Boston",
-    "fecha": "2026-09-03T15:25:28.990584"
-  },
-  {
-    "titulo": "TikTok comments are getting more interactive with voice comments, polls, and more",
-    "fecha": "2026-09-03T15:27:41.065805"
-  },
-  {
-    "titulo": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-    "fecha": "2026-09-03T15:29:17.178574"
-  },
-  {
-    "titulo": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
-    "fecha": "2026-09-03T15:29:50.612897"
-  },
-  {
-    "titulo": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-    "fecha": "2026-09-03T15:31:36.046428"
-  },
-  {
     "titulo": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
     "fecha": "2026-09-03T19:31:50.786044"
   },
@@ -186,5 +162,17 @@
   {
     "titulo": "ID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen",
     "fecha": "2026-09-10T15:32:09.850962"
+  },
+  {
+    "titulo": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
+    "fecha": "2026-09-10T19:20:17.887124"
+  },
+  {
+    "titulo": "Amazon makes it easier to buy what you see on Prime Video",
+    "fecha": "2026-09-10T19:22:37.840766"
+  },
+  {
+    "titulo": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+    "fecha": "2026-09-10T19:24:09.310105"
   }
 ]
