@@ -1,29 +1,5 @@
 [
   {
-    "titulo": "Google’s revived nuclear power plant gets $1.9B loan from US government",
-    "fecha": "2026-09-08T15:33:27.784258"
-  },
-  {
-    "titulo": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-    "fecha": "2026-09-08T15:35:23.906890"
-  },
-  {
-    "titulo": "Mistral raises €3B as sovereign AI becomes big business",
-    "fecha": "2026-09-08T15:37:05.107067"
-  },
-  {
-    "titulo": "A hacker stole $340M in a crypto heist, then returned most of it",
-    "fecha": "2026-09-08T15:38:36.047214"
-  },
-  {
-    "titulo": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
-    "fecha": "2026-09-08T15:39:55.233660"
-  },
-  {
-    "titulo": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
-    "fecha": "2026-09-08T15:41:03.350316"
-  },
-  {
     "titulo": "Meta debuts its Muse AI agent. Will consumers trust it?",
     "fecha": "2026-09-08T19:40:12.859012"
   },
@@ -134,5 +110,17 @@
   {
     "titulo": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
     "fecha": "2026-09-15T01:07:24.482822"
+  },
+  {
+    "titulo": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+    "fecha": "2026-09-15T15:55:47.604563"
+  },
+  {
+    "titulo": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+    "fecha": "2026-09-15T15:57:01.275242"
+  },
+  {
+    "titulo": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+    "fecha": "2026-09-15T16:04:13.943960"
   }
 ]
