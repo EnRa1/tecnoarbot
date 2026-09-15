@@ -1,5 +1,10 @@
 [
   {
+    "titulo": "El Creciente Graveyard de la IA: Un Registro de Proyectos y Startups Fallidos",
+    "url": "https://tecno.ar/2026-09-15-el-creciente-graveyard-de-la-ia-un-registro-de-proyectos-y-s",
+    "tema": "graveyard"
+  },
+  {
     "titulo": "De Prototipo a la Producción: TechCrunch Disrupt 2026 Desvela Claves para Escalar IA en el Mundo Real",
     "url": "https://tecno.ar/2026-09-15-de-prototipo-a-la-produccion-techcrunch-disrupt-2026-desvela",
     "tema": "production"
@@ -993,10 +998,5 @@
     "titulo": "Anthropic Marcará el Contenido Generado por sus Modelos de IA, Incluyendo Claude",
     "url": "https://tecno.ar/2026-08-11-anthropic-marcara-el-contenido-generado-por-sus-modelos-de-i",
     "tema": "generated"
-  },
-  {
-    "titulo": "Panos Panay de Amazon Explorará el Futuro Post-**Smartphone** en TechCrunch Disrupt 2026",
-    "url": "https://tecno.ar/2026-08-11-panos-panay-de-amazon-explorara-el-futuro-post-smartphone-en",
-    "tema": "smartphone"
   }
 ]
