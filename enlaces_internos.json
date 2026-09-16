@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "TechCrunch Disrupt 2026 Desvela la Próxima Ola de Jueces para Startup Battlefield",
+    "url": "https://tecno.ar/2026-09-16-techcrunch-disrupt-2026-desvela-la-proxima-ola-de-jueces-par",
+    "tema": "next"
+  },
+  {
+    "titulo": "Threads Impulsa a Creadores de Podcasts con Nuevas Herramientas de Promoción y Engagement",
+    "url": "https://tecno.ar/2026-09-16-threads-impulsa-a-creadores-de-podcasts-con-nuevas-herramien",
+    "tema": "threads"
+  },
+  {
+    "titulo": "Amazon Eleva el Salario Mínimo a $20 por Hour y Añade Beneficios Clave para Empleados de Operaciones",
+    "url": "https://tecno.ar/2026-09-16-amazon-eleva-el-salario-minimo-a-20-por-hour-y-anade-benefic",
+    "tema": "hour"
+  },
+  {
+    "titulo": "Google Parchea Vulnerabilidad Crítica de Día Cero en Teléfonos Pixel",
+    "url": "https://tecno.ar/2026-09-16-google-parchea-vulnerabilidad-critica-de-dia-cero-en-telefon",
+    "tema": "pixel"
+  },
+  {
+    "titulo": "La Robótica Aguarda su \"Momento ChatGPT\" Ante el Desafío de Datos Físicos",
+    "url": "https://tecno.ar/2026-09-16-la-robotica-aguarda-su-momento-chatgpt-ante-el-desafio-de-da",
+    "tema": "chatgpt"
+  },
+  {
+    "titulo": "May Mobility se prepara para liderar la **mobility** autónoma con su salida a bolsa",
+    "url": "https://tecno.ar/2026-09-16-may-mobility-se-prepara-para-liderar-la-mobility-autonoma-co",
+    "tema": "mobility"
+  },
+  {
     "titulo": "El Creciente Graveyard de la IA: Un Registro de Proyectos y Startups Fallidos",
     "url": "https://tecno.ar/2026-09-15-el-creciente-graveyard-de-la-ia-un-registro-de-proyectos-y-s",
     "tema": "graveyard"
@@ -968,35 +998,5 @@
     "titulo": "Blacksmith Triplica su Valoración a $550 Millones con Inyección de Capital para Validar Código IA",
     "url": "https://tecno.ar/2026-08-12-blacksmith-triplica-su-valoracion-a-550-millones-con-inyecci",
     "tema": "blacksmith"
-  },
-  {
-    "titulo": "Bluesky Enfrenta Caída de Usuarios Activos mientras Impulsa su Protocolo Descentralizado",
-    "url": "https://tecno.ar/2026-08-11-bluesky-enfrenta-caida-de-usuarios-activos-mientras-impulsa-",
-    "tema": "bluesky"
-  },
-  {
-    "titulo": "Sergey Brin ha Gastado más de Cien Million en su Lucha contra el Impuesto a los Billionaires",
-    "url": "https://tecno.ar/2026-08-11-sergey-brin-ha-gastado-mas-de-cien-million-en-su-lucha-contr",
-    "tema": "million"
-  },
-  {
-    "titulo": "Escalada Legal: Rippling Contrademanda a la Startup Runlayer por Patentes",
-    "url": "https://tecno.ar/2026-08-11-escalada-legal-rippling-contrademanda-a-la-startup-runlayer-",
-    "tema": "startup"
-  },
-  {
-    "titulo": "OpenAI Potencia su Defensa Cyber con Expansión de Daybreak y Nuevo Modelo Avanzado",
-    "url": "https://tecno.ar/2026-08-11-openai-potencia-su-defensa-cyber-con-expansion-de-daybreak-y",
-    "tema": "cyber"
-  },
-  {
-    "titulo": "OpenAI Realiza Recompra de Acciones por $7 Billion, Sugiriendo un Retraso en su IPO",
-    "url": "https://tecno.ar/2026-08-11-openai-realiza-recompra-de-acciones-por-7-billion-sugiriendo",
-    "tema": "billion"
-  },
-  {
-    "titulo": "Anthropic Marcará el Contenido Generado por sus Modelos de IA, Incluyendo Claude",
-    "url": "https://tecno.ar/2026-08-11-anthropic-marcara-el-contenido-generado-por-sus-modelos-de-i",
-    "tema": "generated"
   }
 ]

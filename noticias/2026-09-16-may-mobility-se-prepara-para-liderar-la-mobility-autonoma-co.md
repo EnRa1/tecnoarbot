@@ -1,0 +1,26 @@
+---
+titulo: "May Mobility se prepara para liderar la **mobility** autónoma con su salida a bolsa"
+fecha: 2026-09-16
+keyword: mobility
+---
+
+# May Mobility se prepara para liderar la **mobility** autónoma con su salida a bolsa
+
+*La compañía de vehículos autónomos May Mobility anunció su fusión con una SPAC para convertirse en la primera empresa pública de EE. UU. dedicada exclusivamente a servicios de ride-hailing autónomo, marcando un hito en la **mobility** del futuro.*
+
+May Mobility, una empresa fundada en 2017 y dedicada al desarrollo de vehículos autónomos, está a punto de dar un salto significativo en su trayectoria. La compañía ha anunciado su intención de fusionarse con una Compañía de Adquisición de Propósito Especial (SPAC), ACP Holdings Acquisition Corp., lo que la llevará a cotizar en bolsa. Este movimiento estratégico no solo busca inyectar capital fresco, sino que también posiciona a May Mobility como la primera empresa pública en Estados Unidos centrada exclusivamente en los servicios de ride-hailing autónomo. Este acuerdo podría valorar a May Mobility en 1.400 millones de dólares y recaudar más de 300 millones de dólares en capital, según revelaciones de la compañía este miércoles. La salida a bolsa servirá como un importante barómetro del apetito del mercado por las empresas puramente dedicadas a soluciones de mobility autónoma, en un sector que continúa madurando y buscando modelos de negocio sostenibles.
+
+## Un Enfoque "Asset-Light" y de Alianzas Estratégicas en la **Mobility**
+
+May Mobility se desmarca de los gigantes tecnológicos que también incursionan en la autonomía, como Tesla, Rivian, Alphabet (con Waymo) o las empresas de transporte de carga como Aurora y Kodiak. Su estrategia se basa en un modelo "asset-light" y "partnership-first", lo que significa que no busca ser propietaria y operadora de la vasta flota de robotaxis. En su lugar, la empresa vende sus vehículos autónomos a socios de flotas existentes a lo largo del tiempo, mientras conserva el control sobre funciones críticas como la supervisión remota y las actualizaciones de software. Este enfoque le permite monetizar su tecnología recibiendo tarifas fijas o licencias basadas en el número de viajes realizados, optimizando así la inversión y los riesgos operativos inherentes a la expansión de servicios de mobility avanzada.
+
+Actualmente, la tecnología de May Mobility impulsa flotas de Toyota Sienna autónomas en tres puntos clave de Estados Unidos. Estos incluyen una exitosa colaboración con Lyft en Atlanta, ofreciendo servicios de transporte, además de operar en las ciudades de Eden Prairie y Grand Rapids en Minnesota. La implementación de estos servicios ha permitido a la compañía generar ingresos cercanos a los 10 millones de dólares el año pasado, aunque con una considerable inversión de 93 millones de dólares en efectivo. Hasta la fecha, May Mobility ha completado más de 550.000 viajes autónomos pagados, cubriendo una distancia impresionante que supera el millón de millas. Este historial operativo es fundamental para demostrar la viabilidad y la seguridad de sus soluciones de mobility sin conductor.
+
+## Impulso a I+D y Expansión Global de la **Mobility** Autónoma
+
+La inyección de capital producto de la fusión no solo fortalecerá la posición financiera de May Mobility, sino que también impulsará ambiciosos planes de crecimiento y desarrollo. La compañía destinará una parte significativa de los ingresos a la investigación y el desarrollo, con un objetivo primordial: la eliminación progresiva de los conductores de seguridad de sus vehículos, un paso crucial hacia la autonomía total. Además, se realizarán inversiones estratégicas en la cadena de suministro para reducir los costos de sus componentes. A nivel geográfico, May Mobility ya ha iniciado su primer despliegue de prueba en Japón y tiene previstos lanzamientos comerciales en Arlington, Texas, en colaboración con Uber, para finales de este año o principios de 2027. Se esperan más anuncios sobre nuevas ubicaciones de despliegue en los próximos meses, consolidando su visión de futuro en la [mobility](https://tecno.ar/2026-09-15-de-prototipo-a-la-produccion-techcrunch-disrupt-2026-desvela) global.
+
+El acuerdo de fusión con ACP Holdings Acquisition Corp. contempla una operación de inversión privada en capital público (PIPE) valorada en 120 millones de dólares. Adicionalmente, se prevé la obtención de hasta 217 millones de dólares provenientes de una cuenta fiduciaria gestionada por ACP Holdings. Sin embargo, es importante destacar que la cantidad final de este último componente está sujeta a la decisión de los accionistas de la SPAC, quienes pueden optar por canjear sus acciones en el momento de la fusión, lo que podría reducir los fondos disponibles para May Mobility. Este tipo de transacciones son intrínsecas al mecanismo de las SPAC y suponen un factor a considerar en la capitalización definitiva de la empresa, que buscará consolidarse como referente en la industria de la [mobility](https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/) avanzada.
+
+## Fuentes
+TechCrunch - https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/
