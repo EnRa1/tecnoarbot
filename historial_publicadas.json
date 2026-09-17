@@ -1,17 +1,5 @@
 [
   {
-    "titulo": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
-    "fecha": "2026-09-10T19:20:17.887124"
-  },
-  {
-    "titulo": "Amazon makes it easier to buy what you see on Prime Video",
-    "fecha": "2026-09-10T19:22:37.840766"
-  },
-  {
-    "titulo": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-    "fecha": "2026-09-10T19:24:09.310105"
-  },
-  {
     "titulo": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
     "fecha": "2026-09-11T15:38:48.245407"
   },
@@ -122,5 +110,9 @@
   {
     "titulo": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
     "fecha": "2026-09-17T15:58:25.052226"
+  },
+  {
+    "titulo": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+    "fecha": "2026-09-17T19:57:41.821485"
   }
 ]

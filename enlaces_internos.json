@@ -1,5 +1,10 @@
 [
   {
+    "titulo": "Documentos Desclasificados Revelan que un Ejecutivo de Microsoft Calificó el Raspado de IA como \"Robo\"",
+    "url": "https://tecno.ar/2026-09-17-documentos-desclasificados-revelan-que-un-ejecutivo-de-micro",
+    "tema": "microsoft"
+  },
+  {
     "titulo": "Google, Nvidia y Anthropic Lanzan Coalición para Optimizar la Gestión de **Data** Energética en Centros de IA",
     "url": "https://tecno.ar/2026-09-17-google-nvidia-y-anthropic-lanzan-coalicion-para-optimizar-la",
     "tema": "data"
@@ -993,10 +998,5 @@
     "titulo": "Fermi Nombra a Lee McIntire como Nuevo CEO Impulsando su Estrategia de Energía Nuclear y IA",
     "url": "https://tecno.ar/2026-08-13-fermi-nombra-a-lee-mcintire-como-nuevo-ceo-impulsando-su-est",
     "tema": "fermi"
-  },
-  {
-    "titulo": "Northrop Grumman Lanza Flota de Robots Espaciales para Extender la Vida Útil de Satélites",
-    "url": "https://tecno.ar/2026-08-12-northrop-grumman-lanza-flota-de-robots-espaciales-para-exten",
-    "tema": "northrop"
   }
 ]
