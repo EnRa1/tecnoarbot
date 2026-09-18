@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Vuelo Autónomo de Joby Recorre EE. UU., Señalando Nuevas Ambiciones Tecnológicas",
+    "url": "https://tecno.ar/2026-09-18-vuelo-autonomo-de-joby-recorre-ee-uu-senalando-nuevas-ambici",
+    "tema": "joby"
+  },
+  {
+    "titulo": "Disney Nombra a Karandeep Anand, Ex CEO de Character.AI, como su Primer CTO",
+    "url": "https://tecno.ar/2026-09-18-disney-nombra-a-karandeep-anand-ex-ceo-de-characterai-como-s",
+    "tema": "disney"
+  },
+  {
+    "titulo": "Jev: El Nuevo **Model** de IA de un Ex-Inventor de ChatGPT que Transforma la Automatización de Software",
+    "url": "https://tecno.ar/2026-09-18-jev-el-nuevo-model-de-ia-de-un-ex-inventor-de-chatgpt-que-tr",
+    "tema": "model"
+  },
+  {
     "titulo": "Google y DeepMind Lanzan Instituto para Ampliar el Debate Global sobre la AGI",
     "url": "https://tecno.ar/2026-09-18-google-y-deepmind-lanzan-instituto-para-ampliar-el-debate-gl",
     "tema": "google"
@@ -983,20 +998,5 @@
     "titulo": "OpenAI Desvela el Modo Ultrafast: GPT-5.6 Sol Ahora 14 Veces Más Rápido",
     "url": "https://tecno.ar/2026-08-14-openai-desvela-el-modo-ultrafast-gpt-56-sol-ahora-14-veces-m",
     "tema": "ultrafast"
-  },
-  {
-    "titulo": "Uber y Pony.ai Aceleran Despliegue de 2.000 Robotaxis en Europa",
-    "url": "https://tecno.ar/2026-08-14-uber-y-ponyai-aceleran-despliegue-de-2000-robotaxis-en-europ",
-    "tema": "pony"
-  },
-  {
-    "titulo": "Inversores Demandan a Selena Gomez por Presunto Fraude en su Startup Wondermind",
-    "url": "https://tecno.ar/2026-08-13-inversores-demandan-a-selena-gomez-por-presunto-fraude-en-su",
-    "tema": "startup"
-  },
-  {
-    "titulo": "Ford Avanza con la Transformación de su **Factory** en Kentucky para la Producción de su Camioneta Eléctrica Fathom",
-    "url": "https://tecno.ar/2026-08-13-ford-avanza-con-la-transformacion-de-su-factory-en-kentucky-",
-    "tema": "factory"
   }
 ]
