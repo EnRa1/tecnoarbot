@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Google y DeepMind Lanzan Instituto para Ampliar el Debate Global sobre la AGI",
+    "url": "https://tecno.ar/2026-09-18-google-y-deepmind-lanzan-instituto-para-ampliar-el-debate-gl",
+    "tema": "google"
+  },
+  {
+    "titulo": "Crusoe Asegura $3.9 Mil Millones para Potenciar Centros de Datos y Fábricas de IA Modulares",
+    "url": "https://tecno.ar/2026-09-18-crusoe-asegura-39-mil-millones-para-potenciar-centros-de-dat",
+    "tema": "crusoe"
+  },
+  {
+    "titulo": "Últimas Horas para **Exhibit**ir en TechCrunch Disrupt 2026: Tu Startup al Frente",
+    "url": "https://tecno.ar/2026-09-18-ultimas-horas-para-exhibitir-en-techcrunch-disrupt-2026-tu-s",
+    "tema": "exhibit"
+  },
+  {
+    "titulo": "Investigadores Usan Claude para Hackear OpenAI, Exponiendo Vulnerabilidades Críticas",
+    "url": "https://tecno.ar/2026-09-18-investigadores-usan-claude-para-hackear-openai-exponiendo-vu",
+    "tema": "openai"
+  },
+  {
+    "titulo": "De Software a Fusión: Jeff Lawson, Co-**founder** de Twilio, Lidera la Energía con Inertia",
+    "url": "https://tecno.ar/2026-09-18-de-software-a-fusion-jeff-lawson-co-founder-de-twilio-lidera",
+    "tema": "founder"
+  },
+  {
+    "titulo": "Robinhood Redefine el Panorama Financiero Moderno en TechCrunch Disrupt 2026",
+    "url": "https://tecno.ar/2026-09-18-robinhood-redefine-el-panorama-financiero-moderno-en-techcru",
+    "tema": "financial"
+  },
+  {
     "titulo": "Mazama Energy Asegura $135 Millones para su Innovadora Geotermia de Roca Supercaliente",
     "url": "https://tecno.ar/2026-09-18-mazama-energy-asegura-135-millones-para-su-innovadora-geoter",
     "tema": "mazama"
@@ -968,35 +998,5 @@
     "titulo": "Ford Avanza con la Transformación de su **Factory** en Kentucky para la Producción de su Camioneta Eléctrica Fathom",
     "url": "https://tecno.ar/2026-08-13-ford-avanza-con-la-transformacion-de-su-factory-en-kentucky-",
     "tema": "factory"
-  },
-  {
-    "titulo": "OpenAI Reestructura su Cúpula Ejecutiva en Busca de Metas de Ingresos y Expansión Empresarial",
-    "url": "https://tecno.ar/2026-08-13-openai-reestructura-su-cupula-ejecutiva-en-busca-de-metas-de",
-    "tema": "openai"
-  },
-  {
-    "titulo": "Automattic Lanza **Mesh** para Android, Llevando la Gestión de Relaciones a Más Usuarios",
-    "url": "https://tecno.ar/2026-08-13-automattic-lanza-mesh-para-android-llevando-la-gestion-de-re",
-    "tema": "mesh"
-  },
-  {
-    "titulo": "Pioneros de la IA Debaten la Crucial Importancia de Mantener el Campo Abierto",
-    "url": "https://tecno.ar/2026-08-13-pioneros-de-la-ia-debaten-la-crucial-importancia-de-mantener",
-    "tema": "open"
-  },
-  {
-    "titulo": "Cognition Apunta a una Valoración de $40 Mil Millones en su Nueva Ronda de Financiación",
-    "url": "https://tecno.ar/2026-08-13-cognition-apunta-a-una-valoracion-de-40-mil-millones-en-su-n",
-    "tema": "valuation"
-  },
-  {
-    "titulo": "La FTC Distribuye $23.8 Millones en Reembolsos a Clientes y Repartidores de Grubhub",
-    "url": "https://tecno.ar/2026-08-13-la-ftc-distribuye-238-millones-en-reembolsos-a-clientes-y-re",
-    "tema": "grubhub"
-  },
-  {
-    "titulo": "La Controversial Decisión de Twitch: Contenido de Streamers Usado para Entrenar la IA de Amazon por Defecto",
-    "url": "https://tecno.ar/2026-08-13-la-controversial-decision-de-twitch-contenido-de-streamers-u",
-    "tema": "twitch"
   }
 ]
