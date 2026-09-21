@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Corridor Recauda $25 Millones para Transformar los Beneficios de Salud con IA para PYMES",
+    "url": "https://tecno.ar/2026-09-21-corridor-recauda-25-millones-para-transformar-los-beneficios",
+    "tema": "corridor"
+  },
+  {
+    "titulo": "Google VP Robby Stein en Disrupt 2026: Cómo Escalar Productos para **Billions** de Usuarios en la Era de la IA",
+    "url": "https://tecno.ar/2026-09-21-google-vp-robby-stein-en-disrupt-2026-como-escalar-productos",
+    "tema": "billions"
+  },
+  {
+    "titulo": "Google Lanza Googlebook: Una Nueva Laptop Potenciada por Gemini AI",
+    "url": "https://tecno.ar/2026-09-21-google-lanza-googlebook-una-nueva-laptop-potenciada-por-gemi",
+    "tema": "laptop"
+  },
+  {
+    "titulo": "Benchmark Pone el Foco en el Futuro del Venture Capital para Disrupt 2026",
+    "url": "https://tecno.ar/2026-09-21-benchmark-pone-el-foco-en-el-futuro-del-venture-capital-para",
+    "tema": "disrupt"
+  },
+  {
+    "titulo": "Tabby Reimaginando la Contabilidad para PYMES **con** IA y Automatización",
+    "url": "https://tecno.ar/2026-09-21-tabby-reimaginando-la-contabilidad-para-pymes-con-ia-y-autom",
+    "tema": "with"
+  },
+  {
+    "titulo": "Oura Busca Recaudar $2.2 Mil Millones en OPI, Priorizando a Accionistas Existentes",
+    "url": "https://tecno.ar/2026-09-21-oura-busca-recaudar-22-mil-millones-en-opi-priorizando-a-acc",
+    "tema": "oura"
+  },
+  {
     "titulo": "Vuelo Autónomo de Joby Recorre EE. UU., Señalando Nuevas Ambiciones Tecnológicas",
     "url": "https://tecno.ar/2026-09-18-vuelo-autonomo-de-joby-recorre-ee-uu-senalando-nuevas-ambici",
     "tema": "joby"
@@ -968,35 +998,5 @@
     "titulo": "La Evolución del Transporte Aéreo Eléctrico y los Movimientos de la Industria, según TechCrunch",
     "url": "https://tecno.ar/2026-08-17-la-evolucion-del-transporte-aereo-electrico-y-los-movimiento",
     "tema": "techcrunch"
-  },
-  {
-    "titulo": "CEO de Anthropic Responde a Críticas: La Crisis de Confianza es el Verdadero Desafío de la IA",
-    "url": "https://tecno.ar/2026-08-17-ceo-de-anthropic-responde-a-criticas-la-crisis-de-confianza-",
-    "tema": "anthropic"
-  },
-  {
-    "titulo": "La ambiciosa visión de IA de Mark Zuckerberg genera escepticismo entre expertos",
-    "url": "https://tecno.ar/2026-08-17-la-ambiciosa-vision-de-ia-de-mark-zuckerberg-genera-esceptic",
-    "tema": "zuckerberg"
-  },
-  {
-    "titulo": "Stripe Adquiere la Startup de Gateways de IA, OpenRouter, por Más de 7 Mil Millones de Dólares",
-    "url": "https://tecno.ar/2026-08-17-stripe-adquiere-la-startup-de-gateways-de-ia-openrouter-por-",
-    "tema": "openrouter"
-  },
-  {
-    "titulo": "Google Will Permitir Eliminar Marcas de Agua Visibles en sus Generaciones de IA",
-    "url": "https://tecno.ar/2026-08-14-google-will-permitir-eliminar-marcas-de-agua-visibles-en-sus",
-    "tema": "will"
-  },
-  {
-    "titulo": "Marco Arment Lanza Unforgetful: Una Nueva Aplicación de Reminders para Quienes Posponen Tareas",
-    "url": "https://tecno.ar/2026-08-14-marco-arment-lanza-unforgetful-una-nueva-aplicacion-de-remin",
-    "tema": "reminders"
-  },
-  {
-    "titulo": "OpenAI Desvela el Modo Ultrafast: GPT-5.6 Sol Ahora 14 Veces Más Rápido",
-    "url": "https://tecno.ar/2026-08-14-openai-desvela-el-modo-ultrafast-gpt-56-sol-ahora-14-veces-m",
-    "tema": "ultrafast"
   }
 ]
