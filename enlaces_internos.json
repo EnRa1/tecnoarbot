@@ -1,5 +1,10 @@
 [
   {
+    "titulo": "El Arquitecto de las Tiendas Apple Cuestiona el Futuro del Shopping con IA",
+    "url": "https://tecno.ar/2026-09-22-el-arquitecto-de-las-tiendas-apple-cuestiona-el-futuro-del-s",
+    "tema": "apple"
+  },
+  {
     "titulo": "Corridor Recauda $25 Millones para Transformar los Beneficios de Salud con IA para PYMES",
     "url": "https://tecno.ar/2026-09-21-corridor-recauda-25-millones-para-transformar-los-beneficios",
     "tema": "corridor"
@@ -993,10 +998,5 @@
     "titulo": "Domina la Fotografía Móvil: Consejos para Capturar las Mejores Fotos de tus Mascotas",
     "url": "https://tecno.ar/2026-08-17-domina-la-fotografia-movil-consejos-para-capturar-las-mejore",
     "tema": "photos"
-  },
-  {
-    "titulo": "La Evolución del Transporte Aéreo Eléctrico y los Movimientos de la Industria, según TechCrunch",
-    "url": "https://tecno.ar/2026-08-17-la-evolucion-del-transporte-aereo-electrico-y-los-movimiento",
-    "tema": "techcrunch"
   }
 ]
