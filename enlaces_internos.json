@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "TechCrunch Disrupt 2026: El Futuro del Venture Capital en la Era de la IA",
+    "url": "https://tecno.ar/2026-09-23-techcrunch-disrupt-2026-el-futuro-del-venture-capital-en-la-",
+    "tema": "venture"
+  },
+  {
+    "titulo": "YouTube Anuncia Nuevas Herramientas Impulsadas por IA para Creadores",
+    "url": "https://tecno.ar/2026-09-23-youtube-anuncia-nuevas-herramientas-impulsadas-por-ia-para-c",
+    "tema": "youtube"
+  },
+  {
+    "titulo": "YouTube Lanza 'Shorts Series' para Potenciar Narrativas Episódicas en sus Videos Cortos",
+    "url": "https://tecno.ar/2026-09-23-youtube-lanza-shorts-series-para-potenciar-narrativas-episod",
+    "tema": "shorts"
+  },
+  {
+    "titulo": "YouTube Potencia a Creadores con Nuevas Herramientas de IA en Studio",
+    "url": "https://tecno.ar/2026-09-23-youtube-potencia-a-creadores-con-nuevas-herramientas-de-ia-e",
+    "tema": "youtube"
+  },
+  {
+    "titulo": "Eight Sleep Lanza Pod 6: Innovación y Comodidad para Mejorar Tu Sleep",
+    "url": "https://tecno.ar/2026-09-23-eight-sleep-lanza-pod-6-innovacion-y-comodidad-para-mejorar-",
+    "tema": "sleep"
+  },
+  {
+    "titulo": "YouTube Music Transforma la Experiencia Musical con Nuevas Funciones de IA Conversacional",
+    "url": "https://tecno.ar/2026-09-23-youtube-music-transforma-la-experiencia-musical-con-nuevas-f",
+    "tema": "music"
+  },
+  {
     "titulo": "Qualcomm Impulsa la IA Móvil con sus Nuevos Procesadores Snapdragon Elite Gen 6",
     "url": "https://tecno.ar/2026-09-23-qualcomm-impulsa-la-ia-movil-con-sus-nuevos-procesadores-sna",
     "tema": "qualcomm"
@@ -968,35 +998,5 @@
     "titulo": "PayPal y Venmo Abren Caminos para Pagar **Tu** Matrícula Universitaria con Menos Fricción",
     "url": "https://tecno.ar/2026-08-19-paypal-y-venmo-abren-caminos-para-pagar-tu-matricula-univers",
     "tema": "your"
-  },
-  {
-    "titulo": "Vivodyne: la startup que desafía el \"hype\" de la IA en el descubrimiento de fármacos",
-    "url": "https://tecno.ar/2026-08-19-vivodyne-la-startup-que-desafia-el-hype-de-la-ia-en-el-descu",
-    "tema": "startup"
-  },
-  {
-    "titulo": "Cursor Lanza Origin, su Rival de Hospedaje de Código que Capitaliza la Frustración con GitHub",
-    "url": "https://tecno.ar/2026-08-18-cursor-lanza-origin-su-rival-de-hospedaje-de-codigo-que-capi",
-    "tema": "github"
-  },
-  {
-    "titulo": "Alerta Masiva de Spyware: Apple Notifica a Usuarios en 110 Países",
-    "url": "https://tecno.ar/2026-08-18-alerta-masiva-de-spyware-apple-notifica-a-usuarios-en-110-pa",
-    "tema": "apple"
-  },
-  {
-    "titulo": "Anthropic Dispara su Revenue Anualizado a $65 Mil Millones y Apunta a una Valoración de $2 Billones en Bolsa",
-    "url": "https://tecno.ar/2026-08-18-anthropic-dispara-su-revenue-anualizado-a-65-mil-millones-y-",
-    "tema": "revenue"
-  },
-  {
-    "titulo": "Grounded Asegura $5 Millones y Abre Nueva Planta para Impulsar la Personalización de Flotas Agnóstica a Vehículos",
-    "url": "https://tecno.ar/2026-08-18-grounded-asegura-5-millones-y-abre-nueva-planta-para-impulsa",
-    "tema": "grounded"
-  },
-  {
-    "titulo": "Einride Impulsa el Transporte Eléctrico con la Adquisición de 500 Tesla Semis",
-    "url": "https://tecno.ar/2026-08-18-einride-impulsa-el-transporte-electrico-con-la-adquisicion-d",
-    "tema": "einride"
   }
 ]
