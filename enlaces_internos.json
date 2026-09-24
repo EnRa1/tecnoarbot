@@ -1,5 +1,15 @@
 [
   {
+    "titulo": "Meta Lanza Gafas VR Ligeras con Foco en Entretenimiento y Experiencia IMAX",
+    "url": "https://tecno.ar/2026-09-24-meta-lanza-gafas-vr-ligeras-con-foco-en-entretenimiento-y-ex",
+    "tema": "meta"
+  },
+  {
+    "titulo": "Meta Presenta Muse Charm: Un Wearable con IA que Evoca al Tamagotchi",
+    "url": "https://tecno.ar/2026-09-24-meta-presenta-muse-charm-un-wearable-con-ia-que-evoca-al-tam",
+    "tema": "muse"
+  },
+  {
     "titulo": "Enveda Asegura $311 Millones para Impulsar Fármacos Derivados de la Naturaleza con IA",
     "url": "https://tecno.ar/2026-09-23-enveda-asegura-311-millones-para-impulsar-farmacos-derivados",
     "tema": "enveda"
@@ -988,15 +998,5 @@
     "titulo": "TikTok Explora Pagos P2P a Través de DM, Apuntando a Rivales como Venmo y Zelle",
     "url": "https://tecno.ar/2026-08-19-tiktok-explora-pagos-p2p-a-traves-de-dm-apuntando-a-rivales-",
     "tema": "tiktok"
-  },
-  {
-    "titulo": "El Departamento de Justicia Investiga a Andreessen Horowitz por Asientos en el Board de Empresas Competidoras",
-    "url": "https://tecno.ar/2026-08-19-el-departamento-de-justicia-investiga-a-andreessen-horowitz-",
-    "tema": "board"
-  },
-  {
-    "titulo": "Relativity Networks Capta $22M para Impulsar la **Fiber** Óptica Ultrarrápida en Centros de Datos",
-    "url": "https://tecno.ar/2026-08-19-relativity-networks-capta-22m-para-impulsar-la-fiber-optica-",
-    "tema": "fiber"
   }
 ]
