@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "TechCrunch Disrupt 2026: Cada Razón para No Perderse el Evento Clave de la Innovación Tecnológica",
+    "url": "https://tecno.ar/2026-09-24-techcrunch-disrupt-2026-cada-razon-para-no-perderse-el-event",
+    "tema": "reason"
+  },
+  {
+    "titulo": "Zach Yadegari Compartirá Claves de Crecimiento Viral en TechCrunch Disrupt 2026",
+    "url": "https://tecno.ar/2026-09-24-zach-yadegari-compartira-claves-de-crecimiento-viral-en-tech",
+    "tema": "yadegari"
+  },
+  {
+    "titulo": "Ando Emerge como Competidor de Slack con Plataforma de Mensajería para IA y Humanos",
+    "url": "https://tecno.ar/2026-09-24-ando-emerge-como-competidor-de-slack-con-plataforma-de-mensa",
+    "tema": "slack"
+  },
+  {
+    "titulo": "Lovable Impulsa su Valoración a $13.3 Mil Millones Tras Superar los $600 Millones en Ingresos",
+    "url": "https://tecno.ar/2026-09-24-lovable-impulsa-su-valoracion-a-133-mil-millones-tras-supera",
+    "tema": "lovable"
+  },
+  {
+    "titulo": "El Cruce Crucial: ¿Cuándo la IA Está Lista para el Mundo Real y las Misiones de Alto Riesgo?",
+    "url": "https://tecno.ar/2026-09-24-el-cruce-crucial-cuando-la-ia-esta-lista-para-el-mundo-real-",
+    "tema": "when"
+  },
+  {
+    "titulo": "Google Gemini Ahora Realiza Llamadas Telefónicas Completas por Vos",
+    "url": "https://tecno.ar/2026-09-24-google-gemini-ahora-realiza-llamadas-telefonicas-completas-p",
+    "tema": "google"
+  },
+  {
     "titulo": "Meta Lanza Gafas VR Ligeras con Foco en Entretenimiento y Experiencia IMAX",
     "url": "https://tecno.ar/2026-09-24-meta-lanza-gafas-vr-ligeras-con-foco-en-entretenimiento-y-ex",
     "tema": "meta"
@@ -968,35 +998,5 @@
     "titulo": "Binance Lanza Agent OS: La Inteligencia Artificial Autonómica Llega al Trading Cripto",
     "url": "https://tecno.ar/2026-08-20-binance-lanza-agent-os-la-inteligencia-artificial-autonomica",
     "tema": "binance"
-  },
-  {
-    "titulo": "Meta AI Desembarca en Mac con App Dedicada para Dictado y Herramientas Empresariales",
-    "url": "https://tecno.ar/2026-08-20-meta-ai-desembarca-en-mac-con-app-dedicada-para-dictado-y-he",
-    "tema": "meta"
-  },
-  {
-    "titulo": "OpenAI Lanza “Private Safety Processing” para Elevar la **Privacy** Empresarial",
-    "url": "https://tecno.ar/2026-08-19-openai-lanza-private-safety-processing-para-elevar-la-privac",
-    "tema": "privacy"
-  },
-  {
-    "titulo": "TerraPower Propone Reactores Nucleares con Almacenamiento para Centros de **Data** de IA",
-    "url": "https://tecno.ar/2026-08-19-terrapower-propone-reactores-nucleares-con-almacenamiento-pa",
-    "tema": "data"
-  },
-  {
-    "titulo": "TechCrunch Disrupt 2026: Asegura **Your** Pase Antes del Último Descuento",
-    "url": "https://tecno.ar/2026-08-19-techcrunch-disrupt-2026-asegura-your-pase-antes-del-ultimo-d",
-    "tema": "your"
-  },
-  {
-    "titulo": "OpenAI Refuerza su Seguridad con Nuevas Políticas Tras Incidentes y Ante el Avance de la IA",
-    "url": "https://tecno.ar/2026-08-19-openai-refuerza-su-seguridad-con-nuevas-politicas-tras-incid",
-    "tema": "openai"
-  },
-  {
-    "titulo": "TikTok Explora Pagos P2P a Través de DM, Apuntando a Rivales como Venmo y Zelle",
-    "url": "https://tecno.ar/2026-08-19-tiktok-explora-pagos-p2p-a-traves-de-dm-apuntando-a-rivales-",
-    "tema": "tiktok"
   }
 ]
