@@ -1,5 +1,30 @@
 [
   {
+    "titulo": "TechCrunch Disrupt 2026 Abre sus Puertas a Talentos Desempleados con Oferta Especial",
+    "url": "https://tecno.ar/2026-09-25-techcrunch-disrupt-2026-abre-sus-puertas-a-talentos-desemple",
+    "tema": "disrupt"
+  },
+  {
+    "titulo": "Ricursive Intelligence: Cuando la IA Transforma el Proceso de Designing Chips",
+    "url": "https://tecno.ar/2026-09-25-ricursive-intelligence-cuando-la-ia-transforma-el-proceso-de",
+    "tema": "designing"
+  },
+  {
+    "titulo": "Tesla Inicia Entregas de su Semi Eléctrico Tras Años de Desarrollo",
+    "url": "https://tecno.ar/2026-09-25-tesla-inicia-entregas-de-su-semi-electrico-tras-anos-de-desa",
+    "tema": "tesla"
+  },
+  {
+    "titulo": "Anthropic: Los Founders Buscan Asegurar Control de Voto Ante Próxima OPI",
+    "url": "https://tecno.ar/2026-09-25-anthropic-los-founders-buscan-asegurar-control-de-voto-ante-",
+    "tema": "founders"
+  },
+  {
+    "titulo": "Kiteworks Alerta a Miles de Clientes por Amenaza Cibernética Inminente y Recomienda Apagado Preventivo",
+    "url": "https://tecno.ar/2026-09-25-kiteworks-alerta-a-miles-de-clientes-por-amenaza-cibernetica",
+    "tema": "kiteworks"
+  },
+  {
     "titulo": "Oferta Imperdible: Asiste a TechCrunch Disrupt 2026 con un Acompañante y Duplica tu Impacto",
     "url": "https://tecno.ar/2026-09-24-oferta-imperdible-asiste-a-techcrunch-disrupt-2026-con-un-ac",
     "tema": "disrupt"
@@ -973,30 +998,5 @@
     "titulo": "ChatGPT Ahora Permite Enviar Mensajes de Apple, Conectando Tu Inbox con IA",
     "url": "https://tecno.ar/2026-08-20-chatgpt-ahora-permite-enviar-mensajes-de-apple-conectando-tu",
     "tema": "chatgpt"
-  },
-  {
-    "titulo": "OpenAI Recorta Terreno a Anthropic en el Dinámico Mercado Empresarial de IA en EE. UU.",
-    "url": "https://tecno.ar/2026-08-20-openai-recorta-terreno-a-anthropic-en-el-dinamico-mercado-em",
-    "tema": "openai"
-  },
-  {
-    "titulo": "Travis Kalanick Vuelve a la Carga con Críticas a VCs y Lecciones de Uber",
-    "url": "https://tecno.ar/2026-08-20-travis-kalanick-vuelve-a-la-carga-con-criticas-a-vcs-y-lecci",
-    "tema": "travis"
-  },
-  {
-    "titulo": "CEO de **Cognition** Desmiente Reporte de Intento de Adquisición por Parte de SpaceX",
-    "url": "https://tecno.ar/2026-08-20-ceo-de-cognition-desmiente-reporte-de-intento-de-adquisicion",
-    "tema": "cognition"
-  },
-  {
-    "titulo": "Waymo Lanza su Robotaxi Ojai de Próxima Generación a Todos los Usuarios en Tres Ciudades Clave",
-    "url": "https://tecno.ar/2026-08-20-waymo-lanza-su-robotaxi-ojai-de-proxima-generacion-a-todos-l",
-    "tema": "waymo"
-  },
-  {
-    "titulo": "Stripe Realiza Una Audaz Apuesta por la IA con la Adquisición de OpenRouter por $7.500 Millones",
-    "url": "https://tecno.ar/2026-08-20-stripe-realiza-una-audaz-apuesta-por-la-ia-con-la-adquisicio",
-    "tema": "stripe"
   }
 ]
