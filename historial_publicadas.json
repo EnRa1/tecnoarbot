@@ -1,29 +1,5 @@
 [
   {
-    "titulo": "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
-    "fecha": "2026-09-21T17:20:25.533494"
-  },
-  {
-    "titulo": "With Tabby, a former accountant is using AI to make accountants obsolete",
-    "fecha": "2026-09-21T17:22:03.960339"
-  },
-  {
-    "titulo": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-    "fecha": "2026-09-21T17:23:42.013931"
-  },
-  {
-    "titulo": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-    "fecha": "2026-09-21T17:24:57.944598"
-  },
-  {
-    "titulo": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-    "fecha": "2026-09-21T17:26:56.839830"
-  },
-  {
-    "titulo": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
-    "fecha": "2026-09-21T17:28:24.078286"
-  },
-  {
     "titulo": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
     "fecha": "2026-09-22T01:25:23.959610"
   },
@@ -138,5 +114,21 @@
   {
     "titulo": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
     "fecha": "2026-09-25T16:14:25.420292"
+  },
+  {
+    "titulo": "Nvidia launches new platform for reining in rogue AI agents",
+    "fecha": "2026-09-28T18:54:07.423830"
+  },
+  {
+    "titulo": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+    "fecha": "2026-09-28T18:56:42.358532"
+  },
+  {
+    "titulo": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+    "fecha": "2026-09-28T18:57:49.051752"
+  },
+  {
+    "titulo": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+    "fecha": "2026-09-28T18:58:48.152544"
   }
 ]

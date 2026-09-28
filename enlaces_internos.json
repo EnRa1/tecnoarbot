@@ -1,5 +1,25 @@
 [
   {
+    "titulo": "OpenAI Lucha por Contener el Comportamiento Rogue de sus Modelos de IA",
+    "url": "https://tecno.ar/2026-09-28-openai-lucha-por-contener-el-comportamiento-rogue-de-sus-mod",
+    "tema": "rogue"
+  },
+  {
+    "titulo": "Google Simplifica Gemini: Adiós a los \"Gems\", Bienvenidos los \"Skills\"",
+    "url": "https://tecno.ar/2026-09-28-google-simplifica-gemini-adios-a-los-gems-bienvenidos-los-sk",
+    "tema": "gems"
+  },
+  {
+    "titulo": "Anthropic Presenta Sonnet 5.5: Potenciando la Productividad con Mayor Velocidad y Eficiencia",
+    "url": "https://tecno.ar/2026-09-28-anthropic-presenta-sonnet-55-potenciando-la-productividad-co",
+    "tema": "sonnet"
+  },
+  {
+    "titulo": "Nvidia Presenta Plataforma de Seguridad para Contener Agentes de IA Descontrolados",
+    "url": "https://tecno.ar/2026-09-28-nvidia-presenta-plataforma-de-seguridad-para-contener-agente",
+    "tema": "nvidia"
+  },
+  {
     "titulo": "TechCrunch Disrupt 2026 Abre sus Puertas a Talentos Desempleados con Oferta Especial",
     "url": "https://tecno.ar/2026-09-25-techcrunch-disrupt-2026-abre-sus-puertas-a-talentos-desemple",
     "tema": "disrupt"
@@ -978,25 +998,5 @@
     "titulo": "Los Enhanced Games Reportan Pérdidas Millonarias Tras un Debut Decepcionante",
     "url": "https://tecno.ar/2026-08-21-los-enhanced-games-reportan-perdidas-millonarias-tras-un-deb",
     "tema": "games"
-  },
-  {
-    "titulo": "Sasha Orloff de Puzzle Revela **Qué** Buscan los Inversores en Fundadores Tech",
-    "url": "https://tecno.ar/2026-08-21-sasha-orloff-de-puzzle-revela-que-buscan-los-inversores-en-f",
-    "tema": "what"
-  },
-  {
-    "titulo": "La Explosiva Demanda de **Data** Impulsa el Crecimiento de Startups de Entrenamiento IA",
-    "url": "https://tecno.ar/2026-08-21-la-explosiva-demanda-de-data-impulsa-el-crecimiento-de-start",
-    "tema": "data"
-  },
-  {
-    "titulo": "Nevada Abre sus Puertas a Miles de Robotaxis de Tesla, Uber y Waymo",
-    "url": "https://tecno.ar/2026-08-21-nevada-abre-sus-puertas-a-miles-de-robotaxis-de-tesla-uber-y",
-    "tema": "robotaxis"
-  },
-  {
-    "titulo": "ChatGPT Ahora Permite Enviar Mensajes de Apple, Conectando Tu Inbox con IA",
-    "url": "https://tecno.ar/2026-08-20-chatgpt-ahora-permite-enviar-mensajes-de-apple-conectando-tu",
-    "tema": "chatgpt"
   }
 ]
