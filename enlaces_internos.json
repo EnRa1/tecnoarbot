@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Meta Amplía su Agente de IA Muse a Pequeñas Empresas con Integraciones Clave",
+    "url": "https://tecno.ar/2026-09-29-meta-amplia-su-agente-de-ia-muse-a-pequenas-empresas-con-int",
+    "tema": "agent"
+  },
+  {
+    "titulo": "Marissa Mayer Lanza Dazzle: El Asistente de IA Personal que Apuesta Todo al Carrete de Fotos",
+    "url": "https://tecno.ar/2026-09-29-marissa-mayer-lanza-dazzle-el-asistente-de-ia-personal-que-a",
+    "tema": "dazzle"
+  },
+  {
+    "titulo": "Oura Posponen Indefinidamente su OPI de $2.2 Mil Millones por Incertidumbre de Mercado",
+    "url": "https://tecno.ar/2026-09-29-oura-posponen-indefinidamente-su-opi-de-22-mil-millones-por-",
+    "tema": "oura"
+  },
+  {
+    "titulo": "Uhura Bionics Desarrolla Gafas Innovadoras para Restaurar la **Voz** con Emoción",
+    "url": "https://tecno.ar/2026-09-29-uhura-bionics-desarrolla-gafas-innovadoras-para-restaurar-la",
+    "tema": "voice"
+  },
+  {
+    "titulo": "Instinct: Más del 50% de sus Transacciones Anuales se Concentran en Viajes",
+    "url": "https://tecno.ar/2026-09-29-instinct-mas-del-50-de-sus-transacciones-anuales-se-concentr",
+    "tema": "transactions"
+  },
+  {
+    "titulo": "La Casa Blanca Lanza un Chatbot de IA para Navegar Servicios del Government",
+    "url": "https://tecno.ar/2026-09-29-la-casa-blanca-lanza-un-chatbot-de-ia-para-navegar-servicios",
+    "tema": "government"
+  },
+  {
     "titulo": "Peak XV Partners Aumenta Inversión en su Plataforma Seed, Surge, con Nueva Cohorte Global",
     "url": "https://tecno.ar/2026-09-29-peak-xv-partners-aumenta-inversion-en-su-plataforma-seed-sur",
     "tema": "surge"
@@ -968,35 +998,5 @@
     "titulo": "Linkdaze Lanza un Smart Calendar Diseñado para Organizar Todo el Hogar",
     "url": "https://tecno.ar/2026-08-24-linkdaze-lanza-un-smart-calendar-disenado-para-organizar-tod",
     "tema": "calendar"
-  },
-  {
-    "titulo": "Uber Enfrenta Multa de Casi Mil Millones de Dólares por Decisiones Automatizadas de Suspensión",
-    "url": "https://tecno.ar/2026-08-24-uber-enfrenta-multa-de-casi-mil-millones-de-dolares-por-deci",
-    "tema": "uber"
-  },
-  {
-    "titulo": "El Misterioso Modelo de IA Ox Alpha Desencadena Especulaciones Globales",
-    "url": "https://tecno.ar/2026-08-24-el-misterioso-modelo-de-ia-ox-alpha-desencadena-especulacion",
-    "tema": "model"
-  },
-  {
-    "titulo": "Starcloud Recauda Otros $250 Millones para sus Centros de Datos Orbitales",
-    "url": "https://tecno.ar/2026-08-21-starcloud-recauda-otros-250-millones-para-sus-centros-de-dat",
-    "tema": "starcloud"
-  },
-  {
-    "titulo": "El Departamento de Justicia Investiga a Andreessen **Horowitz** por Conflictos Antimonopolio en Asientos de Directorio",
-    "url": "https://tecno.ar/2026-08-21-el-departamento-de-justicia-investiga-a-andreessen-horowitz-",
-    "tema": "horowitz"
-  },
-  {
-    "titulo": "Expertos en Ciberseguridad Fueron **Targeted** con Falsa Conferencia Crypto",
-    "url": "https://tecno.ar/2026-08-21-expertos-en-ciberseguridad-fueron-targeted-con-falsa-confere",
-    "tema": "targeted"
-  },
-  {
-    "titulo": "Agua Reciclada: La Solución Sostenible para Enfriar Centros de **Data** de IA",
-    "url": "https://tecno.ar/2026-08-21-agua-reciclada-la-solucion-sostenible-para-enfriar-centros-d",
-    "tema": "data"
   }
 ]
