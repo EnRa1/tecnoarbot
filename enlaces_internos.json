@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "FedEx Impulsa la Electrificación Logística con Megapedido de 2.000 Camiones a Harbinger",
+    "url": "https://tecno.ar/2026-09-30-fedex-impulsa-la-electrificacion-logistica-con-megapedido-de",
+    "tema": "harbinger"
+  },
+  {
+    "titulo": "Destro emerge de la clandestinidad con $8 millones para optimizar la logística con IA",
+    "url": "https://tecno.ar/2026-09-30-destro-emerge-de-la-clandestinidad-con-8-millones-para-optim",
+    "tema": "destro"
+  },
+  {
+    "titulo": "Meta Desmiente Acusación de que su IA Muse Leyó Mensajes Privados sin Permiso, un Hecho **That** Genera Desconfianza",
+    "url": "https://tecno.ar/2026-09-30-meta-desmiente-acusacion-de-que-su-ia-muse-leyo-mensajes-pri",
+    "tema": "that"
+  },
+  {
     "titulo": "Elon Musk y xAI Adquieren 'dot.com' en una Curiosa Coincidencia con el Lanzamiento de OpenAI Dots",
     "url": "https://tecno.ar/2026-09-30-elon-musk-y-xai-adquieren-dotcom-en-una-curiosa-coincidencia",
     "tema": "musk"
@@ -983,20 +998,5 @@
     "titulo": "OpenAI Lanza \"ChatGPT Work\": Agentes de IA Para Todas las Profesiones",
     "url": "https://tecno.ar/2026-08-24-openai-lanza-chatgpt-work-agentes-de-ia-para-todas-las-profe",
     "tema": "openai"
-  },
-  {
-    "titulo": "General Intuition Aspira a $6 Mil Millones para Impulsar su IA General",
-    "url": "https://tecno.ar/2026-08-24-general-intuition-aspira-a-6-mil-millones-para-impulsar-su-i",
-    "tema": "general"
-  },
-  {
-    "titulo": "La Compleja Legalidad del Entrenamiento de **Models** de IA con Obras Protegidas",
-    "url": "https://tecno.ar/2026-08-24-la-compleja-legalidad-del-entrenamiento-de-models-de-ia-con-",
-    "tema": "models"
-  },
-  {
-    "titulo": "Flock Safety CEO Pide un Compromise Ante la Creciente Polémica por Vigilancia",
-    "url": "https://tecno.ar/2026-08-24-flock-safety-ceo-pide-un-compromise-ante-la-creciente-polemi",
-    "tema": "compromise"
   }
 ]
