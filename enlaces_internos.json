@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Brian Chesky de Airbnb Detalla su Visión de Futuro para las Interfaces de IA",
+    "url": "https://tecno.ar/2026-10-01-brian-chesky-de-airbnb-detalla-su-vision-de-futuro-para-las-",
+    "tema": "chesky"
+  },
+  {
+    "titulo": "Elon Musk y la \"Abundancia Asombrosa\": Un Año de Promesas Inconcretas para Tesla",
+    "url": "https://tecno.ar/2026-10-01-elon-musk-y-la-abundancia-asombrosa-un-ano-de-promesas-incon",
+    "tema": "musk"
+  },
+  {
+    "titulo": "Gobernador de California Veta Proyecto de Ley Clave sobre Dispositivos Wearable",
+    "url": "https://tecno.ar/2026-10-01-gobernador-de-california-veta-proyecto-de-ley-clave-sobre-di",
+    "tema": "california"
+  },
+  {
+    "titulo": "Shopify Lanza Canvas: La Construcción de Tiendas Online Ahora es Conversacional con IA",
+    "url": "https://tecno.ar/2026-10-01-shopify-lanza-canvas-la-construccion-de-tiendas-online-ahora",
+    "tema": "shopify"
+  },
+  {
+    "titulo": "Amazon Lanza Strands Decider 2B, un Nuevo Modelo de Decisión Open Source",
+    "url": "https://tecno.ar/2026-10-01-amazon-lanza-strands-decider-2b-un-nuevo-modelo-de-decision-",
+    "tema": "amazon"
+  },
+  {
+    "titulo": "MyMonthlyCar: La Innovadora Startup que Transforma el Inventario de Vehículos Usados en Alquileres Flexibles",
+    "url": "https://tecno.ar/2026-10-01-mymonthlycar-la-innovadora-startup-que-transforma-el-inventa",
+    "tema": "startup"
+  },
+  {
     "titulo": "El Pentágono Incorpora a Elon Musk para Definir la Guerra del Futuro",
     "url": "https://tecno.ar/2026-10-01-el-pentagono-incorpora-a-elon-musk-para-definir-la-guerra-de",
     "tema": "elon"
@@ -968,35 +998,5 @@
     "titulo": "Life360 Expande Monitoreo de Mascotas **with** Nuevas Etiquetas Escaneables y Funciones de Cuidado",
     "url": "https://tecno.ar/2026-08-25-life360-expande-monitoreo-de-mascotas-with-nuevas-etiquetas-",
     "tema": "with"
-  },
-  {
-    "titulo": "Donald Trump Adquiere **Shares** de SpaceX Tras su Exitosa IPO",
-    "url": "https://tecno.ar/2026-08-25-donald-trump-adquiere-shares-de-spacex-tras-su-exitosa-ipo",
-    "tema": "shares"
-  },
-  {
-    "titulo": "Oura, el Anillo Inteligente, Prepara una IPO de $16 Mil Millones",
-    "url": "https://tecno.ar/2026-08-25-oura-el-anillo-inteligente-prepara-una-ipo-de-16-mil-millone",
-    "tema": "oura"
-  },
-  {
-    "titulo": "El Auge y Caída de Situational Awareness: La Sonda de la SEC Examina el Fondo de IA That Sufrió una Pérdida Billonaria",
-    "url": "https://tecno.ar/2026-08-25-el-auge-y-caida-de-situational-awareness-la-sonda-de-la-sec-",
-    "tema": "that"
-  },
-  {
-    "titulo": "Airbound Recauda $37 Millones para Democratizar la Logística con Drones Autónomos",
-    "url": "https://tecno.ar/2026-08-25-airbound-recauda-37-millones-para-democratizar-la-logistica-",
-    "tema": "airbound"
-  },
-  {
-    "titulo": "OpenAI Lanza ChatGPT Work: Empoderando Profesionales **with** Agentes de IA Avanzados",
-    "url": "https://tecno.ar/2026-08-25-openai-lanza-chatgpt-work-empoderando-profesionales-with-age",
-    "tema": "with"
-  },
-  {
-    "titulo": "Fitbit Co-fundadores Lanzan Luffu Link: Una Nueva Era en Monitoreo de **Health**",
-    "url": "https://tecno.ar/2026-08-25-fitbit-co-fundadores-lanzan-luffu-link-una-nueva-era-en-moni",
-    "tema": "health"
   }
 ]
