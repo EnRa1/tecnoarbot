@@ -1,25 +1,5 @@
 [
   {
-    "titulo": "Nvidia launches new platform for reining in rogue AI agents",
-    "fecha": "2026-09-28T18:54:07.423830"
-  },
-  {
-    "titulo": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-    "fecha": "2026-09-28T18:56:42.358532"
-  },
-  {
-    "titulo": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-    "fecha": "2026-09-28T18:57:49.051752"
-  },
-  {
-    "titulo": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-    "fecha": "2026-09-28T18:58:48.152544"
-  },
-  {
-    "titulo": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-    "fecha": "2026-09-29T02:24:10.600589"
-  },
-  {
     "titulo": "Can a chatbot fix the government maze? The White House is about to find out",
     "fecha": "2026-09-29T17:11:39.428722"
   },
@@ -118,5 +98,25 @@
   {
     "titulo": "Meta wants your next gadget to be Muse-infused",
     "fecha": "2026-10-03T01:32:36.152829"
+  },
+  {
+    "titulo": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
+    "fecha": "2026-10-06T02:36:14.365950"
+  },
+  {
+    "titulo": "OpenAI will start watermarking ChatGPT’s text in the EU",
+    "fecha": "2026-10-06T02:37:06.698784"
+  },
+  {
+    "titulo": "Etched fields funding offers at $40B+ valuation, sources say",
+    "fecha": "2026-10-06T02:38:21.616490"
+  },
+  {
+    "titulo": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "fecha": "2026-10-06T02:43:13.781571"
+  },
+  {
+    "titulo": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "fecha": "2026-10-06T02:44:55.830798"
   }
 ]

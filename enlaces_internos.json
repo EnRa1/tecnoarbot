@@ -1,5 +1,30 @@
 [
   {
+    "titulo": "Instinct Lanza su Agente de IA en Chats Grupales, Ampliando su Alcance",
+    "url": "https://tecno.ar/2026-10-06-instinct-lanza-su-agente-de-ia-en-chats-grupales-ampliando-s",
+    "tema": "agent"
+  },
+  {
+    "titulo": "Reflection AI Lanza Beam, su Modelo de IA Abierta que Desafía a Gigantes con Menor Costo",
+    "url": "https://tecno.ar/2026-10-06-reflection-ai-lanza-beam-su-modelo-de-ia-abierta-que-desafia",
+    "tema": "reflection"
+  },
+  {
+    "titulo": "Etched: La Startup de Chips de IA que Duplica su Valoración con Nuevas Ofertas de $40.000 Millones",
+    "url": "https://tecno.ar/2026-10-06-etched-la-startup-de-chips-de-ia-que-duplica-su-valoracion-c",
+    "tema": "etched"
+  },
+  {
+    "titulo": "OpenAI Introducirá Marcas de Agua Invisibles en ChatGPT para la UE",
+    "url": "https://tecno.ar/2026-10-06-openai-introducira-marcas-de-agua-invisibles-en-chatgpt-para",
+    "tema": "openai"
+  },
+  {
+    "titulo": "Producción de EVs de Lucid Cae a Mínimos de Dos Años Mientras Reestructura su Estrategia",
+    "url": "https://tecno.ar/2026-10-06-produccion-de-evs-de-lucid-cae-a-minimos-de-dos-anos-mientra",
+    "tema": "lucid"
+  },
+  {
     "titulo": "Meta Lanza Muse Gadgets: Construye tu Propio Dispositivo con el Agente de IA",
     "url": "https://tecno.ar/2026-10-03-meta-lanza-muse-gadgets-construye-tu-propio-dispositivo-con-",
     "tema": "muse"
@@ -973,30 +998,5 @@
     "titulo": "Bluesky Introduce Opción de No-Viralidad para Publicaciones en su Feed \"Discover\"",
     "url": "https://tecno.ar/2026-08-27-bluesky-introduce-opcion-de-no-viralidad-para-publicaciones-",
     "tema": "bluesky"
-  },
-  {
-    "titulo": "La Directora Financiera de Rivian Renuncia en un Momento Clave para la Automotriz Eléctrica",
-    "url": "https://tecno.ar/2026-08-27-la-directora-financiera-de-rivian-renuncia-en-un-momento-cla",
-    "tema": "rivian"
-  },
-  {
-    "titulo": "EE.UU. Desmantela Gran Botnet China Usada para Ciberataques a Entidades Gubernamentales Clave",
-    "url": "https://tecno.ar/2026-08-26-eeuu-desmantela-gran-botnet-china-usada-para-ciberataques-a-",
-    "tema": "botnet"
-  },
-  {
-    "titulo": "Fabricante de Dispositivos Médicos Boston Scientific Sufre Disrupción Global por Cyberattack",
-    "url": "https://tecno.ar/2026-08-26-fabricante-de-dispositivos-medicos-boston-scientific-sufre-d",
-    "tema": "cyberattack"
-  },
-  {
-    "titulo": "Flipboard Refuerza su Apuesta por la Web Social Abierta con la Adquisición de Graze",
-    "url": "https://tecno.ar/2026-08-26-flipboard-refuerza-su-apuesta-por-la-web-social-abierta-con-",
-    "tema": "social"
-  },
-  {
-    "titulo": "Altas Direcciones en **OpenAI**: Exejecutivo de Centros de Datos Abandona en Medio de Ola de Salidas",
-    "url": "https://tecno.ar/2026-08-26-altas-direcciones-en-openai-exejecutivo-de-centros-de-datos-",
-    "tema": "openai"
   }
 ]
