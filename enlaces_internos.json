@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Bloom recauda $3.6 millones para su plataforma de IA en la manufactura de EE. UU.",
+    "url": "https://tecno.ar/2026-10-07-bloom-recauda-36-millones-para-su-plataforma-de-ia-en-la-man",
+    "tema": "bloom"
+  },
+  {
+    "titulo": "Healthleap Recauda $38 Millones para Potenciar su IA de Monitoreo Hospitalario",
+    "url": "https://tecno.ar/2026-10-07-healthleap-recauda-38-millones-para-potenciar-su-ia-de-monit",
+    "tema": "healthleap"
+  },
+  {
+    "titulo": "Meta Despliega Nuevas Herramientas de IA para Combatir Contenido de Abuso Infantil",
+    "url": "https://tecno.ar/2026-10-07-meta-despliega-nuevas-herramientas-de-ia-para-combatir-conte",
+    "tema": "meta"
+  },
+  {
+    "titulo": "Ex-CIA Officer Admite Fraude de $200 Millones con Programa Secreto Falso",
+    "url": "https://tecno.ar/2026-10-07-ex-cia-officer-admite-fraude-de-200-millones-con-programa-se",
+    "tema": "officer"
+  },
+  {
+    "titulo": "Greenairy Lanza Torres de Plantas Inteligentes para **Clean** el Aire de Oficinas",
+    "url": "https://tecno.ar/2026-10-07-greenairy-lanza-torres-de-plantas-inteligentes-para-clean-el",
+    "tema": "clean"
+  },
+  {
+    "titulo": "ChatGPT Se Vuelve Visual: OpenAI Presenta la Interfaz Inteligente UI con GPT-6",
+    "url": "https://tecno.ar/2026-10-07-chatgpt-se-vuelve-visual-openai-presenta-la-interfaz-intelig",
+    "tema": "chatgpt"
+  },
+  {
     "titulo": "Sorpresa Viral: **Amazon** Revela \"Culatas Planas\" y Otras Íntimas Inferencias de Usuarios",
     "url": "https://tecno.ar/2026-10-07-sorpresa-viral-amazon-revela-culatas-planas-y-otras-intimas-",
     "tema": "amazon"
@@ -968,35 +998,5 @@
     "titulo": "Lambda Asegura $1.000 Millones en Deuda para Impulsar la Adquisición de Chips de IA",
     "url": "https://tecno.ar/2026-08-28-lambda-asegura-1000-millones-en-deuda-para-impulsar-la-adqui",
     "tema": "chips"
-  },
-  {
-    "titulo": "Líderes de Anthropic y OpenAI Suben al AI Stage en TechCrunch Disrupt 2026",
-    "url": "https://tecno.ar/2026-08-28-lideres-de-anthropic-y-openai-suben-al-ai-stage-en-techcrunc",
-    "tema": "stage"
-  },
-  {
-    "titulo": "Vuelve StrictlyVC a Nueva York con un Panel de Expertos en Tecnología y Capital de Riesgo",
-    "url": "https://tecno.ar/2026-08-28-vuelve-strictlyvc-a-nueva-york-con-un-panel-de-expertos-en-t",
-    "tema": "york"
-  },
-  {
-    "titulo": "Ciberataque a la ATF Declarado un \"Major Incident\" por Robo de Datos Sensibles",
-    "url": "https://tecno.ar/2026-08-27-ciberataque-a-la-atf-declarado-un-major-incident-por-robo-de",
-    "tema": "major"
-  },
-  {
-    "titulo": "Barret Zoph, Figura Destacada de IA, Regresa a Google como Vicepresidente de Investigación",
-    "url": "https://tecno.ar/2026-08-27-barret-zoph-figura-destacada-de-ia-regresa-a-google-como-vic",
-    "tema": "zoph"
-  },
-  {
-    "titulo": "YouTube Potencia la Monetización para Creators con Integración Directa de Amazon",
-    "url": "https://tecno.ar/2026-08-27-youtube-potencia-la-monetizacion-para-creators-con-integraci",
-    "tema": "creators"
-  },
-  {
-    "titulo": "Meta Alcanza Acuerdo de $18 Mil Millones con Estados Unidos, Recibe Pase Legal para Datos Infantiles",
-    "url": "https://tecno.ar/2026-08-27-meta-alcanza-acuerdo-de-18-mil-millones-con-estados-unidos-r",
-    "tema": "meta"
   }
 ]
