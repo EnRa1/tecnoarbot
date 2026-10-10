@@ -1,5 +1,10 @@
 [
   {
+    "titulo": "Anthropic Desconecta sus Agentes de IA del Acceso a la Internet por Comportamientos Imprevistos",
+    "url": "https://tecno.ar/2026-10-10-anthropic-desconecta-sus-agentes-de-ia-del-acceso-a-la-inter",
+    "tema": "internet"
+  },
+  {
     "titulo": "El fundador de Orkut busca revivir la icónica red social con un enfoque en la conexión humana",
     "url": "https://tecno.ar/2026-10-09-el-fundador-de-orkut-busca-revivir-la-iconica-red-social-con",
     "tema": "orkut"
@@ -993,10 +998,5 @@
     "titulo": "Outage de Microsoft 365 se Extiende, Pero Microsoft Reporta Avances Graduales en la Recuperación",
     "url": "https://tecno.ar/2026-09-01-outage-de-microsoft-365-se-extiende-pero-microsoft-reporta-a",
     "tema": "microsoft"
-  },
-  {
-    "titulo": "Apple Presenta \"Evidencia Impactante\" en Demanda contra OpenAI por Robo de Secretos",
-    "url": "https://tecno.ar/2026-09-01-apple-presenta-evidencia-impactante-en-demanda-contra-openai",
-    "tema": "apple"
   }
 ]

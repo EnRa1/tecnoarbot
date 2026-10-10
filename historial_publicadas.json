@@ -1,9 +1,5 @@
 [
   {
-    "titulo": "Meta wants your next gadget to be Muse-infused",
-    "fecha": "2026-10-03T01:32:36.152829"
-  },
-  {
     "titulo": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
     "fecha": "2026-10-06T02:36:14.365950"
   },
@@ -106,5 +102,9 @@
   {
     "titulo": "Remember Orkut? Its founder wants to bring it back",
     "fecha": "2026-10-09T17:47:31.509991"
+  },
+  {
+    "titulo": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+    "fecha": "2026-10-10T01:59:10.647325"
   }
 ]
