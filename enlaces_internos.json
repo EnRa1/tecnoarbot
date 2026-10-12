@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Google Presenta Fitbit Edge: Un Wearable Inteligente que Une lo Mejor de la Línea Fitbit",
+    "url": "https://tecno.ar/2026-10-12-google-presenta-fitbit-edge-un-wearable-inteligente-que-une-",
+    "tema": "fitbit"
+  },
+  {
+    "titulo": "Blueprints AI: **This** Startup Genera Planos Arquitectónicos Listos para Permisos en Minutos con IA",
+    "url": "https://tecno.ar/2026-10-12-blueprints-ai-this-startup-genera-planos-arquitectonicos-lis",
+    "tema": "this"
+  },
+  {
+    "titulo": "Microsoft urge regulación global de IA y propone al Reino Unido como líder",
+    "url": "https://tecno.ar/2026-10-12-microsoft-urge-regulacion-global-de-ia-y-propone-al-reino-un",
+    "tema": "microsoft"
+  },
+  {
+    "titulo": "Honeyjar: La IA que Busca Redefinir las Relaciones Públicas y la Comunicación Estratégica",
+    "url": "https://tecno.ar/2026-10-12-honeyjar-la-ia-que-busca-redefinir-las-relaciones-publicas-y",
+    "tema": "honeyjar"
+  },
+  {
+    "titulo": "La Fuerza Aérea de EE. UU. Confía en WindBorne para Datos Meteorológicos Estratégicos",
+    "url": "https://tecno.ar/2026-10-12-la-fuerza-aerea-de-ee-uu-confia-en-windborne-para-datos-mete",
+    "tema": "windborne"
+  },
+  {
+    "titulo": "Meta Presenta Muse Wonder: Su Apuesta por la \"Superinteligencia Personal\" con Memoria Activa",
+    "url": "https://tecno.ar/2026-10-12-meta-presenta-muse-wonder-su-apuesta-por-la-superinteligenci",
+    "tema": "wonder"
+  },
+  {
     "titulo": "Anthropic Desconecta sus Agentes de IA del Acceso a la Internet por Comportamientos Imprevistos",
     "url": "https://tecno.ar/2026-10-10-anthropic-desconecta-sus-agentes-de-ia-del-acceso-a-la-inter",
     "tema": "internet"
@@ -968,35 +998,5 @@
     "titulo": "Anthropic Lanza Fable 5.1: Su IA Más Avanzada, Ahora Más Accesible y Segura",
     "url": "https://tecno.ar/2026-09-01-anthropic-lanza-fable-51-su-ia-mas-avanzada-ahora-mas-accesi",
     "tema": "fable"
-  },
-  {
-    "titulo": "TechCrunch Abre Convocatoria para Voluntarios en Disrupt 2026",
-    "url": "https://tecno.ar/2026-09-01-techcrunch-abre-convocatoria-para-voluntarios-en-disrupt-202",
-    "tema": "techcrunch"
-  },
-  {
-    "titulo": "Waymo Acelera su Expansión de Robotaxis con Lanzamientos en Denver, San Diego y Tampa",
-    "url": "https://tecno.ar/2026-09-01-waymo-acelera-su-expansion-de-robotaxis-con-lanzamientos-en-",
-    "tema": "waymo"
-  },
-  {
-    "titulo": "Newlight Impulsa el Transporte Marítimo con Innovador Sistema de Inyección de Hydrogen",
-    "url": "https://tecno.ar/2026-09-01-newlight-impulsa-el-transporte-maritimo-con-innovador-sistem",
-    "tema": "hydrogen"
-  },
-  {
-    "titulo": "Florida y Texas Frenan Cámaras de Vigilancia de Flock por Serias Preocupaciones de Privacidad",
-    "url": "https://tecno.ar/2026-09-01-florida-y-texas-frenan-camaras-de-vigilancia-de-flock-por-se",
-    "tema": "florida"
-  },
-  {
-    "titulo": "Fambot Lanza un \"Jefe de Gabinete\" con IA para la Organización Familiar",
-    "url": "https://tecno.ar/2026-09-01-fambot-lanza-un-jefe-de-gabinete-con-ia-para-la-organizacion",
-    "tema": "fambot"
-  },
-  {
-    "titulo": "Outage de Microsoft 365 se Extiende, Pero Microsoft Reporta Avances Graduales en la Recuperación",
-    "url": "https://tecno.ar/2026-09-01-outage-de-microsoft-365-se-extiende-pero-microsoft-reporta-a",
-    "tema": "microsoft"
   }
 ]
