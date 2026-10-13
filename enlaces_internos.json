@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Pluto Security Recauda $42M para Fortalecer la Seguridad Empresarial ante el Auge de la IA",
+    "url": "https://tecno.ar/2026-10-13-pluto-security-recauda-42m-para-fortalecer-la-seguridad-empr",
+    "tema": "security"
+  },
+  {
+    "titulo": "Laplace Intelligence Prepara la IA Física para un Mundo Real Impredecible",
+    "url": "https://tecno.ar/2026-10-13-laplace-intelligence-prepara-la-ia-fisica-para-un-mundo-real",
+    "tema": "world"
+  },
+  {
+    "titulo": "Olvídate de los Rockets: Longshot Space Technology Apunta a Disparar Cargas al Espacio con Cañones",
+    "url": "https://tecno.ar/2026-10-13-olvidate-de-los-rockets-longshot-space-technology-apunta-a-d",
+    "tema": "rockets"
+  },
+  {
+    "titulo": "Facebook Empodera a los Users con \"Your Algorithm\" para un Control Inédito del Feed",
+    "url": "https://tecno.ar/2026-10-13-facebook-empodera-a-los-users-con-your-algorithm-para-un-con",
+    "tema": "users"
+  },
+  {
+    "titulo": "Flox Intelligence: IA para mantener la fauna salvaje *away* de infraestructuras críticas",
+    "url": "https://tecno.ar/2026-10-13-flox-intelligence-ia-para-mantener-la-fauna-salvaje-away-de-",
+    "tema": "away"
+  },
+  {
+    "titulo": "Doug Field al Frente de Mind Robotics: Un Impulso Clave para la Robótica Industrial",
+    "url": "https://tecno.ar/2026-10-13-doug-field-al-frente-de-mind-robotics-un-impulso-clave-para-",
+    "tema": "robotics"
+  },
+  {
     "titulo": "TechCrunch Disrupt 2026: Tu Última Oportunidad para Asegurar tu Lugar en el Epicentro Tech",
     "url": "https://tecno.ar/2026-10-13-techcrunch-disrupt-2026-tu-ultima-oportunidad-para-asegurar-",
     "tema": "your"
@@ -968,35 +998,5 @@
     "titulo": "Adobe Integra Herramientas Creativas y de Productividad Directamente en Slack con IA",
     "url": "https://tecno.ar/2026-09-02-adobe-integra-herramientas-creativas-y-de-productividad-dire",
     "tema": "adobe"
-  },
-  {
-    "titulo": "Noruega Evalúa Prohibir Gafas Inteligentes con **Cámara** Ante Alerta de Privacidad",
-    "url": "https://tecno.ar/2026-09-02-noruega-evalua-prohibir-gafas-inteligentes-con-camara-ante-a",
-    "tema": "camera"
-  },
-  {
-    "titulo": "Adobe Adquiere Rilo para Impulsar su Inteligencia de Marketing con IA",
-    "url": "https://tecno.ar/2026-09-02-adobe-adquiere-rilo-para-impulsar-su-inteligencia-de-marketi",
-    "tema": "adobe"
-  },
-  {
-    "titulo": "Amazon Despliega IA para Combatir Estafas y Proteger a Sus Clientes",
-    "url": "https://tecno.ar/2026-09-02-amazon-despliega-ia-para-combatir-estafas-y-proteger-a-sus-c",
-    "tema": "amazon"
-  },
-  {
-    "titulo": "La startup de seguridad IA HiddenLayer recauda $100 millones para asegurar despliegues empresariales",
-    "url": "https://tecno.ar/2026-09-02-la-startup-de-seguridad-ia-hiddenlayer-recauda-100-millones-",
-    "tema": "hiddenlayer"
-  },
-  {
-    "titulo": "OpenAI Detalla Capacidades de Astra: Su Modelo de IA Ciberseguro que Puede Explotar Vulnerabilidades",
-    "url": "https://tecno.ar/2026-09-02-openai-detalla-capacidades-de-astra-su-modelo-de-ia-ciberseg",
-    "tema": "astra"
-  },
-  {
-    "titulo": "AfterQuery se Convierte en el Unicornio Más Rápido de Y Combinator con una Valoración de $3.200 Millones",
-    "url": "https://tecno.ar/2026-09-02-afterquery-se-convierte-en-el-unicornio-mas-rapido-de-y-comb",
-    "tema": "afterquery"
   }
 ]
