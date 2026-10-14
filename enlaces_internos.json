@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Netflix Anuncia Recortes de Personal en Medio de Competencia Intensificada",
+    "url": "https://tecno.ar/2026-10-14-netflix-anuncia-recortes-de-personal-en-medio-de-competencia",
+    "tema": "netflix"
+  },
+  {
+    "titulo": "Floqer Revela Plataforma IA de Conocimiento del Cliente y Plan de Código Abierto en TechCrunch Disrupt 2026",
+    "url": "https://tecno.ar/2026-10-14-floqer-revela-plataforma-ia-de-conocimiento-del-cliente-y-pl",
+    "tema": "floqer"
+  },
+  {
+    "titulo": "Última Llamada para la Innovación: TechCrunch Disrupt 2026 Ofrece 50% de Descuento en su Recta Final",
+    "url": "https://tecno.ar/2026-10-14-ultima-llamada-para-la-innovacion-techcrunch-disrupt-2026-of",
+    "tema": "disrupt"
+  },
+  {
     "titulo": "Cerebras CEO Andrew Feldman Desafía el Pesimismo de la IA y Reclama un Enfoque Realista",
     "url": "https://tecno.ar/2026-10-14-cerebras-ceo-andrew-feldman-desafia-el-pesimismo-de-la-ia-y-",
     "tema": "cerebras"
@@ -983,20 +998,5 @@
     "titulo": "TikTok Renueva la Interacción en sus Comentarios con Funciones Multimedia",
     "url": "https://tecno.ar/2026-09-03-tiktok-renueva-la-interaccion-en-sus-comentarios-con-funcion",
     "tema": "comments"
-  },
-  {
-    "titulo": "TechCrunch Anuncia Convocatoria para **Volunteer** en su Próximo Founder Summit en Boston",
-    "url": "https://tecno.ar/2026-09-03-techcrunch-anuncia-convocatoria-para-volunteer-en-su-proximo",
-    "tema": "volunteer"
-  },
-  {
-    "titulo": "Google Lanza WeatherNext 3: Un Modelo de IA que Transforma el Pronóstico del Tiempo",
-    "url": "https://tecno.ar/2026-09-03-google-lanza-weathernext-3-un-modelo-de-ia-que-transforma-el",
-    "tema": "google"
-  },
-  {
-    "titulo": "The Builders Stage Regresa a TechCrunch Disrupt 2026 con Estrategias para Escalar Startups",
-    "url": "https://tecno.ar/2026-09-03-the-builders-stage-regresa-a-techcrunch-disrupt-2026-con-est",
-    "tema": "builders"
   }
 ]
