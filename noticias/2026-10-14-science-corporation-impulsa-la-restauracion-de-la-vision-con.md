@@ -1,0 +1,30 @@
+---
+titulo: "Science Corporation Impulsa la Restauración de la Visión con Primer Implante de Chip PRIMA"
+fecha: 2026-10-14
+keyword: vision
+---
+
+# Science Corporation Impulsa la Restauración de la Visión con Primer Implante de Chip PRIMA
+
+*La empresa de Max Hodak ha logrado un hito crucial al implantar su innovador chip restaurador de la visión, PRIMA, en el primer paciente afectado por la enfermedad de Stargardt, ofreciendo una nueva esperanza para quienes padecen pérdida de visión central.*
+
+Science Corporation, la firma liderada por Max Hodak, quien previamente se desempeñó como presidente y cofundador de Neuralink, ha anunciado un avance significativo en el campo de las interfaces cerebro-máquina (BCI). La compañía ha implantado con éxito su chip ocular PRIMA en el primer paciente diagnosticado con la enfermedad de Stargardt, una afección hereditaria que degrada progresivamente la visión central. Este hito fue presentado por Hodak durante su participación en TechCrunch Disrupt 2026, donde explicó cómo el trabajo de PRIMA se integra en una búsqueda más amplia de nuevas tecnologías BCI. Su perspectiva es que estos dispositivos pueden expandirse más allá del control de computadoras para abordar un amplio espectro de aplicaciones en la tecnología médica.
+
+Hodak ha enfatizado que la retina es una parte intrínseca del sistema nervioso central, argumentando que los implantes cocleares, las prótesis retinianas y las prótesis motoras son todas variaciones de BCI. Esta visión ampliada subraya el potencial transformador de estas tecnologías en la medicina. Si bien PRIMA ya está disponible en Europa para pacientes con atrofia geográfica, una forma avanzada de degeneración macular relacionada con la edad, Science Corporation confía en que su enfoque podrá aplicarse a diversas enfermedades que afectan la visión, incluida la enfermedad de Stargardt, que actualmente carece de una cura efectiva y representa un desafío significativo para la salud ocular global.
+
+## El Desafío de la Visión Perdida por la Enfermedad de Stargardt
+
+La enfermedad de Stargardt se caracteriza por la muerte gradual de las células sensibles a la luz en la retina externa, un proceso que lleva a un punto ciego central que se agranda con el tiempo. Esta condición, que afecta a aproximadamente 150.000 personas en todo el mundo, generalmente respeta la retina interna, que es la encargada de transmitir las señales visuales al cerebro. Comprender cómo la [visión](https://techcrunch.com/2026/10/13/science-corporation-implants-its-[vision](https://tecno.ar/2026-10-13-pluto-security-recauda-42m-para-fortalecer-la-seguridad-empr)-restoring-chip-in-its-first-stargardt-disease-patient/) se traduce en actividad eléctrica para el cerebro es fundamental para el enfoque de Science Corporation. Como explicó Hodak, "la visión es potencial eléctrico, como la actividad eléctrica del nervio óptico. Eso es todo lo que la visión es para el cerebro, y si puedes conseguir que el nervio óptico señale al resto del cerebro correctamente, entonces puedes proporcionarle visión." Este principio es la base de la capacidad del implante para restaurar la percepción visual.
+
+El paciente que recibió el implante PRIMA lo hizo en mayo, como parte de un ensayo clínico en curso en el Sydney Eye Hospital de Australia. Los primeros resultados son alentadores y ofrecen una importante esperanza: durante su sesión inicial de rehabilitación, el paciente pudo distinguir una letra, y en la segunda, logró leer una palabra. Estos logros iniciales refuerzan la promesa de que la tecnología pueda restaurar una visión funcional y mejorar la calidad de vida de los afectados.
+
+## Innovación en la Restauración de la Visión y Próximos Pasos
+
+El procedimiento quirúrgico para instalar el dispositivo PRIMA es relativamente corto, con una duración aproximada de una hora. Consiste en la colocación de un chip diminuto en la parte posterior del ojo, precisamente en la región donde los fotorreceptores naturales han degenerado. Una vez implantado, los pacientes utilizan gafas especiales equipadas con una cámara. Esta cámara captura y transmite una representación visual del entorno directamente al chip, el cual emula la función de los fotorreceptores artificiales. Este sistema ingenioso convierte la luz en señales eléctricas que el cerebro puede interpretar.
+
+El implante actual, de apenas dos por dos milímetros, ofrece una experiencia visual que Hodak describe como "mirar a través de una pajita". Aunque proporciona un campo de visión central en blanco y negro, su notable nitidez y alto contraste permiten al paciente discernir un par de letras a la vez. El siguiente objetivo de Science Corporation es ambicioso: expandir significativamente este campo de visión. Esto requerirá el desarrollo de implantes de mayor tamaño que se adapten con precisión a la curvatura del ojo y una reducción del tamaño de los electrodos para conseguir un nivel de detalle más próximo a la acuidad natural. La compañía tiene previsto introducir la próxima generación de su implante en ensayos con humanos en el transcurso del próximo año y aspira a alcanzar una calidad de [visión](https://tecno.ar/2026-10-13-techcrunch-disrupt-2026-tu-ultima-oportunidad-para-asegurar-) casi nativa en los próximos cinco años.
+
+Fundada en 2021, Science Corporation estableció inicialmente un camino para el desarrollo de ingeniería neural avanzada y tecnología BCI. Sin embargo, su decisión de priorizar la restauración de la visión en personas con discapacidad visual es parte de una estrategia deliberada para validar la eficacia de sus métodos y construir una base empresarial sólida y sostenible. Este enfoque no solo aborda una necesidad médica crítica y desatendida, sino que también sienta las bases para futuras innovaciones en la interacción cerebro-máquina en un contexto más amplio, demostrando el vasto potencial de esta tecnología.
+
+## Fuentes
+TechCrunch - https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/
