@@ -1,5 +1,25 @@
 [
   {
+    "titulo": "TechCrunch Disrupt 2026 Cierra con Debates Visionarios y la Final del Startup Battlefield",
+    "url": "https://tecno.ar/2026-10-15-techcrunch-disrupt-2026-cierra-con-debates-visionarios-y-la-",
+    "tema": "techcrunch"
+  },
+  {
+    "titulo": "Google Lanza \"Universal Cart\" en EE. UU. para Simplificar tus Compras Online con IA",
+    "url": "https://tecno.ar/2026-10-15-google-lanza-universal-cart-en-ee-uu-para-simplificar-tus-co",
+    "tema": "cart"
+  },
+  {
+    "titulo": "Ramp Impulsa su Valoración a $60.000 Millones con Foco en la IA",
+    "url": "https://tecno.ar/2026-10-15-ramp-impulsa-su-valoracion-a-60000-millones-con-foco-en-la-i",
+    "tema": "ramp"
+  },
+  {
+    "titulo": "Rivian Anuncia Integración de Agentes de IA de Terceros para Vehículos Eléctricos",
+    "url": "https://tecno.ar/2026-10-15-rivian-anuncia-integracion-de-agentes-de-ia-de-terceros-para",
+    "tema": "rivian"
+  },
+  {
     "titulo": "Netflix Anuncia Recortes de Personal en Medio de Competencia Intensificada",
     "url": "https://tecno.ar/2026-10-14-netflix-anuncia-recortes-de-personal-en-medio-de-competencia",
     "tema": "netflix"
@@ -978,25 +998,5 @@
     "titulo": "La Carrera por la Fusión: Realta Fusion y Madison Gas Lideran la Conexión a la Red",
     "url": "https://tecno.ar/2026-09-03-la-carrera-por-la-fusion-realta-fusion-y-madison-gas-lideran",
     "tema": "fusion"
-  },
-  {
-    "titulo": "Palo Alto Networks Adquiere Console, Impulsada por Thrive Capital, en un Acuerdo de 500 Millones de Dólares",
-    "url": "https://tecno.ar/2026-09-03-palo-alto-networks-adquiere-console-impulsada-por-thrive-cap",
-    "tema": "thrive"
-  },
-  {
-    "titulo": "Zoox Extiende su Servicio de Robotaxis Comerciales al Aeropuerto de Las Vegas",
-    "url": "https://tecno.ar/2026-09-03-zoox-extiende-su-servicio-de-robotaxis-comerciales-al-aeropu",
-    "tema": "zoox"
-  },
-  {
-    "titulo": "Nvidia Adquiere Hugging Face por 12.930 Millones de Dólares en un Movimiento Clave para la IA Abierta",
-    "url": "https://tecno.ar/2026-09-03-nvidia-adquiere-hugging-face-por-12930-millones-de-dolares-e",
-    "tema": "hugging"
-  },
-  {
-    "titulo": "TikTok Renueva la Interacción en sus Comentarios con Funciones Multimedia",
-    "url": "https://tecno.ar/2026-09-03-tiktok-renueva-la-interaccion-en-sus-comentarios-con-funcion",
-    "tema": "comments"
   }
 ]
