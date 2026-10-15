@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Bluesky: Cómo **Make**r Sostenible una Red Social Descentralizada Sin Publicidad",
+    "url": "https://tecno.ar/2026-10-15-bluesky-como-maker-sostenible-una-red-social-descentralizada",
+    "tema": "make"
+  },
+  {
+    "titulo": "Amazon Apuesta por la Computación Ambiental y el Fin de las Apps con Nuevos Dispositivos AI",
+    "url": "https://tecno.ar/2026-10-15-amazon-apuesta-por-la-computacion-ambiental-y-el-fin-de-las-",
+    "tema": "amazon"
+  },
+  {
+    "titulo": "Meta Lanza Muse Spark Open, Su Modelo de IA de Peso Abierto Optimizado para Macs",
+    "url": "https://tecno.ar/2026-10-15-meta-lanza-muse-spark-open-su-modelo-de-ia-de-peso-abierto-o",
+    "tema": "open"
+  },
+  {
     "titulo": "TechCrunch Disrupt 2026 Cierra con Debates Visionarios y la Final del Startup Battlefield",
     "url": "https://tecno.ar/2026-10-15-techcrunch-disrupt-2026-cierra-con-debates-visionarios-y-la-",
     "tema": "techcrunch"
@@ -983,20 +998,5 @@
     "titulo": "CDs Están **Making** un Regreso Inesperado Impulsado por la Ola Retro Tech",
     "url": "https://tecno.ar/2026-09-04-cds-estan-making-un-regreso-inesperado-impulsado-por-la-ola-",
     "tema": "making"
-  },
-  {
-    "titulo": "Oura Se Prepara para Salir a Bolsa Impulsada por Crecimiento y Ambiciones en Salud Digital",
-    "url": "https://tecno.ar/2026-09-04-oura-se-prepara-para-salir-a-bolsa-impulsada-por-crecimiento",
-    "tema": "oura"
-  },
-  {
-    "titulo": "Abliteration.ai Comercializa Modelos de IA sin Guardrails, Abriendo el Debate Ético",
-    "url": "https://tecno.ar/2026-09-03-abliterationai-comercializa-modelos-de-ia-sin-guardrails-abr",
-    "tema": "guardrails"
-  },
-  {
-    "titulo": "La Carrera por la Fusión: Realta Fusion y Madison Gas Lideran la Conexión a la Red",
-    "url": "https://tecno.ar/2026-09-03-la-carrera-por-la-fusion-realta-fusion-y-madison-gas-lideran",
-    "tema": "fusion"
   }
 ]
