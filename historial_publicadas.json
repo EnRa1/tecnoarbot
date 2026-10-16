@@ -1,29 +1,5 @@
 [
   {
-    "titulo": "LumenUs helps automate tedious paperwork in times of grief",
-    "fecha": "2026-10-09T17:40:58.096441"
-  },
-  {
-    "titulo": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-    "fecha": "2026-10-09T17:41:28.207244"
-  },
-  {
-    "titulo": "Danu Robotics’ fight to build a better recycling robot",
-    "fecha": "2026-10-09T17:43:09.694743"
-  },
-  {
-    "titulo": "We can’t help treating AI like it’s human. But should we?",
-    "fecha": "2026-10-09T17:44:06.227795"
-  },
-  {
-    "titulo": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
-    "fecha": "2026-10-09T17:45:55.002107"
-  },
-  {
-    "titulo": "Remember Orkut? Its founder wants to bring it back",
-    "fecha": "2026-10-09T17:47:31.509991"
-  },
-  {
     "titulo": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
     "fecha": "2026-10-10T01:59:10.647325"
   },
@@ -166,5 +142,13 @@
   {
     "titulo": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
     "fecha": "2026-10-16T15:51:56.374873"
+  },
+  {
+    "titulo": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+    "fecha": "2026-10-16T19:46:28.583522"
+  },
+  {
+    "titulo": "India becomes the latest country to report rogue AI agent activity",
+    "fecha": "2026-10-16T19:48:58.087384"
   }
 ]
