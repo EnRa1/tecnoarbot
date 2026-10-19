@@ -1,9 +1,5 @@
 [
   {
-    "titulo": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-    "fecha": "2026-10-10T01:59:10.647325"
-  },
-  {
     "titulo": "Meta releases its first frontier model, Muse Wonder",
     "fecha": "2026-10-12T20:32:41.754365"
   },
@@ -150,5 +146,29 @@
   {
     "titulo": "India becomes the latest country to report rogue AI agent activity",
     "fecha": "2026-10-16T19:48:58.087384"
+  },
+  {
+    "titulo": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
+    "fecha": "2026-10-19T17:53:48.606331"
+  },
+  {
+    "titulo": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+    "fecha": "2026-10-19T17:55:09.316696"
+  },
+  {
+    "titulo": "People are using AI to make their smart TVs dumb again",
+    "fecha": "2026-10-19T17:56:11.861755"
+  },
+  {
+    "titulo": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+    "fecha": "2026-10-19T17:57:37.377683"
+  },
+  {
+    "titulo": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+    "fecha": "2026-10-19T17:58:56.812671"
+  },
+  {
+    "titulo": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
+    "fecha": "2026-10-19T17:59:50.703167"
   }
 ]

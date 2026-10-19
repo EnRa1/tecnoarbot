@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Elon Musk Promete la Donación de **Shares** de SpaceX a Niños Estadounidenses",
+    "url": "https://tecno.ar/2026-10-19-elon-musk-promete-la-donacion-de-shares-de-spacex-a-ninos-es",
+    "tema": "shares"
+  },
+  {
+    "titulo": "Apple Refuerza Normativas para Bloquear **Apps** Engañosas y de Contenido Ofensivo Generado por IA",
+    "url": "https://tecno.ar/2026-10-19-apple-refuerza-normativas-para-bloquear-apps-enganosas-y-de-",
+    "tema": "apps"
+  },
+  {
+    "titulo": "Nvidia Lanza Nuevos Modelos de IA Abiertos para Agentes Empresariales y PCs",
+    "url": "https://tecno.ar/2026-10-19-nvidia-lanza-nuevos-modelos-de-ia-abiertos-para-agentes-empr",
+    "tema": "nvidia"
+  },
+  {
+    "titulo": "La IA \"Dumbifica\" Tu Smart TV: Usuarios Eliminan Anuncios y Bloatware",
+    "url": "https://tecno.ar/2026-10-19-la-ia-dumbifica-tu-smart-tv-usuarios-eliminan-anuncios-y-blo",
+    "tema": "smart"
+  },
+  {
+    "titulo": "Amazon Impulsa una Nueva **Plant**a Nuclear de Pequeños Reactores en Indiana",
+    "url": "https://tecno.ar/2026-10-19-amazon-impulsa-una-nueva-planta-nuclear-de-pequenos-reactore",
+    "tema": "plant"
+  },
+  {
+    "titulo": "Rivian Prioriza la Autonomía para Impulsar Diseños Vehiculares Radicalmente Nuevos",
+    "url": "https://tecno.ar/2026-10-19-rivian-prioriza-la-autonomia-para-impulsar-disenos-vehicular",
+    "tema": "rivian"
+  },
+  {
     "titulo": "India: Agentes de IA Maliciosos Acceden a Datos Confidenciales en Organizaciones",
     "url": "https://tecno.ar/2026-10-16-india-agentes-de-ia-maliciosos-acceden-a-datos-confidenciale",
     "tema": "india"
@@ -968,35 +998,5 @@
     "titulo": "Sorpresa en Telluride: Un Nuevo Documentary Secreto de Elizabeth Holmes Causa Asombro",
     "url": "https://tecno.ar/2026-09-07-sorpresa-en-telluride-un-nuevo-documentary-secreto-de-elizab",
     "tema": "documentary"
-  },
-  {
-    "titulo": "OpenAI Introduce 'Opaque Recurrence': Una Nueva Técnica que Inquieta a Expertos en IA",
-    "url": "https://tecno.ar/2026-09-07-openai-introduce-opaque-recurrence-una-nueva-tecnica-que-inq",
-    "tema": "opaque"
-  },
-  {
-    "titulo": "El Impacto Real del Aumento de Costos de RAM en los Precios de la Tecnología",
-    "url": "https://tecno.ar/2026-09-07-el-impacto-real-del-aumento-de-costos-de-ram-en-los-precios-",
-    "tema": "real"
-  },
-  {
-    "titulo": "EcoFlow Hace las Estaciones de Energía Portátiles Aún Más Pequeñas",
-    "url": "https://tecno.ar/2026-09-07-ecoflow-hace-las-estaciones-de-energia-portatiles-aun-mas-pe",
-    "tema": "makes"
-  },
-  {
-    "titulo": "Sony Sorprende al Mercado con el Retorno de sus Legendarios Auriculares WH-1000XM4C",
-    "url": "https://tecno.ar/2026-09-07-sony-sorprende-al-mercado-con-el-retorno-de-sus-legendarios-",
-    "tema": "sony"
-  },
-  {
-    "titulo": "Autores Denuncian Disputas con Editoriales y Agentes por el Acuerdo de Copyright de Anthropic",
-    "url": "https://tecno.ar/2026-09-07-autores-denuncian-disputas-con-editoriales-y-agentes-por-el-",
-    "tema": "anthropic"
-  },
-  {
-    "titulo": "Phil Schiller se Desvincula de la Gestión de la App Store en Apple",
-    "url": "https://tecno.ar/2026-09-07-phil-schiller-se-desvincula-de-la-gestion-de-la-app-store-en",
-    "tema": "schiller"
   }
 ]
