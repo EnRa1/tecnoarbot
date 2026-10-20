@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Ataque a **OpenCode**: API Keys Expuestas y el Desafío de la IA Defensiva",
+    "url": "https://tecno.ar/2026-10-20-ataque-a-opencode-api-keys-expuestas-y-el-desafio-de-la-ia-d",
+    "tema": "opencode"
+  },
+  {
+    "titulo": "Hugging Face Alerta sobre la Inmadurez de las Evaluaciones de IA y Urge Estandarización",
+    "url": "https://tecno.ar/2026-10-20-hugging-face-alerta-sobre-la-inmadurez-de-las-evaluaciones-d",
+    "tema": "hugging"
+  },
+  {
+    "titulo": "Anthropic y Nscale en Negociaciones por Otro Megacuerdo de **Compute** de 45.000 Millones de Dólares",
+    "url": "https://tecno.ar/2026-10-20-anthropic-y-nscale-en-negociaciones-por-otro-megacuerdo-de-c",
+    "tema": "compute"
+  },
+  {
     "titulo": "Elon Musk Promete la Donación de **Shares** de SpaceX a Niños Estadounidenses",
     "url": "https://tecno.ar/2026-10-19-elon-musk-promete-la-donacion-de-shares-de-spacex-a-ninos-es",
     "tema": "shares"
@@ -983,20 +998,5 @@
     "titulo": "Mistral AI Capta €3 Mil Millones en Récord, Impulsando la Soberanía Tecnológica Europea",
     "url": "https://tecno.ar/2026-09-08-mistral-ai-capta-3-mil-millones-en-record-impulsando-la-sobe",
     "tema": "mistral"
-  },
-  {
-    "titulo": "Chrome Acelera sus Actualizaciones a Ciclo Quincenal Impulsado por Seguridad y la IA",
-    "url": "https://tecno.ar/2026-09-08-chrome-acelera-sus-actualizaciones-a-ciclo-quincenal-impulsa",
-    "tema": "chrome"
-  },
-  {
-    "titulo": "El Futuro del Power: Google Apuesta por la Energía Nuclear para Alimentar sus Data Centers de IA",
-    "url": "https://tecno.ar/2026-09-08-el-futuro-del-power-google-apuesta-por-la-energia-nuclear-pa",
-    "tema": "power"
-  },
-  {
-    "titulo": "Sorpresa en Telluride: Un Nuevo Documentary Secreto de Elizabeth Holmes Causa Asombro",
-    "url": "https://tecno.ar/2026-09-07-sorpresa-en-telluride-un-nuevo-documentary-secreto-de-elizab",
-    "tema": "documentary"
   }
 ]
