@@ -1,5 +1,25 @@
 [
   {
+    "titulo": "Inspired Capital Cierra Fondo de $450M, Marcando un Hito en el Flujo de Capital Tecnológico",
+    "url": "https://tecno.ar/2026-10-20-inspired-capital-cierra-fondo-de-450m-marcando-un-hito-en-el",
+    "tema": "capital"
+  },
+  {
+    "titulo": "Eka Robotics Alcanza una Valoración de $1.45 Mil Millones Gracias a un Modelo de IA Física Que Supera a los Humanos",
+    "url": "https://tecno.ar/2026-10-20-eka-robotics-alcanza-una-valoracion-de-145-mil-millones-grac",
+    "tema": "that"
+  },
+  {
+    "titulo": "Estados Unidos Ordena a Agencias Federales la Retirada de Tecnología DeepSeek por Seguridad Nacional",
+    "url": "https://tecno.ar/2026-10-20-estados-unidos-ordena-a-agencias-federales-la-retirada-de-te",
+    "tema": "deepseek"
+  },
+  {
+    "titulo": "Empleados de TikTok Alertaron Repetidamente sobre Riesgos para Menores que Ejecutivos Ignoraron",
+    "url": "https://tecno.ar/2026-10-20-empleados-de-tiktok-alertaron-repetidamente-sobre-riesgos-pa",
+    "tema": "tiktok"
+  },
+  {
     "titulo": "Ataque a **OpenCode**: API Keys Expuestas y el Desafío de la IA Defensiva",
     "url": "https://tecno.ar/2026-10-20-ataque-a-opencode-api-keys-expuestas-y-el-desafio-de-la-ia-d",
     "tema": "opencode"
@@ -978,25 +998,5 @@
     "titulo": "Meta Desafía la Confianza con Muse, su Agente de IA Personal para Tareas Diarias",
     "url": "https://tecno.ar/2026-09-08-meta-desafia-la-confianza-con-muse-su-agente-de-ia-personal-",
     "tema": "meta"
-  },
-  {
-    "titulo": "Poseidon Aerospace Recauda $60 Millones para Impulsar Aviones de Carga no Tripulados",
-    "url": "https://tecno.ar/2026-09-08-poseidon-aerospace-recauda-60-millones-para-impulsar-aviones",
-    "tema": "poseidon"
-  },
-  {
-    "titulo": "Bluecore Energy Recauda $50M para Impulsar su Visión de Energía Nuclear Flotante",
-    "url": "https://tecno.ar/2026-09-08-bluecore-energy-recauda-50m-para-impulsar-su-vision-de-energ",
-    "tema": "energy"
-  },
-  {
-    "titulo": "Un Hacker Devuelve la Mayor Parte de Criptomonedas Robadas en un Histórico Robo de $340 Millones",
-    "url": "https://tecno.ar/2026-09-08-un-hacker-devuelve-la-mayor-parte-de-criptomonedas-robadas-e",
-    "tema": "hacker"
-  },
-  {
-    "titulo": "Mistral AI Capta €3 Mil Millones en Récord, Impulsando la Soberanía Tecnológica Europea",
-    "url": "https://tecno.ar/2026-09-08-mistral-ai-capta-3-mil-millones-en-record-impulsando-la-sobe",
-    "tema": "mistral"
   }
 ]
