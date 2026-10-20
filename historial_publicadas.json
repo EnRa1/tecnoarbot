@@ -1,29 +1,5 @@
 [
   {
-    "titulo": "Rivian spinoff Mind Robotics hires former Ford EV chief Doug Field",
-    "fecha": "2026-10-13T18:38:57.571254"
-  },
-  {
-    "titulo": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-    "fecha": "2026-10-13T18:40:40.166187"
-  },
-  {
-    "titulo": "Facebook is giving users more control over their algorithm",
-    "fecha": "2026-10-13T18:42:06.454913"
-  },
-  {
-    "titulo": "Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026",
-    "fecha": "2026-10-13T18:43:47.468864"
-  },
-  {
-    "titulo": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "fecha": "2026-10-13T18:45:19.116177"
-  },
-  {
-    "titulo": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-    "fecha": "2026-10-13T18:47:18.975053"
-  },
-  {
     "titulo": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
     "fecha": "2026-10-14T01:30:10.196307"
   },
@@ -166,5 +142,9 @@
   {
     "titulo": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull",
     "fecha": "2026-10-20T16:09:13.474446"
+  },
+  {
+    "titulo": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+    "fecha": "2026-10-20T20:13:11.106211"
   }
 ]
