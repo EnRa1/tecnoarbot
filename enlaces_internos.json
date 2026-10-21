@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "SpaceX y Tesla Establecen Comités Especiales para Evaluar una Posible Fusión",
+    "url": "https://tecno.ar/2026-10-21-spacex-y-tesla-establecen-comites-especiales-para-evaluar-un",
+    "tema": "special"
+  },
+  {
+    "titulo": "Anthropic Propone Marco Legislativo para la AI Safety en EE. UU.",
+    "url": "https://tecno.ar/2026-10-21-anthropic-propone-marco-legislativo-para-la-ai-safety-en-ee-",
+    "tema": "safety"
+  },
+  {
+    "titulo": "Mach9 Recauda 34 Millones de Dólares para Impulsar su Software CAD con IA",
+    "url": "https://tecno.ar/2026-10-21-mach9-recauda-34-millones-de-dolares-para-impulsar-su-softwa",
+    "tema": "mach"
+  },
+  {
+    "titulo": "Pascal Renueva la Tecnología de Heat Pumps con Materiales Sólidos y Cierra Rondas de Inversión",
+    "url": "https://tecno.ar/2026-10-21-pascal-renueva-la-tecnologia-de-heat-pumps-con-materiales-so",
+    "tema": "heat"
+  },
+  {
+    "titulo": "La IA Aumenta la Productividad, Pero Genera Nuevos Desafíos para los Managers",
+    "url": "https://tecno.ar/2026-10-21-la-ia-aumenta-la-productividad-pero-genera-nuevos-desafios-p",
+    "tema": "managers"
+  },
+  {
+    "titulo": "Cofundador de Foursquare Lamenta Adquisición sin Retornos para Accionistas",
+    "url": "https://tecno.ar/2026-10-21-cofundador-de-foursquare-lamenta-adquisicion-sin-retornos-pa",
+    "tema": "foursquare"
+  },
+  {
     "titulo": "Google Eleva Gemini en Vehículos con Personalización Inteligente",
     "url": "https://tecno.ar/2026-10-20-google-eleva-gemini-en-vehiculos-con-personalizacion-intelig",
     "tema": "google"
@@ -968,35 +998,5 @@
     "titulo": "El Gasto Empresarial en IA se Estancó en August: ¿Una Pausa de Verano o Señal de Alerta para el Sector Tech?",
     "url": "https://tecno.ar/2026-09-09-el-gasto-empresarial-en-ia-se-estanco-en-august-una-pausa-de",
     "tema": "august"
-  },
-  {
-    "titulo": "Uber Invierte $10 Millones en Carrum Mobility para Potenciar su Estrategia de Flotas en India",
-    "url": "https://tecno.ar/2026-09-09-uber-invierte-10-millones-en-carrum-mobility-para-potenciar-",
-    "tema": "uber"
-  },
-  {
-    "titulo": "Ex-Investigador de Anthropic Renuncia con Advertencias Apocalípticas sobre IA",
-    "url": "https://tecno.ar/2026-09-09-ex-investigador-de-anthropic-renuncia-con-advertencias-apoca",
-    "tema": "anthropic"
-  },
-  {
-    "titulo": "inDrive Expande su Negocio Más Allá del Transporte con Apuestas en Publicidad, Entregas y Finanzas",
-    "url": "https://tecno.ar/2026-09-09-indrive-expande-su-negocio-mas-alla-del-transporte-con-apues",
-    "tema": "indrive"
-  },
-  {
-    "titulo": "Instinct: El Asistente de IA Ahora Cuenta con su Propio Correo Electrónico para Mayor Autonomía",
-    "url": "https://tecno.ar/2026-09-09-instinct-el-asistente-de-ia-ahora-cuenta-con-su-propio-corre",
-    "tema": "instinct"
-  },
-  {
-    "titulo": "Polémica por el Game 'Build the Wall': La Casa Blanca lo Elimina tras Queja de Tetris Company",
-    "url": "https://tecno.ar/2026-09-09-polemica-por-el-game-build-the-wall-la-casa-blanca-lo-elimin",
-    "tema": "game"
-  },
-  {
-    "titulo": "Apple Se Prepara para un Evento Clave con el Esperado iPhone Plegable",
-    "url": "https://tecno.ar/2026-09-08-apple-se-prepara-para-un-evento-clave-con-el-esperado-iphone",
-    "tema": "apple"
   }
 ]
