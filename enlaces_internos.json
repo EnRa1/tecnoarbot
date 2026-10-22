@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Spotify Lidera la Apuesta por la IA: Busca Ser el Servicio Musical Preferido por los Agentes Digitales",
+    "url": "https://tecno.ar/2026-10-22-spotify-lidera-la-apuesta-por-la-ia-busca-ser-el-servicio-mu",
+    "tema": "spotify"
+  },
+  {
+    "titulo": "Inversores Revelan Estrategias Cruciales para Captar Capital en un Mercado Tecnológico en Evolución",
+    "url": "https://tecno.ar/2026-10-22-inversores-revelan-estrategias-cruciales-para-captar-capital",
+    "tema": "investors"
+  },
+  {
+    "titulo": "Spotify Endurece su Plan Familiar con Nueva Verificación por Código QR",
+    "url": "https://tecno.ar/2026-10-22-spotify-endurece-su-plan-familiar-con-nueva-verificacion-por",
+    "tema": "plan"
+  },
+  {
+    "titulo": "Tesla Prepara una Expansión Masiva de su Servicio Cybercab",
+    "url": "https://tecno.ar/2026-10-22-tesla-prepara-una-expansion-masiva-de-su-servicio-cybercab",
+    "tema": "tesla"
+  },
+  {
+    "titulo": "Uber Expande el Uso de ChatGPT Work a sus 30.000 Empleados Globales",
+    "url": "https://tecno.ar/2026-10-22-uber-expande-el-uso-de-chatgpt-work-a-sus-30000-empleados-gl",
+    "tema": "chatgpt"
+  },
+  {
+    "titulo": "Intero Biosystems Conquista el Startup Battlefield 200 de TechCrunch Disrupt 2026",
+    "url": "https://tecno.ar/2026-10-22-intero-biosystems-conquista-el-startup-battlefield-200-de-te",
+    "tema": "techcrunch"
+  },
+  {
     "titulo": "Meta Condenada a Pagar $25 Mil Millones en Nuevo México por Violaciones de Datos",
     "url": "https://tecno.ar/2026-10-21-meta-condenada-a-pagar-25-mil-millones-en-nuevo-mexico-por-v",
     "tema": "meta"
@@ -968,35 +998,5 @@
     "titulo": "Proxima Fusion Invierte €140 Millones en un Componente Clave para la Energía de Fusión",
     "url": "https://tecno.ar/2026-09-10-proxima-fusion-invierte-140-millones-en-un-componente-clave-",
     "tema": "fusion"
-  },
-  {
-    "titulo": "IDScan Confirma Robo Masivo de Más de 150 Millones de Licencias de Conducir (Driver’s Licenses) en Brecha de Datos",
-    "url": "https://tecno.ar/2026-09-10-idscan-confirma-robo-masivo-de-mas-de-150-millones-de-licenc",
-    "tema": "driver"
-  },
-  {
-    "titulo": "Google Realiza su Mayor Inversión en Créditos de Carbono por Emisiones del Arroz",
-    "url": "https://tecno.ar/2026-09-10-google-realiza-su-mayor-inversion-en-creditos-de-carbono-por",
-    "tema": "rice"
-  },
-  {
-    "titulo": "Maven Robotics Recauda $100 Millones para Impulsar su Novedoso Robot de Logística",
-    "url": "https://tecno.ar/2026-09-10-maven-robotics-recauda-100-millones-para-impulsar-su-novedos",
-    "tema": "robot"
-  },
-  {
-    "titulo": "Bending Spoons Adquiere Miro por $1.360 Millones, una Caída del 92% Respecto a su Valoración Máxima",
-    "url": "https://tecno.ar/2026-09-10-bending-spoons-adquiere-miro-por-1360-millones-una-caida-del",
-    "tema": "miro"
-  },
-  {
-    "titulo": "La IA Desencadena un Aumento Masivo de Solicitudes en Servicios Públicos Globales",
-    "url": "https://tecno.ar/2026-09-10-la-ia-desencadena-un-aumento-masivo-de-solicitudes-en-servic",
-    "tema": "public"
-  },
-  {
-    "titulo": "The Boring Company de Elon Musk Recauda $3.000 Millones y Eleva su Valoración a $23.000 Millones",
-    "url": "https://tecno.ar/2026-09-10-the-boring-company-de-elon-musk-recauda-3000-millones-y-elev",
-    "tema": "boring"
   }
 ]
