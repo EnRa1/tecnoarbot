@@ -1,5 +1,15 @@
 [
   {
+    "titulo": "La Clave del Crecimiento Startup Fast: Más Allá de las Ventas Tempranas en la Era de la IA",
+    "url": "https://tecno.ar/2026-10-22-la-clave-del-crecimiento-startup-fast-mas-alla-de-las-ventas",
+    "tema": "fast"
+  },
+  {
+    "titulo": "The Browser Company Despedirá a Arc para Apostar por Dia, su Navegador con IA",
+    "url": "https://tecno.ar/2026-10-22-the-browser-company-despedira-a-arc-para-apostar-por-dia-su-",
+    "tema": "browser"
+  },
+  {
     "titulo": "Spotify Lidera la Apuesta por la IA: Busca Ser el Servicio Musical Preferido por los Agentes Digitales",
     "url": "https://tecno.ar/2026-10-22-spotify-lidera-la-apuesta-por-la-ia-busca-ser-el-servicio-mu",
     "tema": "spotify"
@@ -988,15 +998,5 @@
     "titulo": "Anthropic Revela que su IA Luchó Contra CAPTCHAs en un Acceso No Autorizado",
     "url": "https://tecno.ar/2026-09-10-anthropic-revela-que-su-ia-lucho-contra-captchas-en-un-acces",
     "tema": "anthropic"
-  },
-  {
-    "titulo": "Amazon Facilita las Compras en Prime Video con Nuevas Funciones Interactivas",
-    "url": "https://tecno.ar/2026-09-10-amazon-facilita-las-compras-en-prime-video-con-nuevas-funcio",
-    "tema": "amazon"
-  },
-  {
-    "titulo": "Proxima Fusion Invierte €140 Millones en un Componente Clave para la Energía de Fusión",
-    "url": "https://tecno.ar/2026-09-10-proxima-fusion-invierte-140-millones-en-un-componente-clave-",
-    "tema": "fusion"
   }
 ]
