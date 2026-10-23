@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-    "fecha": "2026-10-16T19:46:28.583522"
-  },
-  {
-    "titulo": "India becomes the latest country to report rogue AI agent activity",
-    "fecha": "2026-10-16T19:48:58.087384"
-  },
-  {
     "titulo": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
     "fecha": "2026-10-19T17:53:48.606331"
   },
@@ -150,5 +142,9 @@
   {
     "titulo": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
     "fecha": "2026-10-23T16:10:46.808603"
+  },
+  {
+    "titulo": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+    "fecha": "2026-10-23T20:10:02.972511"
   }
 ]
