@@ -1,0 +1,28 @@
+---
+titulo: "Ben Lamm y Palmer Luckey Lanzan Warhound: Perros de Guerra Genéticamente Modificados con $200 Millones"
+fecha: 2026-10-23
+keyword: warhound
+---
+
+# Ben Lamm y Palmer Luckey Lanzan Warhound: Perros de Guerra Genéticamente Modificados con $200 Millones
+
+*Una nueva startup llamada Warhound, fundada por Ben Lamm de Colossal Biosciences y Palmer Luckey de Anduril, ha salido del sigilo con una financiación de 200 millones de dólares para desarrollar perros de trabajo genéticamente mejorados destinados a fuerzas militares y de seguridad.*
+
+La innovación en el campo de la biotecnología aplicada a la seguridad ha dado un paso significativo con el lanzamiento de **Warhound**, una nueva empresa que busca revolucionar el papel de los perros de servicio mediante ingeniería genética. Detrás de esta iniciativa se encuentran figuras destacadas del sector tecnológico: Ben Lamm, CEO de Colossal Biosciences, conocido por sus proyectos de desextinción, y Palmer Luckey, fundador de Anduril. La compañía ha anunciado una ronda de financiación de 200 millones de dólares, lo que valora la empresa en 1.200 millones de dólares. Entre los inversores se incluyen firmas de capital de riesgo de alto perfil como Sequoia, 8VC, Corner Ventures e In-Q-Tel, esta última respaldada por la CIA y otras agencias de inteligencia de EE. UU.
+
+## El Origen de Warhound y la Necesidad de Perros de Servicio Mejorados
+
+La idea de **Warhound** surgió hace aproximadamente un año, cuando Lamm y Luckey discutieron la necesidad de mejorar el apoyo a los perros de trabajo militares. Lamm investigó a fondo cómo se crían actualmente estos animales y descubrió deficiencias significativas. Más del 80% de los perros de servicio del ejército estadounidense provienen de Europa, y menos de la mitad de ellos cumplen con los requisitos para el servicio. Esta dependencia de fuentes extranjeras y la baja tasa de aptitud representan un desafío para las operaciones de seguridad y defensa de EE. UU.
+
+Según la compañía, muchos de estos perros no superan el entrenamiento debido a predisposiciones genéticas a problemas de salud como mala vista, alta probabilidad de cáncer, displasia de cadera o atrofia muscular. Los futuros **warhound** aspiran a cambiar este panorama creando una nueva generación de perros con características adaptadas a misiones exigentes, abordando tareas peligrosas para humanos o difíciles para máquinas, como la detección de bombas, operaciones de búsqueda y otras funciones especializadas.
+
+## Ingeniería Genética y Equipamiento de Alta Tecnología para Warhound
+
+La propuesta de valor de **Warhound** se centra en la aplicación de tecnologías avanzadas. Colossal Biosciences aportará su experiencia en ingeniería genética, utilizando líneas celulares de las razas de perros de trabajo de alto rendimiento —como el Pastor Belga Malinois y el Pastor Alemán— almacenadas en un biobanco. A partir de estas células, el equipo de Lamm editará los genes, incorporando aquellos que mejorarán el rendimiento y eliminando los que puedan causar problemas de salud. El objetivo es potenciar la salud, la longevidad, la velocidad, la agilidad y la capacidad olfativa para tareas como la detección de explosivos. La clonación de los primeros lotes de estos **warhound** ya está en marcha, con nacimientos previstos para principios del próximo año y la entrada en servicio idealmente en dos años. Viagen, otra compañía propiedad de Colossal, colaborará en el proceso de clonación, destacada por su alta tasa de éxito y su uso en programas para especies en peligro de extinción. Esta sinergia de conocimientos es fundamental para la visión de la startup.
+
+Adicionalmente, Anduril, la empresa de Palmer Luckey, contribuirá con tecnología de hardware y software para complementar las capacidades genéticas de los **warhound**. Esto incluye chalecos protectores con sensores de datos y gafas que mejorarán la conciencia situacional y la coordinación con los guías humanos. Lamm explicó que la idea es que estos equipos envíen información en tiempo real a los adiestradores, permitiéndoles comprender mejor el entorno y garantizar la seguridad de los perros y de sus compañeros humanos, optimizando su rendimiento en el campo. Estas mejoras externas buscan reforzar la salud y la seguridad de los perros más allá de su composición genética. La inversión de 200 millones de dólares en [Warhound](https://tecno.ar/2026-10-22-inversores-revelan-estrategias-cruciales-para-captar-capital) refleja una fuerte confianza en su modelo innovador, un aspecto crucial para el crecimiento de cualquier startup en el sector tecnológico.
+
+El CEO de Colossal, Ben Lamm, señaló que Palmer Luckey participa como socio en la iniciativa, aunque sin poseer acciones directas en la empresa. Colossal, por su parte, posee participación en el negocio y otorga licencias de su tecnología para el desarrollo de los [warhounds](https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/). Este modelo de colaboración estratégica, junto con el respaldo financiero de inversores de peso, posiciona a la empresa como un actor clave en la intersección de la ciencia, la tecnología y la seguridad. El desarrollo de estos perros genéticamente superiores y equipados con tecnología punta podría transformar la forma en que las fuerzas militares y de seguridad llevan a cabo sus misiones más críticas, abriendo un nuevo capítulo en la historia de los animales de servicio.
+
+## Fuentes
+TechCrunch - https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/

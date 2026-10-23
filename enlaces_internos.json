@@ -1,5 +1,30 @@
 [
   {
+    "titulo": "Ben Lamm y Palmer Luckey Lanzan Warhound: Perros de Guerra Genéticamente Modificados con $200 Millones",
+    "url": "https://tecno.ar/2026-10-23-ben-lamm-y-palmer-luckey-lanzan-warhound-perros-de-guerra-ge",
+    "tema": "warhound"
+  },
+  {
+    "titulo": "Meta Aprueba Clases de Acciones Sin Voto: Estrategia Financiera y Reacción a Impuesto",
+    "url": "https://tecno.ar/2026-10-23-meta-aprueba-clases-de-acciones-sin-voto-estrategia-financie",
+    "tema": "meta"
+  },
+  {
+    "titulo": "La Sorprendente Capacidad de los Agentes de IA para Aprender Jugando",
+    "url": "https://tecno.ar/2026-10-23-la-sorprendente-capacidad-de-los-agentes-de-ia-para-aprender",
+    "tema": "agents"
+  },
+  {
+    "titulo": "inDrive Lidera la Movilidad Autónoma con Pruebas de Robotaxis en Kazajistán para 2027",
+    "url": "https://tecno.ar/2026-10-23-indrive-lidera-la-movilidad-autonoma-con-pruebas-de-robotaxi",
+    "tema": "indrive"
+  },
+  {
+    "titulo": "Oura Demanda Nuevamente a Ultrahuman: Batalla de Patentes por el Smart Ring se Recrudece",
+    "url": "https://tecno.ar/2026-10-23-oura-demanda-nuevamente-a-ultrahuman-batalla-de-patentes-por",
+    "tema": "ring"
+  },
+  {
     "titulo": "La Clave del Crecimiento Startup Fast: Más Allá de las Ventas Tempranas en la Era de la IA",
     "url": "https://tecno.ar/2026-10-22-la-clave-del-crecimiento-startup-fast-mas-alla-de-las-ventas",
     "tema": "fast"
@@ -973,30 +998,5 @@
     "titulo": "Waymo Despliega su Servicio de Robotaxis al Público en Las Vegas",
     "url": "https://tecno.ar/2026-09-14-waymo-despliega-su-servicio-de-robotaxis-al-publico-en-las-v",
     "tema": "waymo"
-  },
-  {
-    "titulo": "Microsoft Publica un Riguroso Código de Conducta para la Seguridad de su IA",
-    "url": "https://tecno.ar/2026-09-14-microsoft-publica-un-riguroso-codigo-de-conducta-para-la-seg",
-    "tema": "microsoft"
-  },
-  {
-    "titulo": "Daydream Potencia las Compras de Moda con IA y Apple Intelligence",
-    "url": "https://tecno.ar/2026-09-14-daydream-potencia-las-compras-de-moda-con-ia-y-apple-intelli",
-    "tema": "daydream"
-  },
-  {
-    "titulo": "Mecka AI Se Acera a los $500 Millones de Valoración para Impulsar el Entrenamiento de Robots",
-    "url": "https://tecno.ar/2026-09-12-mecka-ai-se-acera-a-los-500-millones-de-valoracion-para-impu",
-    "tema": "mecka"
-  },
-  {
-    "titulo": "Venture Capital Redefine Deportes: Collaborative Fund Sigue el Camino **That** Abrió Thrive",
-    "url": "https://tecno.ar/2026-09-11-venture-capital-redefine-deportes-collaborative-fund-sigue-e",
-    "tema": "that"
-  },
-  {
-    "titulo": "Anthropic Revela que su IA Luchó Contra CAPTCHAs en un Acceso No Autorizado",
-    "url": "https://tecno.ar/2026-09-10-anthropic-revela-que-su-ia-lucho-contra-captchas-en-un-acces",
-    "tema": "anthropic"
   }
 ]
