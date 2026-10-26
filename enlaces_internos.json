@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Apple Revela Nuevo iPad Mini con Pantalla OLED y Chip A20 Pro",
+    "url": "https://tecno.ar/2026-10-26-apple-revela-nuevo-ipad-mini-con-pantalla-oled-y-chip-a20-pr",
+    "tema": "ipad"
+  },
+  {
+    "titulo": "Anthropic Presenta Solicitud Oficial para Salir a Bolsa en una Esperada OPI",
+    "url": "https://tecno.ar/2026-10-26-anthropic-presenta-solicitud-oficial-para-salir-a-bolsa-en-u",
+    "tema": "anthropic"
+  },
+  {
+    "titulo": "Microsoft Ofrece Retiro Voluntario a Miles de Empleados en Reestructuración para la Era de la IA",
+    "url": "https://tecno.ar/2026-10-26-microsoft-ofrece-retiro-voluntario-a-miles-de-empleados-en-r",
+    "tema": "microsoft"
+  },
+  {
+    "titulo": "SpaceX Asegura $40.000 Millones para Impulsar su Infraestructura de IA",
+    "url": "https://tecno.ar/2026-10-26-spacex-asegura-40000-millones-para-impulsar-su-infraestructu",
+    "tema": "spacex"
+  },
+  {
+    "titulo": "La estrategia de Anthropic para fidelizar clientes empresariales se revela en su S-1",
+    "url": "https://tecno.ar/2026-10-26-la-estrategia-de-anthropic-para-fidelizar-clientes-empresari",
+    "tema": "anthropic"
+  },
+  {
+    "titulo": "Bedrock Robotics: La Startup de Excavadoras Autónomas Consigue $600 Millones y Alcanza una Valoración de $4.1 Mil Millones",
+    "url": "https://tecno.ar/2026-10-26-bedrock-robotics-la-startup-de-excavadoras-autonomas-consigu",
+    "tema": "startup"
+  },
+  {
     "titulo": "El TechCrunch Founder Summit 2026 Prioriza Roundtables para Abordar Desafíos Clave de Startups",
     "url": "https://tecno.ar/2026-10-23-el-techcrunch-founder-summit-2026-prioriza-roundtables-para-",
     "tema": "roundtables"
@@ -968,35 +998,5 @@
     "titulo": "De Prototipo a la Producción: TechCrunch Disrupt 2026 Desvela Claves para Escalar IA en el Mundo Real",
     "url": "https://tecno.ar/2026-09-15-de-prototipo-a-la-produccion-techcrunch-disrupt-2026-desvela",
     "tema": "production"
-  },
-  {
-    "titulo": "Startup Profound Alcanza Valoración Unicornio tras Cerrar una Ronda de $180 Millones",
-    "url": "https://tecno.ar/2026-09-15-startup-profound-alcanza-valoracion-unicornio-tras-cerrar-un",
-    "tema": "profound"
-  },
-  {
-    "titulo": "OpenAI, Google y Anthropic Unen Fuerzas en Conversaciones Clave sobre Seguridad de IA",
-    "url": "https://tecno.ar/2026-09-15-openai-google-y-anthropic-unen-fuerzas-en-conversaciones-cla",
-    "tema": "anthropic"
-  },
-  {
-    "titulo": "Alertan sobre el aumento de los ataques ClickFix: usuarios de Mac y Windows en riesgo",
-    "url": "https://tecno.ar/2026-09-15-alertan-sobre-el-aumento-de-los-ataques-clickfix-usuarios-de",
-    "tema": "clickfix"
-  },
-  {
-    "titulo": "Jensen Huang de Nvidia y Donald Trump Unen Fuerzas Contra el Freno a la Innovación en IA",
-    "url": "https://tecno.ar/2026-09-15-jensen-huang-de-nvidia-y-donald-trump-unen-fuerzas-contra-el",
-    "tema": "huang"
-  },
-  {
-    "titulo": "Superhuman Adquiere Fathom para Impulsar la Productividad con IA",
-    "url": "https://tecno.ar/2026-09-14-superhuman-adquiere-fathom-para-impulsar-la-productividad-co",
-    "tema": "superhuman"
-  },
-  {
-    "titulo": "TechCrunch Disrupt 2026 Aborda: ¿Qué Sucede Cuando OpenAI \"Lanza tu Hoja de Ruta\"?",
-    "url": "https://tecno.ar/2026-09-14-techcrunch-disrupt-2026-aborda-que-sucede-cuando-openai-lanz",
-    "tema": "what"
   }
 ]
