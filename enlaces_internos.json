@@ -1,5 +1,30 @@
 [
   {
+    "titulo": "Apple Lanza iOS 27.2 con Siri AI Avanzada, Multiview y Mejoras de Seguridad",
+    "url": "https://tecno.ar/2026-10-27-apple-lanza-ios-272-con-siri-ai-avanzada-multiview-y-mejoras",
+    "tema": "apple"
+  },
+  {
+    "titulo": "Apple Lanza Nuevos MacBook Pro y iMac con el Potente Chip M6",
+    "url": "https://tecno.ar/2026-10-27-apple-lanza-nuevos-macbook-pro-y-imac-con-el-potente-chip-m6",
+    "tema": "apple"
+  },
+  {
+    "titulo": "Alerta Crítica: **Hackers** Explotan Vulnerabilidades Clave en PHP",
+    "url": "https://tecno.ar/2026-10-27-alerta-critica-hackers-explotan-vulnerabilidades-clave-en-ph",
+    "tema": "hackers"
+  },
+  {
+    "titulo": "Ford Anuncia Cargadores Bidireccionales Económicos y el Fathom, su EV que Alimenta el Hogar",
+    "url": "https://tecno.ar/2026-10-27-ford-anuncia-cargadores-bidireccionales-economicos-y-el-fath",
+    "tema": "ford"
+  },
+  {
+    "titulo": "Google DeepMind Lanza Genie 4: Un Nuevo Model de Mundo Interactivos y Fotorrealistas",
+    "url": "https://tecno.ar/2026-10-27-google-deepmind-lanza-genie-4-un-nuevo-model-de-mundo-intera",
+    "tema": "model"
+  },
+  {
     "titulo": "Instagram Desafía a YouTube con Videos de Larga Duración: Hasta 90 Minutos",
     "url": "https://tecno.ar/2026-10-27-instagram-desafia-a-youtube-con-videos-de-larga-duracion-has",
     "tema": "instagram"
@@ -973,30 +998,5 @@
     "titulo": "TechCrunch Disrupt 2026 Desvela la Próxima Ola de Jueces para Startup Battlefield",
     "url": "https://tecno.ar/2026-09-16-techcrunch-disrupt-2026-desvela-la-proxima-ola-de-jueces-par",
     "tema": "next"
-  },
-  {
-    "titulo": "Threads Impulsa a Creadores de Podcasts con Nuevas Herramientas de Promoción y Engagement",
-    "url": "https://tecno.ar/2026-09-16-threads-impulsa-a-creadores-de-podcasts-con-nuevas-herramien",
-    "tema": "threads"
-  },
-  {
-    "titulo": "Amazon Eleva el Salario Mínimo a $20 por Hour y Añade Beneficios Clave para Empleados de Operaciones",
-    "url": "https://tecno.ar/2026-09-16-amazon-eleva-el-salario-minimo-a-20-por-hour-y-anade-benefic",
-    "tema": "hour"
-  },
-  {
-    "titulo": "Google Parchea Vulnerabilidad Crítica de Día Cero en Teléfonos Pixel",
-    "url": "https://tecno.ar/2026-09-16-google-parchea-vulnerabilidad-critica-de-dia-cero-en-telefon",
-    "tema": "pixel"
-  },
-  {
-    "titulo": "La Robótica Aguarda su \"Momento ChatGPT\" Ante el Desafío de Datos Físicos",
-    "url": "https://tecno.ar/2026-09-16-la-robotica-aguarda-su-momento-chatgpt-ante-el-desafio-de-da",
-    "tema": "chatgpt"
-  },
-  {
-    "titulo": "May Mobility se prepara para liderar la **mobility** autónoma con su salida a bolsa",
-    "url": "https://tecno.ar/2026-09-16-may-mobility-se-prepara-para-liderar-la-mobility-autonoma-co",
-    "tema": "mobility"
   }
 ]
