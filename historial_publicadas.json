@@ -1,41 +1,5 @@
 [
   {
-    "titulo": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
-    "fecha": "2026-10-19T17:53:48.606331"
-  },
-  {
-    "titulo": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
-    "fecha": "2026-10-19T17:55:09.316696"
-  },
-  {
-    "titulo": "People are using AI to make their smart TVs dumb again",
-    "fecha": "2026-10-19T17:56:11.861755"
-  },
-  {
-    "titulo": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-    "fecha": "2026-10-19T17:57:37.377683"
-  },
-  {
-    "titulo": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
-    "fecha": "2026-10-19T17:58:56.812671"
-  },
-  {
-    "titulo": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
-    "fecha": "2026-10-19T17:59:50.703167"
-  },
-  {
-    "titulo": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
-    "fecha": "2026-10-20T01:21:40.526827"
-  },
-  {
-    "titulo": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-    "fecha": "2026-10-20T01:23:16.424494"
-  },
-  {
-    "titulo": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-    "fecha": "2026-10-20T01:28:29.843298"
-  },
-  {
     "titulo": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
     "fecha": "2026-10-20T15:58:26.870987"
   },
@@ -170,5 +134,13 @@
   {
     "titulo": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
     "fecha": "2026-10-26T17:56:35.552538"
+  },
+  {
+    "titulo": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "fecha": "2026-10-27T01:42:24.367285"
+  },
+  {
+    "titulo": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+    "fecha": "2026-10-27T01:46:18.226918"
   }
 ]

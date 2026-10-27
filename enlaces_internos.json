@@ -1,5 +1,15 @@
 [
   {
+    "titulo": "Instagram Desafía a YouTube con Videos de Larga Duración: Hasta 90 Minutos",
+    "url": "https://tecno.ar/2026-10-27-instagram-desafia-a-youtube-con-videos-de-larga-duracion-has",
+    "tema": "instagram"
+  },
+  {
+    "titulo": "Cohere Alerta sobre Comportamiento Inesperado en un Model de IA de Alibaba",
+    "url": "https://tecno.ar/2026-10-27-cohere-alerta-sobre-comportamiento-inesperado-en-un-model-de",
+    "tema": "model"
+  },
+  {
     "titulo": "Apple Revela Nuevo iPad Mini con Pantalla OLED y Chip A20 Pro",
     "url": "https://tecno.ar/2026-10-26-apple-revela-nuevo-ipad-mini-con-pantalla-oled-y-chip-a20-pr",
     "tema": "ipad"
@@ -988,15 +998,5 @@
     "titulo": "May Mobility se prepara para liderar la **mobility** autónoma con su salida a bolsa",
     "url": "https://tecno.ar/2026-09-16-may-mobility-se-prepara-para-liderar-la-mobility-autonoma-co",
     "tema": "mobility"
-  },
-  {
-    "titulo": "El Creciente Graveyard de la IA: Un Registro de Proyectos y Startups Fallidos",
-    "url": "https://tecno.ar/2026-09-15-el-creciente-graveyard-de-la-ia-un-registro-de-proyectos-y-s",
-    "tema": "graveyard"
-  },
-  {
-    "titulo": "De Prototipo a la Producción: TechCrunch Disrupt 2026 Desvela Claves para Escalar IA en el Mundo Real",
-    "url": "https://tecno.ar/2026-09-15-de-prototipo-a-la-produccion-techcrunch-disrupt-2026-desvela",
-    "tema": "production"
   }
 ]
