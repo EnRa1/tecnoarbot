@@ -1,29 +1,5 @@
 [
   {
-    "titulo": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
-    "fecha": "2026-10-22T16:13:32.202719"
-  },
-  {
-    "titulo": "Uber puts all 30,000 employees on ChatGPT Work",
-    "fecha": "2026-10-22T16:14:48.633350"
-  },
-  {
-    "titulo": "Tesla is prepping a Cybercab onslaught",
-    "fecha": "2026-10-22T16:16:38.984297"
-  },
-  {
-    "titulo": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
-    "fecha": "2026-10-22T16:19:17.435557"
-  },
-  {
-    "titulo": "Investors break down how founders can raise a Series A today",
-    "fecha": "2026-10-22T16:21:20.996901"
-  },
-  {
-    "titulo": "Spotify’s current AI bet is about being the music service that agents choose",
-    "fecha": "2026-10-22T16:22:45.076113"
-  },
-  {
     "titulo": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
     "fecha": "2026-10-22T20:21:53.097669"
   },
@@ -150,5 +126,29 @@
   {
     "titulo": "Google expands AI Search ads globally as core ad growth slows",
     "fecha": "2026-10-29T02:04:56.452717"
+  },
+  {
+    "titulo": "US investigated Chinese spy plot aimed at Nvidia CEO",
+    "fecha": "2026-10-29T17:43:50.876036"
+  },
+  {
+    "titulo": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+    "fecha": "2026-10-29T17:45:07.315309"
+  },
+  {
+    "titulo": "SuperMe raises $20M for its network of AI expert profiles",
+    "fecha": "2026-10-29T17:47:02.485429"
+  },
+  {
+    "titulo": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
+    "fecha": "2026-10-29T17:48:22.868326"
+  },
+  {
+    "titulo": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+    "fecha": "2026-10-29T17:50:19.204321"
+  },
+  {
+    "titulo": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+    "fecha": "2026-10-29T17:51:48.313884"
   }
 ]
