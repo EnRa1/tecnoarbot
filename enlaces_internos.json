@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "AWS Apunta a un **Business** de un Billón de Dólares Impulsado por la Inversión en IA",
+    "url": "https://tecno.ar/2026-10-30-aws-apunta-a-un-business-de-un-billon-de-dolares-impulsado-p",
+    "tema": "business"
+  },
+  {
+    "titulo": "Andy Jassy Anuncia que Prime Video Alcanzará Decenas de Miles de Millones en Ingresos",
+    "url": "https://tecno.ar/2026-10-30-andy-jassy-anuncia-que-prime-video-alcanzara-decenas-de-mile",
+    "tema": "jassy"
+  },
+  {
+    "titulo": "Exención Laboral por Convicciones Religious: Un Humanista Logra no Usar IA en el Trabajo",
+    "url": "https://tecno.ar/2026-10-30-exencion-laboral-por-convicciones-religious-un-humanista-log",
+    "tema": "religious"
+  },
+  {
     "titulo": "Mistral Libera los Pesos de su Modelo de IA ML4 para Ciberseguridad Soberana",
     "url": "https://tecno.ar/2026-10-29-mistral-libera-los-pesos-de-su-modelo-de-ia-ml4-para-ciberse",
     "tema": "mistral"
@@ -983,20 +998,5 @@
     "titulo": "Vuelo Autónomo de Joby Recorre EE. UU., Señalando Nuevas Ambiciones Tecnológicas",
     "url": "https://tecno.ar/2026-09-18-vuelo-autonomo-de-joby-recorre-ee-uu-senalando-nuevas-ambici",
     "tema": "joby"
-  },
-  {
-    "titulo": "Disney Nombra a Karandeep Anand, Ex CEO de Character.AI, como su Primer CTO",
-    "url": "https://tecno.ar/2026-09-18-disney-nombra-a-karandeep-anand-ex-ceo-de-characterai-como-s",
-    "tema": "disney"
-  },
-  {
-    "titulo": "Jev: El Nuevo **Model** de IA de un Ex-Inventor de ChatGPT que Transforma la Automatización de Software",
-    "url": "https://tecno.ar/2026-09-18-jev-el-nuevo-model-de-ia-de-un-ex-inventor-de-chatgpt-que-tr",
-    "tema": "model"
-  },
-  {
-    "titulo": "Google y DeepMind Lanzan Instituto para Ampliar el Debate Global sobre la AGI",
-    "url": "https://tecno.ar/2026-09-18-google-y-deepmind-lanzan-instituto-para-ampliar-el-debate-gl",
-    "tema": "google"
   }
 ]
