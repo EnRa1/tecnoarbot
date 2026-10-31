@@ -1,9 +1,5 @@
 [
   {
-    "titulo": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-    "fecha": "2026-10-23T20:10:02.972511"
-  },
-  {
     "titulo": "This startup’s self-driving excavators help dig up $600M in new funding",
     "fecha": "2026-10-26T17:49:15.048748"
   },
@@ -154,5 +150,17 @@
   {
     "titulo": "Can AI data centers be mass-produced like cars? This startup aims to find out",
     "fecha": "2026-10-30T17:31:55.292470"
+  },
+  {
+    "titulo": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "fecha": "2026-10-31T01:56:44.205252"
+  },
+  {
+    "titulo": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+    "fecha": "2026-10-31T01:57:33.339352"
+  },
+  {
+    "titulo": "Intel’s stock crashes, knocking $12B from government’s stake",
+    "fecha": "2026-10-31T01:59:32.939621"
   }
 ]

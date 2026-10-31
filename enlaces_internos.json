@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Intel Enfrenta Caída en Bolsa y Desafíos en Perspectiva del Cuarto Trimestre",
+    "url": "https://tecno.ar/2026-10-31-intel-enfrenta-caida-en-bolsa-y-desafios-en-perspectiva-del-",
+    "tema": "intel"
+  },
+  {
+    "titulo": "Salesforce Adquiere Rune Technologies para Reforzar su Unidad de Defensa con IA",
+    "url": "https://tecno.ar/2026-10-31-salesforce-adquiere-rune-technologies-para-reforzar-su-unida",
+    "tema": "salesforce"
+  },
+  {
+    "titulo": "Nvidia Considera Avalar Financiación Multimillonaria para el Centro de Datos de IA de Nscale",
+    "url": "https://tecno.ar/2026-10-31-nvidia-considera-avalar-financiacion-multimillonaria-para-el",
+    "tema": "nscale"
+  },
+  {
     "titulo": "Runware Impulsa la Producción Masiva de Centros de Datos Modulares para la Era de la IA",
     "url": "https://tecno.ar/2026-10-30-runware-impulsa-la-produccion-masiva-de-centros-de-datos-mod",
     "tema": "data"
@@ -983,20 +998,5 @@
     "titulo": "Ciberseguridad: Más de Mil Proveedores de Water de EE. UU. Expuestos por Contraseñas Robadas",
     "url": "https://tecno.ar/2026-09-22-ciberseguridad-mas-de-mil-proveedores-de-water-de-ee-uu-expu",
     "tema": "water"
-  },
-  {
-    "titulo": "El Arquitecto de las Tiendas Apple Cuestiona el Futuro del Shopping con IA",
-    "url": "https://tecno.ar/2026-09-22-el-arquitecto-de-las-tiendas-apple-cuestiona-el-futuro-del-s",
-    "tema": "apple"
-  },
-  {
-    "titulo": "Corridor Recauda $25 Millones para Transformar los Beneficios de Salud con IA para PYMES",
-    "url": "https://tecno.ar/2026-09-21-corridor-recauda-25-millones-para-transformar-los-beneficios",
-    "tema": "corridor"
-  },
-  {
-    "titulo": "Google VP Robby Stein en Disrupt 2026: Cómo Escalar Productos para **Billions** de Usuarios en la Era de la IA",
-    "url": "https://tecno.ar/2026-09-21-google-vp-robby-stein-en-disrupt-2026-como-escalar-productos",
-    "tema": "billions"
   }
 ]
