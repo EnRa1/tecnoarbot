@@ -1,5 +1,30 @@
 [
   {
+    "titulo": "Google Reconfigura el Acceso a la IA en Escuelas K-12 y Vincula a Search",
+    "url": "https://tecno.ar/2026-11-03-google-reconfigura-el-acceso-a-la-ia-en-escuelas-k-12-y-vinc",
+    "tema": "google"
+  },
+  {
+    "titulo": "Rivian Spinout Also Abandona un Proyecto Piloto de E-bikes en Kenia",
+    "url": "https://tecno.ar/2026-11-03-rivian-spinout-also-abandona-un-proyecto-piloto-de-e-bikes-e",
+    "tema": "project"
+  },
+  {
+    "titulo": "Anthropic Enfrenta Presiones por Costos de Cómputo A Medida que se Acera su OPI",
+    "url": "https://tecno.ar/2026-11-03-anthropic-enfrenta-presiones-por-costos-de-computo-a-medida-",
+    "tema": "anthropic"
+  },
+  {
+    "titulo": "CrowdStrike Invierte Cerca de $500M para Blindar la Seguridad de **Agents** de IA",
+    "url": "https://tecno.ar/2026-11-03-crowdstrike-invierte-cerca-de-500m-para-blindar-la-seguridad",
+    "tema": "agents"
+  },
+  {
+    "titulo": "Netflix Lanza \"AI Discover\" con Recomendaciones de Contenido **Based** en el Estado de Ánimo del Usuario",
+    "url": "https://tecno.ar/2026-11-03-netflix-lanza-ai-discover-con-recomendaciones-de-contenido-b",
+    "tema": "based"
+  },
+  {
     "titulo": "Readwise Lanza \"Books\", Su Ambiciosa App para Desafiar a Kindle y Goodreads en el Mercado de E-books",
     "url": "https://tecno.ar/2026-11-02-readwise-lanza-books-su-ambiciosa-app-para-desafiar-a-kindle",
     "tema": "readwise"
@@ -973,30 +998,5 @@
     "titulo": "YouTube Anuncia Nuevas Herramientas Impulsadas por IA para Creadores",
     "url": "https://tecno.ar/2026-09-23-youtube-anuncia-nuevas-herramientas-impulsadas-por-ia-para-c",
     "tema": "youtube"
-  },
-  {
-    "titulo": "YouTube Lanza 'Shorts Series' para Potenciar Narrativas Episódicas en sus Videos Cortos",
-    "url": "https://tecno.ar/2026-09-23-youtube-lanza-shorts-series-para-potenciar-narrativas-episod",
-    "tema": "shorts"
-  },
-  {
-    "titulo": "YouTube Potencia a Creadores con Nuevas Herramientas de IA en Studio",
-    "url": "https://tecno.ar/2026-09-23-youtube-potencia-a-creadores-con-nuevas-herramientas-de-ia-e",
-    "tema": "youtube"
-  },
-  {
-    "titulo": "Eight Sleep Lanza Pod 6: Innovación y Comodidad para Mejorar Tu Sleep",
-    "url": "https://tecno.ar/2026-09-23-eight-sleep-lanza-pod-6-innovacion-y-comodidad-para-mejorar-",
-    "tema": "sleep"
-  },
-  {
-    "titulo": "YouTube Music Transforma la Experiencia Musical con Nuevas Funciones de IA Conversacional",
-    "url": "https://tecno.ar/2026-09-23-youtube-music-transforma-la-experiencia-musical-con-nuevas-f",
-    "tema": "music"
-  },
-  {
-    "titulo": "Qualcomm Impulsa la IA Móvil con sus Nuevos Procesadores Snapdragon Elite Gen 6",
-    "url": "https://tecno.ar/2026-09-23-qualcomm-impulsa-la-ia-movil-con-sus-nuevos-procesadores-sna",
-    "tema": "qualcomm"
   }
 ]

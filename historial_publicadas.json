@@ -1,25 +1,5 @@
 [
   {
-    "titulo": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-    "fecha": "2026-10-27T16:59:19.161271"
-  },
-  {
-    "titulo": "Ford Fathom will be the cheapest American EV capable of powering a house",
-    "fecha": "2026-10-27T17:03:11.610025"
-  },
-  {
-    "titulo": "US government says hackers are now exploiting critical PHP web bugs",
-    "fecha": "2026-10-27T17:04:59.347902"
-  },
-  {
-    "titulo": "Apple unveils new 14-inch MacBook Pro with M6 chip",
-    "fecha": "2026-10-27T17:06:27.401616"
-  },
-  {
-    "titulo": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
-    "fecha": "2026-10-27T17:07:37.719947"
-  },
-  {
     "titulo": "Re:Build, which spun out Slate Auto, raises $2.1B",
     "fecha": "2026-10-27T21:06:17.115651"
   },
@@ -154,5 +134,25 @@
   {
     "titulo": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
     "fecha": "2026-11-02T21:08:33.054140"
+  },
+  {
+    "titulo": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+    "fecha": "2026-11-03T18:46:47.922005"
+  },
+  {
+    "titulo": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+    "fecha": "2026-11-03T18:48:11.281681"
+  },
+  {
+    "titulo": "Anthropic is still grappling with the economics of compute",
+    "fecha": "2026-11-03T18:49:52.587073"
+  },
+  {
+    "titulo": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
+    "fecha": "2026-11-03T18:51:37.774455"
+  },
+  {
+    "titulo": "Google will let schools disable its AI tools, but not without sacrificing Search",
+    "fecha": "2026-11-03T18:53:32.145102"
   }
 ]
