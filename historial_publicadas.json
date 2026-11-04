@@ -1,17 +1,5 @@
 [
   {
-    "titulo": "Re:Build, which spun out Slate Auto, raises $2.1B",
-    "fecha": "2026-10-27T21:06:17.115651"
-  },
-  {
-    "titulo": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-    "fecha": "2026-10-27T21:07:43.485155"
-  },
-  {
-    "titulo": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-    "fecha": "2026-10-28T01:54:10.234588"
-  },
-  {
     "titulo": "Apple launches its new touchscreen MacBook Pro",
     "fecha": "2026-10-28T17:33:14.905884"
   },
@@ -154,5 +142,9 @@
   {
     "titulo": "Google will let schools disable its AI tools, but not without sacrificing Search",
     "fecha": "2026-11-03T18:53:32.145102"
+  },
+  {
+    "titulo": "Anthropic is working on a system to prove AI models’ identity",
+    "fecha": "2026-11-04T02:50:24.697849"
   }
 ]

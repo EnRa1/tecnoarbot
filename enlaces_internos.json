@@ -1,5 +1,10 @@
 [
   {
+    "titulo": "Anthropic Desvela FlashProve: Un Novedoso System para Autenticar Modelos de IA",
+    "url": "https://tecno.ar/2026-11-04-anthropic-desvela-flashprove-un-novedoso-system-para-autenti",
+    "tema": "system"
+  },
+  {
     "titulo": "Google Reconfigura el Acceso a la IA en Escuelas K-12 y Vincula a Search",
     "url": "https://tecno.ar/2026-11-03-google-reconfigura-el-acceso-a-la-ia-en-escuelas-k-12-y-vinc",
     "tema": "google"
@@ -993,10 +998,5 @@
     "titulo": "TechCrunch Disrupt 2026: El Futuro del Venture Capital en la Era de la IA",
     "url": "https://tecno.ar/2026-09-23-techcrunch-disrupt-2026-el-futuro-del-venture-capital-en-la-",
     "tema": "venture"
-  },
-  {
-    "titulo": "YouTube Anuncia Nuevas Herramientas Impulsadas por IA para Creadores",
-    "url": "https://tecno.ar/2026-09-23-youtube-anuncia-nuevas-herramientas-impulsadas-por-ia-para-c",
-    "tema": "youtube"
   }
 ]
