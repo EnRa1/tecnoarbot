@@ -1,29 +1,5 @@
 [
   {
-    "titulo": "Apple launches its new touchscreen MacBook Pro",
-    "fecha": "2026-10-28T17:33:14.905884"
-  },
-  {
-    "titulo": "Xreal Aura is a new wired headset powered by Android XR",
-    "fecha": "2026-10-28T17:34:59.477606"
-  },
-  {
-    "titulo": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-    "fecha": "2026-10-28T17:36:23.833338"
-  },
-  {
-    "titulo": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-    "fecha": "2026-10-28T17:37:10.422170"
-  },
-  {
-    "titulo": "Reddit is the latest platform to embrace the ‘For You’ feed",
-    "fecha": "2026-10-28T17:38:51.335767"
-  },
-  {
-    "titulo": "AI execs may be too out of touch to build for the general public",
-    "fecha": "2026-10-28T17:41:52.386122"
-  },
-  {
     "titulo": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
     "fecha": "2026-10-29T02:03:40.605300"
   },
@@ -146,5 +122,25 @@
   {
     "titulo": "Anthropic is working on a system to prove AI models’ identity",
     "fecha": "2026-11-04T02:50:24.697849"
+  },
+  {
+    "titulo": "Waymo confirms it will split with Uber in January 2028",
+    "fecha": "2026-11-04T18:59:11.425833"
+  },
+  {
+    "titulo": "‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
+    "fecha": "2026-11-04T19:01:00.088691"
+  },
+  {
+    "titulo": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+    "fecha": "2026-11-04T19:03:02.523514"
+  },
+  {
+    "titulo": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+    "fecha": "2026-11-04T19:06:01.265436"
+  },
+  {
+    "titulo": "Titan OS raises $46 million to expand its smart TV OS internationally",
+    "fecha": "2026-11-04T19:07:57.744019"
   }
 ]
