@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Harbinger Recauda $240 Millones en Serie D y Expande su Alcance a la Defensa",
+    "url": "https://tecno.ar/2026-11-05-harbinger-recauda-240-millones-en-serie-d-y-expande-su-alcan",
+    "tema": "harbinger"
+  },
+  {
+    "titulo": "Anthropic Potencia a Claude con \"Personal Finance\": El AI que Analiza tus Gastos",
+    "url": "https://tecno.ar/2026-11-05-anthropic-potencia-a-claude-con-personal-finance-el-ai-que-a",
+    "tema": "claude"
+  },
+  {
+    "titulo": "Stephen Ward, Ex-Agente del Servicio Secreto, Lanza Segundo Fondo de $250M en Cybersecurity",
+    "url": "https://tecno.ar/2026-11-05-stephen-ward-ex-agente-del-servicio-secreto-lanza-segundo-fo",
+    "tema": "cybersecurity"
+  },
+  {
+    "titulo": "OpenAI Apunta a Salir a Bolsa en 2027, Afirma Greg Brockman",
+    "url": "https://tecno.ar/2026-11-05-openai-apunta-a-salir-a-bolsa-en-2027-afirma-greg-brockman",
+    "tema": "brockman"
+  },
+  {
+    "titulo": "El Gobierno de EE. UU. Advierte Sobre Ciberamenaza Constante a Unidades de Refrigeración Críticas",
+    "url": "https://tecno.ar/2026-11-05-el-gobierno-de-ee-uu-advierte-sobre-ciberamenaza-constante-a",
+    "tema": "government"
+  },
+  {
+    "titulo": "IA de OpenAI Detecta Vulnerabilidad Crítica en Ubuntu: ¿Es eso lo Suficiente para Contener el Riesgo que Conlleva?",
+    "url": "https://tecno.ar/2026-11-05-ia-de-openai-detecta-vulnerabilidad-critica-en-ubuntu-es-eso",
+    "tema": "that"
+  },
+  {
     "titulo": "La Batalla por los Data Centers en EE. UU. se Intensifica Tras las Elecciones de Medio Término",
     "url": "https://tecno.ar/2026-11-05-la-batalla-por-los-data-centers-en-ee-uu-se-intensifica-tras",
     "tema": "data"
@@ -968,35 +998,5 @@
     "titulo": "Tesla Inicia Entregas de su Semi Eléctrico Tras Años de Desarrollo",
     "url": "https://tecno.ar/2026-09-25-tesla-inicia-entregas-de-su-semi-electrico-tras-anos-de-desa",
     "tema": "tesla"
-  },
-  {
-    "titulo": "Anthropic: Los Founders Buscan Asegurar Control de Voto Ante Próxima OPI",
-    "url": "https://tecno.ar/2026-09-25-anthropic-los-founders-buscan-asegurar-control-de-voto-ante-",
-    "tema": "founders"
-  },
-  {
-    "titulo": "Kiteworks Alerta a Miles de Clientes por Amenaza Cibernética Inminente y Recomienda Apagado Preventivo",
-    "url": "https://tecno.ar/2026-09-25-kiteworks-alerta-a-miles-de-clientes-por-amenaza-cibernetica",
-    "tema": "kiteworks"
-  },
-  {
-    "titulo": "Oferta Imperdible: Asiste a TechCrunch Disrupt 2026 con un Acompañante y Duplica tu Impacto",
-    "url": "https://tecno.ar/2026-09-24-oferta-imperdible-asiste-a-techcrunch-disrupt-2026-con-un-ac",
-    "tema": "disrupt"
-  },
-  {
-    "titulo": "TechCrunch Disrupt 2026: Cada Razón para No Perderse el Evento Clave de la Innovación Tecnológica",
-    "url": "https://tecno.ar/2026-09-24-techcrunch-disrupt-2026-cada-razon-para-no-perderse-el-event",
-    "tema": "reason"
-  },
-  {
-    "titulo": "Zach Yadegari Compartirá Claves de Crecimiento Viral en TechCrunch Disrupt 2026",
-    "url": "https://tecno.ar/2026-09-24-zach-yadegari-compartira-claves-de-crecimiento-viral-en-tech",
-    "tema": "yadegari"
-  },
-  {
-    "titulo": "Ando Emerge como Competidor de Slack con Plataforma de Mensajería para IA y Humanos",
-    "url": "https://tecno.ar/2026-09-24-ando-emerge-como-competidor-de-slack-con-plataforma-de-mensa",
-    "tema": "slack"
   }
 ]

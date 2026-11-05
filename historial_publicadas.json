@@ -1,29 +1,5 @@
 [
   {
-    "titulo": "US investigated Chinese spy plot aimed at Nvidia CEO",
-    "fecha": "2026-10-29T17:43:50.876036"
-  },
-  {
-    "titulo": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-    "fecha": "2026-10-29T17:45:07.315309"
-  },
-  {
-    "titulo": "SuperMe raises $20M for its network of AI expert profiles",
-    "fecha": "2026-10-29T17:47:02.485429"
-  },
-  {
-    "titulo": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
-    "fecha": "2026-10-29T17:48:22.868326"
-  },
-  {
-    "titulo": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-    "fecha": "2026-10-29T17:50:19.204321"
-  },
-  {
-    "titulo": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-    "fecha": "2026-10-29T17:51:48.313884"
-  },
-  {
     "titulo": "You don’t need to believe in a god to get a religious exemption from using AI at work",
     "fecha": "2026-10-30T02:16:10.326938"
   },
@@ -142,5 +118,29 @@
   {
     "titulo": "After the midterms, a bigger clash over data centers could be coming",
     "fecha": "2026-11-05T03:00:05.035714"
+  },
+  {
+    "titulo": "OpenAI released a new cybersecurity model. Is that enough?",
+    "fecha": "2026-11-05T19:11:35.034980"
+  },
+  {
+    "titulo": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+    "fecha": "2026-11-05T19:14:27.143463"
+  },
+  {
+    "titulo": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+    "fecha": "2026-11-05T19:16:10.178096"
+  },
+  {
+    "titulo": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+    "fecha": "2026-11-05T19:17:42.428120"
+  },
+  {
+    "titulo": "Claude can now analyze your spending with its new Personal Finance tool",
+    "fecha": "2026-11-05T19:19:13.009328"
+  },
+  {
+    "titulo": "Harbinger raises $240M after expanding into defense",
+    "fecha": "2026-11-05T19:20:29.158881"
   }
 ]
