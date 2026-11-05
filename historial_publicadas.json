@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
-    "fecha": "2026-10-29T02:03:40.605300"
-  },
-  {
-    "titulo": "Google expands AI Search ads globally as core ad growth slows",
-    "fecha": "2026-10-29T02:04:56.452717"
-  },
-  {
     "titulo": "US investigated Chinese spy plot aimed at Nvidia CEO",
     "fecha": "2026-10-29T17:43:50.876036"
   },
@@ -142,5 +134,13 @@
   {
     "titulo": "Titan OS raises $46 million to expand its smart TV OS internationally",
     "fecha": "2026-11-04T19:07:57.744019"
+  },
+  {
+    "titulo": "Apple is reportedly cutting budgets for its internal AI usage",
+    "fecha": "2026-11-05T02:58:01.163886"
+  },
+  {
+    "titulo": "After the midterms, a bigger clash over data centers could be coming",
+    "fecha": "2026-11-05T03:00:05.035714"
   }
 ]

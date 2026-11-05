@@ -1,5 +1,15 @@
 [
   {
+    "titulo": "La Batalla por los Data Centers en EE. UU. se Intensifica Tras las Elecciones de Medio Término",
+    "url": "https://tecno.ar/2026-11-05-la-batalla-por-los-data-centers-en-ee-uu-se-intensifica-tras",
+    "tema": "data"
+  },
+  {
+    "titulo": "Apple Recorta Significativamente el Presupuesto Interno para el Uso de IA",
+    "url": "https://tecno.ar/2026-11-05-apple-recorta-significativamente-el-presupuesto-interno-para",
+    "tema": "apple"
+  },
+  {
     "titulo": "Titan OS Recauda $46 Millones para Acelerar su Expansión Global en Sistemas Operativos para Smart TV",
     "url": "https://tecno.ar/2026-11-04-titan-os-recauda-46-millones-para-acelerar-su-expansion-glob",
     "tema": "million"
@@ -988,15 +998,5 @@
     "titulo": "Ando Emerge como Competidor de Slack con Plataforma de Mensajería para IA y Humanos",
     "url": "https://tecno.ar/2026-09-24-ando-emerge-como-competidor-de-slack-con-plataforma-de-mensa",
     "tema": "slack"
-  },
-  {
-    "titulo": "Lovable Impulsa su Valoración a $13.3 Mil Millones Tras Superar los $600 Millones en Ingresos",
-    "url": "https://tecno.ar/2026-09-24-lovable-impulsa-su-valoracion-a-133-mil-millones-tras-supera",
-    "tema": "lovable"
-  },
-  {
-    "titulo": "El Cruce Crucial: ¿Cuándo la IA Está Lista para el Mundo Real y las Misiones de Alto Riesgo?",
-    "url": "https://tecno.ar/2026-09-24-el-cruce-crucial-cuando-la-ia-esta-lista-para-el-mundo-real-",
-    "tema": "when"
   }
 ]
