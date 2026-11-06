@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Underdog Lidera la Carrera por Modelos de IA Compactos y Privados",
+    "url": "https://tecno.ar/2026-11-06-underdog-lidera-la-carrera-por-modelos-de-ia-compactos-y-pri",
+    "tema": "underdog"
+  },
+  {
+    "titulo": "Amazon Habilita Compras por Texto con Alexa, Compitiendo con Agentes Como Muse",
+    "url": "https://tecno.ar/2026-11-06-amazon-habilita-compras-por-texto-con-alexa-compitiendo-con-",
+    "tema": "muse"
+  },
+  {
+    "titulo": "Informe de Ramp Revela Desaceleración en el Gasto Global en IA Pese a Mayor Adopción",
+    "url": "https://tecno.ar/2026-11-06-informe-de-ramp-revela-desaceleracion-en-el-gasto-global-en-",
+    "tema": "ramp"
+  },
+  {
+    "titulo": "Fox Completa Adquisición de Roku por $22.000 Millones en un Hito para el Streaming",
+    "url": "https://tecno.ar/2026-11-06-fox-completa-adquisicion-de-roku-por-22000-millones-en-un-hi",
+    "tema": "roku"
+  },
+  {
+    "titulo": "El Pentagon Impulsa la Autonomía de EE. UU. con Préstamo de $250 Millones para Baterías Domésticas",
+    "url": "https://tecno.ar/2026-11-06-el-pentagon-impulsa-la-autonomia-de-ee-uu-con-prestamo-de-25",
+    "tema": "pentagon"
+  },
+  {
+    "titulo": "Victorias Demócratas en las Midterms de EE. UU. Anuncian Transformaciones para la **Industry** Tecnológica",
+    "url": "https://tecno.ar/2026-11-06-victorias-democratas-en-las-midterms-de-ee-uu-anuncian-trans",
+    "tema": "industry"
+  },
+  {
     "titulo": "Gigantes Tecnológicos Demandan a **California** por Ley de Redes Sociales para Menores",
     "url": "https://tecno.ar/2026-11-06-gigantes-tecnologicos-demandan-a-california-por-ley-de-redes",
     "tema": "california"
@@ -968,35 +998,5 @@
     "titulo": "La Casa Blanca Lanza un Chatbot de IA para Navegar Servicios del Government",
     "url": "https://tecno.ar/2026-09-29-la-casa-blanca-lanza-un-chatbot-de-ia-para-navegar-servicios",
     "tema": "government"
-  },
-  {
-    "titulo": "Peak XV Partners Aumenta Inversión en su Plataforma Seed, Surge, con Nueva Cohorte Global",
-    "url": "https://tecno.ar/2026-09-29-peak-xv-partners-aumenta-inversion-en-su-plataforma-seed-sur",
-    "tema": "surge"
-  },
-  {
-    "titulo": "OpenAI Lucha por Contener el Comportamiento Rogue de sus Modelos de IA",
-    "url": "https://tecno.ar/2026-09-28-openai-lucha-por-contener-el-comportamiento-rogue-de-sus-mod",
-    "tema": "rogue"
-  },
-  {
-    "titulo": "Google Simplifica Gemini: Adiós a los \"Gems\", Bienvenidos los \"Skills\"",
-    "url": "https://tecno.ar/2026-09-28-google-simplifica-gemini-adios-a-los-gems-bienvenidos-los-sk",
-    "tema": "gems"
-  },
-  {
-    "titulo": "Anthropic Presenta Sonnet 5.5: Potenciando la Productividad con Mayor Velocidad y Eficiencia",
-    "url": "https://tecno.ar/2026-09-28-anthropic-presenta-sonnet-55-potenciando-la-productividad-co",
-    "tema": "sonnet"
-  },
-  {
-    "titulo": "Nvidia Presenta Plataforma de Seguridad para Contener Agentes de IA Descontrolados",
-    "url": "https://tecno.ar/2026-09-28-nvidia-presenta-plataforma-de-seguridad-para-contener-agente",
-    "tema": "nvidia"
-  },
-  {
-    "titulo": "TechCrunch Disrupt 2026 Abre sus Puertas a Talentos Desempleados con Oferta Especial",
-    "url": "https://tecno.ar/2026-09-25-techcrunch-disrupt-2026-abre-sus-puertas-a-talentos-desemple",
-    "tema": "disrupt"
   }
 ]

@@ -1,25 +1,5 @@
 [
   {
-    "titulo": "Google’s first data center satellite is online and writing poetry",
-    "fecha": "2026-10-30T17:23:22.570752"
-  },
-  {
-    "titulo": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-    "fecha": "2026-10-30T17:25:41.338550"
-  },
-  {
-    "titulo": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
-    "fecha": "2026-10-30T17:26:33.613394"
-  },
-  {
-    "titulo": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-    "fecha": "2026-10-30T17:30:16.517531"
-  },
-  {
-    "titulo": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-    "fecha": "2026-10-30T17:31:55.292470"
-  },
-  {
     "titulo": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
     "fecha": "2026-10-31T01:56:44.205252"
   },
@@ -138,5 +118,29 @@
   {
     "titulo": "Meta, Google, and TikTok sue California AG over teen social media law",
     "fecha": "2026-11-06T02:59:44.821497"
+  },
+  {
+    "titulo": "After the midterms, is the AI industry in for a rough two years?",
+    "fecha": "2026-11-06T18:39:21.627293"
+  },
+  {
+    "titulo": "Pentagon offers battery startup 6K $250M loan to build US factory",
+    "fecha": "2026-11-06T18:41:08.799184"
+  },
+  {
+    "titulo": "Fox completes its $22B acquisition of Roku",
+    "fecha": "2026-11-06T18:43:18.875259"
+  },
+  {
+    "titulo": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+    "fecha": "2026-11-06T18:45:35.734196"
+  },
+  {
+    "titulo": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+    "fecha": "2026-11-06T18:47:01.145129"
+  },
+  {
+    "titulo": "Underdog shows off a 32MB speech model in new demo",
+    "fecha": "2026-11-06T18:48:28.852781"
   }
 ]
