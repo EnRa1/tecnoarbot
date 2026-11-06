@@ -1,5 +1,15 @@
 [
   {
+    "titulo": "Gigantes Tecnológicos Demandan a **California** por Ley de Redes Sociales para Menores",
+    "url": "https://tecno.ar/2026-11-06-gigantes-tecnologicos-demandan-a-california-por-ley-de-redes",
+    "tema": "california"
+  },
+  {
+    "titulo": "The New York Times Negocia la Adquisición de Letterboxd por $330 Millones",
+    "url": "https://tecno.ar/2026-11-06-the-new-york-times-negocia-la-adquisicion-de-letterboxd-por-",
+    "tema": "letterboxd"
+  },
+  {
     "titulo": "Harbinger Recauda $240 Millones en Serie D y Expande su Alcance a la Defensa",
     "url": "https://tecno.ar/2026-11-05-harbinger-recauda-240-millones-en-serie-d-y-expande-su-alcan",
     "tema": "harbinger"
@@ -988,15 +998,5 @@
     "titulo": "TechCrunch Disrupt 2026 Abre sus Puertas a Talentos Desempleados con Oferta Especial",
     "url": "https://tecno.ar/2026-09-25-techcrunch-disrupt-2026-abre-sus-puertas-a-talentos-desemple",
     "tema": "disrupt"
-  },
-  {
-    "titulo": "Ricursive Intelligence: Cuando la IA Transforma el Proceso de Designing Chips",
-    "url": "https://tecno.ar/2026-09-25-ricursive-intelligence-cuando-la-ia-transforma-el-proceso-de",
-    "tema": "designing"
-  },
-  {
-    "titulo": "Tesla Inicia Entregas de su Semi Eléctrico Tras Años de Desarrollo",
-    "url": "https://tecno.ar/2026-09-25-tesla-inicia-entregas-de-su-semi-electrico-tras-anos-de-desa",
-    "tema": "tesla"
   }
 ]
