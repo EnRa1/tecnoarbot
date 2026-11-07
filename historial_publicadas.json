@@ -1,17 +1,5 @@
 [
   {
-    "titulo": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-    "fecha": "2026-10-31T01:56:44.205252"
-  },
-  {
-    "titulo": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-    "fecha": "2026-10-31T01:57:33.339352"
-  },
-  {
-    "titulo": "Intel’s stock crashes, knocking $12B from government’s stake",
-    "fecha": "2026-10-31T01:59:32.939621"
-  },
-  {
     "titulo": "Germany says lawmakers’ iPhones may have been hacked with spyware",
     "fecha": "2026-11-02T20:59:41.091778"
   },
@@ -142,5 +130,9 @@
   {
     "titulo": "Underdog shows off a 32MB speech model in new demo",
     "fecha": "2026-11-06T18:48:28.852781"
+  },
+  {
+    "titulo": "Crusoe sells troubled Wyoming data center project to Google",
+    "fecha": "2026-11-07T02:27:42.414551"
   }
 ]

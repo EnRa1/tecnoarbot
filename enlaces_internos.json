@@ -1,5 +1,10 @@
 [
   {
+    "titulo": "Google Adquiere Proyecto de Centro de Datos de **Crusoe** en Wyoming Ante Desafíos de Construcción",
+    "url": "https://tecno.ar/2026-11-07-google-adquiere-proyecto-de-centro-de-datos-de-crusoe-en-wyo",
+    "tema": "crusoe"
+  },
+  {
     "titulo": "Underdog Lidera la Carrera por Modelos de IA Compactos y Privados",
     "url": "https://tecno.ar/2026-11-06-underdog-lidera-la-carrera-por-modelos-de-ia-compactos-y-pri",
     "tema": "underdog"
@@ -993,10 +998,5 @@
     "titulo": "Instinct: Más del 50% de sus Transacciones Anuales se Concentran en Viajes",
     "url": "https://tecno.ar/2026-09-29-instinct-mas-del-50-de-sus-transacciones-anuales-se-concentr",
     "tema": "transactions"
-  },
-  {
-    "titulo": "La Casa Blanca Lanza un Chatbot de IA para Navegar Servicios del Government",
-    "url": "https://tecno.ar/2026-09-29-la-casa-blanca-lanza-un-chatbot-de-ia-para-navegar-servicios",
-    "tema": "government"
   }
 ]
