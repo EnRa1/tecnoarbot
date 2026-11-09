@@ -1,29 +1,5 @@
 [
   {
-    "titulo": "Germany says lawmakers’ iPhones may have been hacked with spyware",
-    "fecha": "2026-11-02T20:59:41.091778"
-  },
-  {
-    "titulo": "Web host Squarespace lays off 19% of its employees",
-    "fecha": "2026-11-02T21:02:00.337666"
-  },
-  {
-    "titulo": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-    "fecha": "2026-11-02T21:04:07.198773"
-  },
-  {
-    "titulo": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
-    "fecha": "2026-11-02T21:05:43.446619"
-  },
-  {
-    "titulo": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
-    "fecha": "2026-11-02T21:07:12.534610"
-  },
-  {
-    "titulo": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
-    "fecha": "2026-11-02T21:08:33.054140"
-  },
-  {
     "titulo": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
     "fecha": "2026-11-03T18:46:47.922005"
   },
@@ -134,5 +110,29 @@
   {
     "titulo": "Crusoe sells troubled Wyoming data center project to Google",
     "fecha": "2026-11-07T02:27:42.414551"
+  },
+  {
+    "titulo": "Fervo now has $12B in orders for its geothermal power tech",
+    "fecha": "2026-11-09T21:43:09.193551"
+  },
+  {
+    "titulo": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+    "fecha": "2026-11-09T21:44:18.539194"
+  },
+  {
+    "titulo": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+    "fecha": "2026-11-09T21:45:44.201183"
+  },
+  {
+    "titulo": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+    "fecha": "2026-11-09T21:46:41.662202"
+  },
+  {
+    "titulo": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+    "fecha": "2026-11-09T21:48:00.584419"
+  },
+  {
+    "titulo": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+    "fecha": "2026-11-09T21:49:57.873542"
   }
 ]
