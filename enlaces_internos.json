@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Wyndham Expone Datos de Millones por Fallo de Security en su App Android",
+    "url": "https://tecno.ar/2026-11-10-wyndham-expone-datos-de-millones-por-fallo-de-security-en-su",
+    "tema": "security"
+  },
+  {
+    "titulo": "Jensen Huang de Nvidia en el Ojo de la Tormenta: Firma de Crisis, Espionaje y Scandals Corporativos",
+    "url": "https://tecno.ar/2026-11-10-jensen-huang-de-nvidia-en-el-ojo-de-la-tormenta-firma-de-cri",
+    "tema": "scandals"
+  },
+  {
+    "titulo": "Anthropic Avanza con su OPI Pese a la Volatilidad del Mercado de IA",
+    "url": "https://tecno.ar/2026-11-10-anthropic-avanza-con-su-opi-pese-a-la-volatilidad-del-mercad",
+    "tema": "anthropic"
+  },
+  {
     "titulo": "Francia Acusa a Irán de Ciberataques Masivos a Congeladores en Europa",
     "url": "https://tecno.ar/2026-11-09-francia-acusa-a-iran-de-ciberataques-masivos-a-congeladores-",
     "tema": "iran"
@@ -983,20 +998,5 @@
     "titulo": "FedEx Impulsa la Electrificación Logística con Megapedido de 2.000 Camiones a Harbinger",
     "url": "https://tecno.ar/2026-09-30-fedex-impulsa-la-electrificacion-logistica-con-megapedido-de",
     "tema": "harbinger"
-  },
-  {
-    "titulo": "Destro emerge de la clandestinidad con $8 millones para optimizar la logística con IA",
-    "url": "https://tecno.ar/2026-09-30-destro-emerge-de-la-clandestinidad-con-8-millones-para-optim",
-    "tema": "destro"
-  },
-  {
-    "titulo": "Meta Desmiente Acusación de que su IA Muse Leyó Mensajes Privados sin Permiso, un Hecho **That** Genera Desconfianza",
-    "url": "https://tecno.ar/2026-09-30-meta-desmiente-acusacion-de-que-su-ia-muse-leyo-mensajes-pri",
-    "tema": "that"
-  },
-  {
-    "titulo": "Elon Musk y xAI Adquieren 'dot.com' en una Curiosa Coincidencia con el Lanzamiento de OpenAI Dots",
-    "url": "https://tecno.ar/2026-09-30-elon-musk-y-xai-adquieren-dotcom-en-una-curiosa-coincidencia",
-    "tema": "musk"
   }
 ]
