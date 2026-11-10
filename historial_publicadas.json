@@ -1,25 +1,5 @@
 [
   {
-    "titulo": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-    "fecha": "2026-11-03T18:46:47.922005"
-  },
-  {
-    "titulo": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-    "fecha": "2026-11-03T18:48:11.281681"
-  },
-  {
-    "titulo": "Anthropic is still grappling with the economics of compute",
-    "fecha": "2026-11-03T18:49:52.587073"
-  },
-  {
-    "titulo": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
-    "fecha": "2026-11-03T18:51:37.774455"
-  },
-  {
-    "titulo": "Google will let schools disable its AI tools, but not without sacrificing Search",
-    "fecha": "2026-11-03T18:53:32.145102"
-  },
-  {
     "titulo": "Anthropic is working on a system to prove AI models’ identity",
     "fecha": "2026-11-04T02:50:24.697849"
   },
@@ -146,5 +126,25 @@
   {
     "titulo": "Hotel giant Wyndham exposed customer data after app security lapse",
     "fecha": "2026-11-10T04:28:23.639938"
+  },
+  {
+    "titulo": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+    "fecha": "2026-11-10T19:00:08.554430"
+  },
+  {
+    "titulo": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+    "fecha": "2026-11-10T19:05:01.567999"
+  },
+  {
+    "titulo": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+    "fecha": "2026-11-10T19:07:17.072475"
+  },
+  {
+    "titulo": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
+    "fecha": "2026-11-10T19:09:09.082070"
+  },
+  {
+    "titulo": "Apple TV makes sign language interpretation a built-in accessibility feature",
+    "fecha": "2026-11-10T19:11:03.635799"
   }
 ]

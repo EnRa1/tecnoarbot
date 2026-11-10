@@ -1,5 +1,30 @@
 [
   {
+    "titulo": "Apple TV Potencia la Accesibilidad: Integrada la Interpretación en Lenguaje de Signos",
+    "url": "https://tecno.ar/2026-11-10-apple-tv-potencia-la-accesibilidad-integrada-la-interpretaci",
+    "tema": "sign"
+  },
+  {
+    "titulo": "Sundrop: Transforma Tus Fotos de Bebé en Recuerdos Vibrantes con Enfoque en la Privacidad",
+    "url": "https://tecno.ar/2026-11-10-sundrop-transforma-tus-fotos-de-bebe-en-recuerdos-vibrantes-",
+    "tema": "photos"
+  },
+  {
+    "titulo": "Jensen Huang de Nvidia Bajo el Escrutinio por Infidelidad y Sospechas de Espionaje Chino",
+    "url": "https://tecno.ar/2026-11-10-jensen-huang-de-nvidia-bajo-el-escrutinio-por-infidelidad-y-",
+    "tema": "huang"
+  },
+  {
+    "titulo": "Anthropic Presenta Claude Meetings para Optimizar la Productividad Empresarial",
+    "url": "https://tecno.ar/2026-11-10-anthropic-presenta-claude-meetings-para-optimizar-la-product",
+    "tema": "claude"
+  },
+  {
+    "titulo": "OpenAI Lanza Perfiles y Hub de Business para Empresas en ChatGPT",
+    "url": "https://tecno.ar/2026-11-10-openai-lanza-perfiles-y-hub-de-business-para-empresas-en-cha",
+    "tema": "business"
+  },
+  {
     "titulo": "Wyndham Expone Datos de Millones por Fallo de Security en su App Android",
     "url": "https://tecno.ar/2026-11-10-wyndham-expone-datos-de-millones-por-fallo-de-security-en-su",
     "tema": "security"
@@ -973,30 +998,5 @@
     "titulo": "Gobernador de California Veta Proyecto de Ley Clave sobre Dispositivos Wearable",
     "url": "https://tecno.ar/2026-10-01-gobernador-de-california-veta-proyecto-de-ley-clave-sobre-di",
     "tema": "california"
-  },
-  {
-    "titulo": "Shopify Lanza Canvas: La Construcción de Tiendas Online Ahora es Conversacional con IA",
-    "url": "https://tecno.ar/2026-10-01-shopify-lanza-canvas-la-construccion-de-tiendas-online-ahora",
-    "tema": "shopify"
-  },
-  {
-    "titulo": "Amazon Lanza Strands Decider 2B, un Nuevo Modelo de Decisión Open Source",
-    "url": "https://tecno.ar/2026-10-01-amazon-lanza-strands-decider-2b-un-nuevo-modelo-de-decision-",
-    "tema": "amazon"
-  },
-  {
-    "titulo": "MyMonthlyCar: La Innovadora Startup que Transforma el Inventario de Vehículos Usados en Alquileres Flexibles",
-    "url": "https://tecno.ar/2026-10-01-mymonthlycar-la-innovadora-startup-que-transforma-el-inventa",
-    "tema": "startup"
-  },
-  {
-    "titulo": "El Pentágono Incorpora a Elon Musk para Definir la Guerra del Futuro",
-    "url": "https://tecno.ar/2026-10-01-el-pentagono-incorpora-a-elon-musk-para-definir-la-guerra-de",
-    "tema": "elon"
-  },
-  {
-    "titulo": "FedEx Impulsa la Electrificación Logística con Megapedido de 2.000 Camiones a Harbinger",
-    "url": "https://tecno.ar/2026-09-30-fedex-impulsa-la-electrificacion-logistica-con-megapedido-de",
-    "tema": "harbinger"
   }
 ]
