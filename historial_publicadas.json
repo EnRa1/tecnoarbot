@@ -1,9 +1,5 @@
 [
   {
-    "titulo": "Anthropic is working on a system to prove AI models’ identity",
-    "fecha": "2026-11-04T02:50:24.697849"
-  },
-  {
     "titulo": "Waymo confirms it will split with Uber in January 2028",
     "fecha": "2026-11-04T18:59:11.425833"
   },
@@ -150,5 +146,25 @@
   {
     "titulo": "X launches its own clipping feature to spur influencer engagement",
     "fecha": "2026-11-11T02:22:05.000845"
+  },
+  {
+    "titulo": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+    "fecha": "2026-11-11T18:58:45.933504"
+  },
+  {
+    "titulo": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+    "fecha": "2026-11-11T19:00:42.891407"
+  },
+  {
+    "titulo": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+    "fecha": "2026-11-11T19:03:17.234944"
+  },
+  {
+    "titulo": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+    "fecha": "2026-11-11T19:05:39.841629"
+  },
+  {
+    "titulo": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+    "fecha": "2026-11-11T19:08:56.196748"
   }
 ]

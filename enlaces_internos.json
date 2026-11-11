@@ -1,5 +1,30 @@
 [
   {
+    "titulo": "Acciones de Nvidia Caen Mientras la Junta Investiga a Jensen Huang por Infidelidad y Sospechas de Espionaje",
+    "url": "https://tecno.ar/2026-11-11-acciones-de-nvidia-caen-mientras-la-junta-investiga-a-jensen",
+    "tema": "nvidia"
+  },
+  {
+    "titulo": "Plurai Recauda $13M para Reforzar la Fiabilidad de los **Agents** de IA con Simulaciones",
+    "url": "https://tecno.ar/2026-11-11-plurai-recauda-13m-para-reforzar-la-fiabilidad-de-los-agents",
+    "tema": "agents"
+  },
+  {
+    "titulo": "Databricks Lanza Genie, un Agente de IA para Liderazgo Empresarial que Revela la \"Verdad sin Filtros\"",
+    "url": "https://tecno.ar/2026-11-11-databricks-lanza-genie-un-agente-de-ia-para-liderazgo-empres",
+    "tema": "databricks"
+  },
+  {
+    "titulo": "OpenAI Alcanza Hito Histórico: Supera los $10 Mil Millones en Revenue Trimestral",
+    "url": "https://tecno.ar/2026-11-11-openai-alcanza-hito-historico-supera-los-10-mil-millones-en-",
+    "tema": "revenue"
+  },
+  {
+    "titulo": "El Escándalo de Jensen Huang Expone Vulnerabilidades de Espionaje en la Industria de Chips",
+    "url": "https://tecno.ar/2026-11-11-el-escandalo-de-jensen-huang-expone-vulnerabilidades-de-espi",
+    "tema": "jensen"
+  },
+  {
     "titulo": "X Lanza su Propia Herramienta de Clipping para Impulsar el Engagement de Influencers",
     "url": "https://tecno.ar/2026-11-11-x-lanza-su-propia-herramienta-de-clipping-para-impulsar-el-e",
     "tema": "clipping"
@@ -973,30 +998,5 @@
     "titulo": "Jas Khaira de Blackstone N1 Desvelará Claves de Inversión en Gigantes de IA en TechCrunch Disrupt 2026",
     "url": "https://tecno.ar/2026-10-02-jas-khaira-de-blackstone-n1-desvelara-claves-de-inversion-en",
     "tema": "techcrunch"
-  },
-  {
-    "titulo": "Laytr: La Innovadora App que \"**lets** you save anything\" en la era post-Pocket",
-    "url": "https://tecno.ar/2026-10-02-laytr-la-innovadora-app-que-lets-you-save-anything-en-la-era",
-    "tema": "lets"
-  },
-  {
-    "titulo": "Skydance Será el Nuevo Nombre del Gigante Resultante de la Fusión Paramount y Warner Bros. Discovery",
-    "url": "https://tecno.ar/2026-10-02-skydance-sera-el-nuevo-nombre-del-gigante-resultante-de-la-f",
-    "tema": "paramount"
-  },
-  {
-    "titulo": "California endurece normativa para operadores de robotaxi ante incidentes de seguridad",
-    "url": "https://tecno.ar/2026-10-02-california-endurece-normativa-para-operadores-de-robotaxi-an",
-    "tema": "robotaxi"
-  },
-  {
-    "titulo": "Brian Chesky de Airbnb Detalla su Visión de Futuro para las Interfaces de IA",
-    "url": "https://tecno.ar/2026-10-01-brian-chesky-de-airbnb-detalla-su-vision-de-futuro-para-las-",
-    "tema": "chesky"
-  },
-  {
-    "titulo": "Elon Musk y la \"Abundancia Asombrosa\": Un Año de Promesas Inconcretas para Tesla",
-    "url": "https://tecno.ar/2026-10-01-elon-musk-y-la-abundancia-asombrosa-un-ano-de-promesas-incon",
-    "tema": "musk"
   }
 ]
