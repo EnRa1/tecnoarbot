@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "SoftBank Sufre Pérdidas Millonarias por Apuesta Energética de Gas Natural para la IA",
+    "url": "https://tecno.ar/2026-11-12-softbank-sufre-perdidas-millonarias-por-apuesta-energetica-d",
+    "tema": "softbank"
+  },
+  {
+    "titulo": "United Airlines Bloquea Agentes de IA en Reservas por Ciberseguridad y Regulaciones de Aerolíneas",
+    "url": "https://tecno.ar/2026-11-12-united-airlines-bloquea-agentes-de-ia-en-reservas-por-cibers",
+    "tema": "airlines"
+  },
+  {
+    "titulo": "Hugging Face Reafirma Compromiso con la IA de Código Abierto Tras la Salida de Jensen Huang de Nvidia",
+    "url": "https://tecno.ar/2026-11-12-hugging-face-reafirma-compromiso-con-la-ia-de-codigo-abierto",
+    "tema": "hugging"
+  },
+  {
+    "titulo": "Jensen Huang Renuncia a Nvidia en Medio de Escándalo por Espionaje y Pone en Duda el Futuro del Código Abierto",
+    "url": "https://tecno.ar/2026-11-12-jensen-huang-renuncia-a-nvidia-en-medio-de-escandalo-por-esp",
+    "tema": "huang"
+  },
+  {
+    "titulo": "Microsoft Outlook Sufre Nueva Caída Global Afectando a Millones de Usuarios",
+    "url": "https://tecno.ar/2026-11-12-microsoft-outlook-sufre-nueva-caida-global-afectando-a-millo",
+    "tema": "microsoft"
+  },
+  {
+    "titulo": "Nectar Lanza un Agente de IA para Automatizar el Marketing de Influencers",
+    "url": "https://tecno.ar/2026-11-12-nectar-lanza-un-agente-de-ia-para-automatizar-el-marketing-d",
+    "tema": "nectar"
+  },
+  {
     "titulo": "Cambio Estratégico en la Cúpula de Infraestructura de Meta: Santosh Janardhan Cede el Relevo",
     "url": "https://tecno.ar/2026-11-12-cambio-estrategico-en-la-cupula-de-infraestructura-de-meta-s",
     "tema": "meta"
@@ -968,35 +998,5 @@
     "titulo": "Instinct Lanza su Agente de IA en Chats Grupales, Ampliando su Alcance",
     "url": "https://tecno.ar/2026-10-06-instinct-lanza-su-agente-de-ia-en-chats-grupales-ampliando-s",
     "tema": "agent"
-  },
-  {
-    "titulo": "Reflection AI Lanza Beam, su Modelo de IA Abierta que Desafía a Gigantes con Menor Costo",
-    "url": "https://tecno.ar/2026-10-06-reflection-ai-lanza-beam-su-modelo-de-ia-abierta-que-desafia",
-    "tema": "reflection"
-  },
-  {
-    "titulo": "Etched: La Startup de Chips de IA que Duplica su Valoración con Nuevas Ofertas de $40.000 Millones",
-    "url": "https://tecno.ar/2026-10-06-etched-la-startup-de-chips-de-ia-que-duplica-su-valoracion-c",
-    "tema": "etched"
-  },
-  {
-    "titulo": "OpenAI Introducirá Marcas de Agua Invisibles en ChatGPT para la UE",
-    "url": "https://tecno.ar/2026-10-06-openai-introducira-marcas-de-agua-invisibles-en-chatgpt-para",
-    "tema": "openai"
-  },
-  {
-    "titulo": "Producción de EVs de Lucid Cae a Mínimos de Dos Años Mientras Reestructura su Estrategia",
-    "url": "https://tecno.ar/2026-10-06-produccion-de-evs-de-lucid-cae-a-minimos-de-dos-anos-mientra",
-    "tema": "lucid"
-  },
-  {
-    "titulo": "Meta Lanza Muse Gadgets: Construye tu Propio Dispositivo con el Agente de IA",
-    "url": "https://tecno.ar/2026-10-03-meta-lanza-muse-gadgets-construye-tu-propio-dispositivo-con-",
-    "tema": "muse"
-  },
-  {
-    "titulo": "El **Engineer** GTM: Cómo la IA Forja la Próxima Gran Categoría Laboral en Tech",
-    "url": "https://tecno.ar/2026-10-02-el-engineer-gtm-como-la-ia-forja-la-proxima-gran-categoria-l",
-    "tema": "engineer"
   }
 ]
