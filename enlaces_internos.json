@@ -1,5 +1,30 @@
 [
   {
+    "titulo": "ElevenLabs Presenta ElevenAI: Innovación en la Gestión de Meeting con IA",
+    "url": "https://tecno.ar/2026-11-13-elevenlabs-presenta-elevenai-innovacion-en-la-gestion-de-mee",
+    "tema": "meeting"
+  },
+  {
+    "titulo": "Uber confirma robo de miles de licencias de conducir tras brecha de seguridad en proveedor",
+    "url": "https://tecno.ar/2026-11-13-uber-confirma-robo-de-miles-de-licencias-de-conducir-tras-br",
+    "tema": "uber"
+  },
+  {
+    "titulo": "Jensen Huang de Nvidia Renuncia en Medio de Escándalo por Espionaje y Asuntos Personales",
+    "url": "https://tecno.ar/2026-11-13-jensen-huang-de-nvidia-renuncia-en-medio-de-escandalo-por-es",
+    "tema": "huang"
+  },
+  {
+    "titulo": "ChatGPT Ahora Puede Hacer Compras por Ti con su Nueva Cartera Digital",
+    "url": "https://tecno.ar/2026-11-13-chatgpt-ahora-puede-hacer-compras-por-ti-con-su-nueva-carter",
+    "tema": "chatgpt"
+  },
+  {
+    "titulo": "Chips Banneados de Nvidia Potencian la IA China en Medio de un Escándalo Corporativo",
+    "url": "https://tecno.ar/2026-11-13-chips-banneados-de-nvidia-potencian-la-ia-china-en-medio-de-",
+    "tema": "nvidia"
+  },
+  {
     "titulo": "SoftBank Sufre Pérdidas Millonarias por Apuesta Energética de Gas Natural para la IA",
     "url": "https://tecno.ar/2026-11-12-softbank-sufre-perdidas-millonarias-por-apuesta-energetica-d",
     "tema": "softbank"
@@ -973,30 +998,5 @@
     "titulo": "Meta Despliega Nuevas Herramientas de IA para Combatir Contenido de Abuso Infantil",
     "url": "https://tecno.ar/2026-10-07-meta-despliega-nuevas-herramientas-de-ia-para-combatir-conte",
     "tema": "meta"
-  },
-  {
-    "titulo": "Ex-CIA Officer Admite Fraude de $200 Millones con Programa Secreto Falso",
-    "url": "https://tecno.ar/2026-10-07-ex-cia-officer-admite-fraude-de-200-millones-con-programa-se",
-    "tema": "officer"
-  },
-  {
-    "titulo": "Greenairy Lanza Torres de Plantas Inteligentes para **Clean** el Aire de Oficinas",
-    "url": "https://tecno.ar/2026-10-07-greenairy-lanza-torres-de-plantas-inteligentes-para-clean-el",
-    "tema": "clean"
-  },
-  {
-    "titulo": "ChatGPT Se Vuelve Visual: OpenAI Presenta la Interfaz Inteligente UI con GPT-6",
-    "url": "https://tecno.ar/2026-10-07-chatgpt-se-vuelve-visual-openai-presenta-la-interfaz-intelig",
-    "tema": "chatgpt"
-  },
-  {
-    "titulo": "Sorpresa Viral: **Amazon** Revela \"Culatas Planas\" y Otras Íntimas Inferencias de Usuarios",
-    "url": "https://tecno.ar/2026-10-07-sorpresa-viral-amazon-revela-culatas-planas-y-otras-intimas-",
-    "tema": "amazon"
-  },
-  {
-    "titulo": "Instinct Lanza su Agente de IA en Chats Grupales, Ampliando su Alcance",
-    "url": "https://tecno.ar/2026-10-06-instinct-lanza-su-agente-de-ia-en-chats-grupales-ampliando-s",
-    "tema": "agent"
   }
 ]

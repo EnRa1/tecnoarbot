@@ -1,29 +1,5 @@
 [
   {
-    "titulo": "After the midterms, is the AI industry in for a rough two years?",
-    "fecha": "2026-11-06T18:39:21.627293"
-  },
-  {
-    "titulo": "Pentagon offers battery startup 6K $250M loan to build US factory",
-    "fecha": "2026-11-06T18:41:08.799184"
-  },
-  {
-    "titulo": "Fox completes its $22B acquisition of Roku",
-    "fecha": "2026-11-06T18:43:18.875259"
-  },
-  {
-    "titulo": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-    "fecha": "2026-11-06T18:45:35.734196"
-  },
-  {
-    "titulo": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-    "fecha": "2026-11-06T18:47:01.145129"
-  },
-  {
-    "titulo": "Underdog shows off a 32MB speech model in new demo",
-    "fecha": "2026-11-06T18:48:28.852781"
-  },
-  {
     "titulo": "Crusoe sells troubled Wyoming data center project to Google",
     "fecha": "2026-11-07T02:27:42.414551"
   },
@@ -138,5 +114,25 @@
   {
     "titulo": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
     "fecha": "2026-11-12T19:25:04.565218"
+  },
+  {
+    "titulo": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+    "fecha": "2026-11-13T18:54:35.054601"
+  },
+  {
+    "titulo": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "fecha": "2026-11-13T18:55:51.589878"
+  },
+  {
+    "titulo": "The unfolding Jensen Huang scandal: a timeline",
+    "fecha": "2026-11-13T18:57:24.636569"
+  },
+  {
+    "titulo": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+    "fecha": "2026-11-13T18:58:58.854750"
+  },
+  {
+    "titulo": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+    "fecha": "2026-11-13T18:59:29.501509"
   }
 ]
