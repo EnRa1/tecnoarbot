@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "La FAA Grounda Todos los **Flights** en EE.UU. por Fallo Técnico y Motivos de Seguridad",
+    "url": "https://tecno.ar/2026-11-14-la-faa-grounda-todos-los-flights-en-eeuu-por-fallo-tecnico-y",
+    "tema": "flights"
+  },
+  {
+    "titulo": "La Renuncia de Jensen Huang en Nvidia Sacude el Ecosistema de Financiación de Startups de IA",
+    "url": "https://tecno.ar/2026-11-14-la-renuncia-de-jensen-huang-en-nvidia-sacude-el-ecosistema-d",
+    "tema": "jensen"
+  },
+  {
+    "titulo": "Amazon Renueva su Línea Kindle con el Colorsoft Premium",
+    "url": "https://tecno.ar/2026-11-14-amazon-renueva-su-linea-kindle-con-el-colorsoft-premium",
+    "tema": "kindle"
+  },
+  {
     "titulo": "ElevenLabs Presenta ElevenAI: Innovación en la Gestión de Meeting con IA",
     "url": "https://tecno.ar/2026-11-13-elevenlabs-presenta-elevenai-innovacion-en-la-gestion-de-mee",
     "tema": "meeting"
@@ -983,20 +998,5 @@
     "titulo": "Ex-Socio de 'El Lobo de Wall Street' Lanza una Innovadora Startup Social",
     "url": "https://tecno.ar/2026-10-08-ex-socio-de-el-lobo-de-wall-street-lanza-una-innovadora-star",
     "tema": "startup"
-  },
-  {
-    "titulo": "Bloom recauda $3.6 millones para su plataforma de IA en la manufactura de EE. UU.",
-    "url": "https://tecno.ar/2026-10-07-bloom-recauda-36-millones-para-su-plataforma-de-ia-en-la-man",
-    "tema": "bloom"
-  },
-  {
-    "titulo": "Healthleap Recauda $38 Millones para Potenciar su IA de Monitoreo Hospitalario",
-    "url": "https://tecno.ar/2026-10-07-healthleap-recauda-38-millones-para-potenciar-su-ia-de-monit",
-    "tema": "healthleap"
-  },
-  {
-    "titulo": "Meta Despliega Nuevas Herramientas de IA para Combatir Contenido de Abuso Infantil",
-    "url": "https://tecno.ar/2026-10-07-meta-despliega-nuevas-herramientas-de-ia-para-combatir-conte",
-    "tema": "meta"
   }
 ]
