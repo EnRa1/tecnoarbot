@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Tesla Realiza Megainversión de 3.000 Millones en Berlín para Impulsar el Cybercab",
+    "url": "https://tecno.ar/2026-11-16-tesla-realiza-megainversion-de-3000-millones-en-berlin-para-",
+    "tema": "tesla"
+  },
+  {
+    "titulo": "Island: La Innovadora App que Gamifica el Control de **Tu** Tiempo de Pantalla",
+    "url": "https://tecno.ar/2026-11-16-island-la-innovadora-app-que-gamifica-el-control-de-tu-tiemp",
+    "tema": "your"
+  },
+  {
+    "titulo": "Apple Presenta \"Face Unlock\" para iPhone Duo en iOS 27.3: Una Nueva Cara para el Desbloqueo Plegable",
+    "url": "https://tecno.ar/2026-11-16-apple-presenta-face-unlock-para-iphone-duo-en-ios-273-una-nu",
+    "tema": "face"
+  },
+  {
+    "titulo": "Brecha de Datos Afecta a Casi 150.000 Conductores de Uber por Fallo en Proveedor Externo",
+    "url": "https://tecno.ar/2026-11-16-brecha-de-datos-afecta-a-casi-150000-conductores-de-uber-por",
+    "tema": "uber"
+  },
+  {
+    "titulo": "California Demanda a OpenAI por Incidentes de \"Agentes Rebeldes\" en sus Sistemas",
+    "url": "https://tecno.ar/2026-11-16-california-demanda-a-openai-por-incidentes-de-agentes-rebeld",
+    "tema": "openai"
+  },
+  {
+    "titulo": "Apple Refuerza la Seguridad en macOS frente a Agentes de IA",
+    "url": "https://tecno.ar/2026-11-16-apple-refuerza-la-seguridad-en-macos-frente-a-agentes-de-ia",
+    "tema": "apple"
+  },
+  {
     "titulo": "La FAA Grounda Todos los **Flights** en EE.UU. por Fallo Técnico y Motivos de Seguridad",
     "url": "https://tecno.ar/2026-11-14-la-faa-grounda-todos-los-flights-en-eeuu-por-fallo-tecnico-y",
     "tema": "flights"
@@ -968,35 +998,5 @@
     "titulo": "Presidente Trump Concede Medallas de Honor a Líderes Tecnológicos en Ceremonia Controversial",
     "url": "https://tecno.ar/2026-10-09-presidente-trump-concede-medallas-de-honor-a-lideres-tecnolo",
     "tema": "trump"
-  },
-  {
-    "titulo": "Nueva York Demanda a TikTok por Supuestas \"Funciones de Seguridad Placebo\" para Menores",
-    "url": "https://tecno.ar/2026-10-08-nueva-york-demanda-a-tiktok-por-supuestas-funciones-de-segur",
-    "tema": "tiktok"
-  },
-  {
-    "titulo": "Elon Musk Acusa a Intereses Monopolísticos de Bloquear Starlink en India",
-    "url": "https://tecno.ar/2026-10-08-elon-musk-acusa-a-intereses-monopolisticos-de-bloquear-starl",
-    "tema": "musk"
-  },
-  {
-    "titulo": "Administración Trump Suspende a Microsoft y Otros Gigantes Tecnológicos de Programa de Visas",
-    "url": "https://tecno.ar/2026-10-08-administracion-trump-suspende-a-microsoft-y-otros-gigantes-t",
-    "tema": "microsoft"
-  },
-  {
-    "titulo": "Goodfire Lanza Nuevos Monitors Internos para Agentes de IA, Más Eficientes y Económicos",
-    "url": "https://tecno.ar/2026-10-08-goodfire-lanza-nuevos-monitors-internos-para-agentes-de-ia-m",
-    "tema": "monitors"
-  },
-  {
-    "titulo": "Natura Lanza Interface, un Smart Ring de $99 que Pone Agentes de IA en tu Dedo",
-    "url": "https://tecno.ar/2026-10-08-natura-lanza-interface-un-smart-ring-de-99-que-pone-agentes-",
-    "tema": "ring"
-  },
-  {
-    "titulo": "Ex-Socio de 'El Lobo de Wall Street' Lanza una Innovadora Startup Social",
-    "url": "https://tecno.ar/2026-10-08-ex-socio-de-el-lobo-de-wall-street-lanza-una-innovadora-star",
-    "tema": "startup"
   }
 ]
