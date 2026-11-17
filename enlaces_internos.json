@@ -1,5 +1,10 @@
 [
   {
+    "titulo": "Google Extiende la Retención de Chats en Gemini para Mejorar Seguridad y Control",
+    "url": "https://tecno.ar/2026-11-17-google-extiende-la-retencion-de-chats-en-gemini-para-mejorar",
+    "tema": "gemini"
+  },
+  {
     "titulo": "Nvidia Enfrenta Examen Crítico en Informe de Resultados Tras la Salida de Jensen Huang",
     "url": "https://tecno.ar/2026-11-17-nvidia-enfrenta-examen-critico-en-informe-de-resultados-tras",
     "tema": "nvidia"
@@ -993,10 +998,5 @@
     "titulo": "Danu Robotics Transforma el **Recycling** con su Robot H.E.R.O. y la IA",
     "url": "https://tecno.ar/2026-10-09-danu-robotics-transforma-el-recycling-con-su-robot-hero-y-la",
     "tema": "recycling"
-  },
-  {
-    "titulo": "Amazon Prioriza la Transparencia: Fin a los NDAs en Negocios de Centros de Datos",
-    "url": "https://tecno.ar/2026-10-09-amazon-prioriza-la-transparencia-fin-a-los-ndas-en-negocios-",
-    "tema": "amazon"
   }
 ]
