@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Nvidia Enfrenta Examen Crítico en Informe de Resultados Tras la Salida de Jensen Huang",
+    "url": "https://tecno.ar/2026-11-17-nvidia-enfrenta-examen-critico-en-informe-de-resultados-tras",
+    "tema": "nvidia"
+  },
+  {
+    "titulo": "Infoblox Confirma Incidente de Ciberseguridad a Través de un Proveedor Externo",
+    "url": "https://tecno.ar/2026-11-17-infoblox-confirma-incidente-de-ciberseguridad-a-traves-de-un",
+    "tema": "infoblox"
+  },
+  {
+    "titulo": "Corma, la Startup de IA que Alcanza los Mil Millones en el Sector de la Cybersecurity",
+    "url": "https://tecno.ar/2026-11-17-corma-la-startup-de-ia-que-alcanza-los-mil-millones-en-el-se",
+    "tema": "cybersecurity"
+  },
+  {
     "titulo": "Tesla Realiza Megainversión de 3.000 Millones en Berlín para Impulsar el Cybercab",
     "url": "https://tecno.ar/2026-11-16-tesla-realiza-megainversion-de-3000-millones-en-berlin-para-",
     "tema": "tesla"
@@ -983,20 +998,5 @@
     "titulo": "Amazon Prioriza la Transparencia: Fin a los NDAs en Negocios de Centros de Datos",
     "url": "https://tecno.ar/2026-10-09-amazon-prioriza-la-transparencia-fin-a-los-ndas-en-negocios-",
     "tema": "amazon"
-  },
-  {
-    "titulo": "LumenUs: La IA que alivia el peso de las tareas administrativas **tediosas** en el duelo",
-    "url": "https://tecno.ar/2026-10-09-lumenus-la-ia-que-alivia-el-peso-de-las-tareas-administrativ",
-    "tema": "tedious"
-  },
-  {
-    "titulo": "Un Viaje Digital al Pasado: Recrean el Escritorio de Elizabeth Holmes de Theranos",
-    "url": "https://tecno.ar/2026-10-09-un-viaje-digital-al-pasado-recrean-el-escritorio-de-elizabet",
-    "tema": "elizabeth"
-  },
-  {
-    "titulo": "Presidente Trump Concede Medallas de Honor a Líderes Tecnológicos en Ceremonia Controversial",
-    "url": "https://tecno.ar/2026-10-09-presidente-trump-concede-medallas-de-honor-a-lideres-tecnolo",
-    "tema": "trump"
   }
 ]
