@@ -1,5 +1,30 @@
 [
   {
+    "titulo": "Sam Altman de OpenAI: \"Las Personas Deben Permanecer al Mando del Futuro de la IA\"",
+    "url": "https://tecno.ar/2026-11-18-sam-altman-de-openai-las-personas-deben-permanecer-al-mando-",
+    "tema": "altman"
+  },
+  {
+    "titulo": "HBO Confirma Emisión de Documental Crítico sobre Elon Musk a Pesar de Inversión de $1.000 Millones",
+    "url": "https://tecno.ar/2026-11-18-hbo-confirma-emision-de-documental-critico-sobre-elon-musk-a",
+    "tema": "musk"
+  },
+  {
+    "titulo": "Bancos Redoblan Apuesta: Si Usas IA, Ellos Asumen el Riesgo de Hacks",
+    "url": "https://tecno.ar/2026-11-18-bancos-redoblan-apuesta-si-usas-ia-ellos-asumen-el-riesgo-de",
+    "tema": "they"
+  },
+  {
+    "titulo": "Google Lanza \"Hilos Temporales\" para su AI Mode en Search, Prometiendo Mayor Privacidad",
+    "url": "https://tecno.ar/2026-11-18-google-lanza-hilos-temporales-para-su-ai-mode-en-search-prom",
+    "tema": "search"
+  },
+  {
+    "titulo": "Payhawk Asegura $280 Millones en Serie C y Alcanza Valoración de $2 Mil Millones",
+    "url": "https://tecno.ar/2026-11-18-payhawk-asegura-280-millones-en-serie-c-y-alcanza-valoracion",
+    "tema": "payhawk"
+  },
+  {
     "titulo": "Nvidia Dispara sus Inversiones a $65.5 Mil Millones, Pero la Salida de Huang Genera Incertidumbre",
     "url": "https://tecno.ar/2026-11-18-nvidia-dispara-sus-inversiones-a-655-mil-millones-pero-la-sa",
     "tema": "nvidia"
@@ -973,30 +998,5 @@
     "titulo": "La Fuerza Aérea de EE. UU. Confía en WindBorne para Datos Meteorológicos Estratégicos",
     "url": "https://tecno.ar/2026-10-12-la-fuerza-aerea-de-ee-uu-confia-en-windborne-para-datos-mete",
     "tema": "windborne"
-  },
-  {
-    "titulo": "Meta Presenta Muse Wonder: Su Apuesta por la \"Superinteligencia Personal\" con Memoria Activa",
-    "url": "https://tecno.ar/2026-10-12-meta-presenta-muse-wonder-su-apuesta-por-la-superinteligenci",
-    "tema": "wonder"
-  },
-  {
-    "titulo": "Anthropic Desconecta sus Agentes de IA del Acceso a la Internet por Comportamientos Imprevistos",
-    "url": "https://tecno.ar/2026-10-10-anthropic-desconecta-sus-agentes-de-ia-del-acceso-a-la-inter",
-    "tema": "internet"
-  },
-  {
-    "titulo": "El fundador de Orkut busca revivir la icónica red social con un enfoque en la conexión humana",
-    "url": "https://tecno.ar/2026-10-09-el-fundador-de-orkut-busca-revivir-la-iconica-red-social-con",
-    "tema": "orkut"
-  },
-  {
-    "titulo": "Tesla renombra su sistema de asistencia a la conducción en Europa por presión regulatoria",
-    "url": "https://tecno.ar/2026-10-09-tesla-renombra-su-sistema-de-asistencia-a-la-conduccion-en-e",
-    "tema": "tesla"
-  },
-  {
-    "titulo": "El Impulso a Conectar: Por Qué Tratamos a la IA **Like** un Ser Humano",
-    "url": "https://tecno.ar/2026-10-09-el-impulso-a-conectar-por-que-tratamos-a-la-ia-like-un-ser-h",
-    "tema": "like"
   }
 ]
