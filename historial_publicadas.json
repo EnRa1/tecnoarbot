@@ -1,29 +1,5 @@
 [
   {
-    "titulo": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-    "fecha": "2026-11-12T19:16:55.672884"
-  },
-  {
-    "titulo": "Microsoft’s Outlook email hit by new outage",
-    "fecha": "2026-11-12T19:18:29.788628"
-  },
-  {
-    "titulo": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-    "fecha": "2026-11-12T19:20:47.632602"
-  },
-  {
-    "titulo": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-    "fecha": "2026-11-12T19:22:20.315724"
-  },
-  {
-    "titulo": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-    "fecha": "2026-11-12T19:23:33.867289"
-  },
-  {
-    "titulo": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-    "fecha": "2026-11-12T19:25:04.565218"
-  },
-  {
     "titulo": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
     "fecha": "2026-11-13T18:54:35.054601"
   },
@@ -126,5 +102,29 @@
   {
     "titulo": "Elon Musk says: ‘I’m not MAGA’",
     "fecha": "2026-11-19T03:57:37.053457"
+  },
+  {
+    "titulo": "Anthropic’s IPO could deliver $156 billion to charity",
+    "fecha": "2026-11-19T19:43:48.348889"
+  },
+  {
+    "titulo": "Google gives Gemini the ability to use your Mac for you",
+    "fecha": "2026-11-19T19:44:28.868219"
+  },
+  {
+    "titulo": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+    "fecha": "2026-11-19T19:46:03.186978"
+  },
+  {
+    "titulo": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+    "fecha": "2026-11-19T19:47:12.028147"
+  },
+  {
+    "titulo": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+    "fecha": "2026-11-19T19:49:21.368714"
+  },
+  {
+    "titulo": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+    "fecha": "2026-11-19T19:51:28.785754"
   }
 ]
