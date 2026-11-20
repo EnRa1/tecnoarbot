@@ -1,5 +1,25 @@
 [
   {
+    "titulo": "Meta Apuntaría a los $300 para Muse Charm, su Próximo Wearable de IA",
+    "url": "https://tecno.ar/2026-11-20-meta-apuntaria-a-los-300-para-muse-charm-su-proximo-wearable",
+    "tema": "meta"
+  },
+  {
+    "titulo": "Fireworks AI Impulsa Modelos Abiertos: La Alternativa de Costo Eficiente Frente a los Gigantes de la IA",
+    "url": "https://tecno.ar/2026-11-20-fireworks-ai-impulsa-modelos-abiertos-la-alternativa-de-cost",
+    "tema": "models"
+  },
+  {
+    "titulo": "Anthropic Cierra OPI de Récord: Fundadores Cobran $280M Cada Uno y la Empresa Proyecta Inversiones Trillonarias",
+    "url": "https://tecno.ar/2026-11-20-anthropic-cierra-opi-de-record-fundadores-cobran-280m-cada-u",
+    "tema": "anthropic"
+  },
+  {
+    "titulo": "Apple Acelera el Desarrollo de un Sofisticado Agente de IA para Automatizar Tareas Avanzadas en Mac",
+    "url": "https://tecno.ar/2026-11-20-apple-acelera-el-desarrollo-de-un-sofisticado-agente-de-ia-p",
+    "tema": "agent"
+  },
+  {
     "titulo": "Anthropic Reafirma Compromiso con la IA Responsable en su Debut Histórico en Nasdaq",
     "url": "https://tecno.ar/2026-11-19-anthropic-reafirma-compromiso-con-la-ia-responsable-en-su-de",
     "tema": "anthropic"
@@ -978,25 +998,5 @@
     "titulo": "Pluto Security Recauda $42M para Fortalecer la Seguridad Empresarial ante el Auge de la IA",
     "url": "https://tecno.ar/2026-10-13-pluto-security-recauda-42m-para-fortalecer-la-seguridad-empr",
     "tema": "security"
-  },
-  {
-    "titulo": "Laplace Intelligence Prepara la IA Física para un Mundo Real Impredecible",
-    "url": "https://tecno.ar/2026-10-13-laplace-intelligence-prepara-la-ia-fisica-para-un-mundo-real",
-    "tema": "world"
-  },
-  {
-    "titulo": "Olvídate de los Rockets: Longshot Space Technology Apunta a Disparar Cargas al Espacio con Cañones",
-    "url": "https://tecno.ar/2026-10-13-olvidate-de-los-rockets-longshot-space-technology-apunta-a-d",
-    "tema": "rockets"
-  },
-  {
-    "titulo": "Facebook Empodera a los Users con \"Your Algorithm\" para un Control Inédito del Feed",
-    "url": "https://tecno.ar/2026-10-13-facebook-empodera-a-los-users-con-your-algorithm-para-un-con",
-    "tema": "users"
-  },
-  {
-    "titulo": "Flox Intelligence: IA para mantener la fauna salvaje *away* de infraestructuras críticas",
-    "url": "https://tecno.ar/2026-10-13-flox-intelligence-ia-para-mantener-la-fauna-salvaje-away-de-",
-    "tema": "away"
   }
 ]
