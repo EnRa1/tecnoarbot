@@ -1,5 +1,30 @@
 [
   {
+    "titulo": "El Director Nacional de Ciberseguridad de EE. UU. Anuncia su Renuncia en Medio de Desafíos Críticos",
+    "url": "https://tecno.ar/2026-11-21-el-director-nacional-de-ciberseguridad-de-ee-uu-anuncia-su-r",
+    "tema": "national"
+  },
+  {
+    "titulo": "California Abre Investigación a Nvidia por Vínculos con China y Engaño a Inversores",
+    "url": "https://tecno.ar/2026-11-21-california-abre-investigacion-a-nvidia-por-vinculos-con-chin",
+    "tema": "nvidia"
+  },
+  {
+    "titulo": "Avance Histórico: Inteligencia Artificial Apoya Nueva Solución a la Hipótesis de Riemann",
+    "url": "https://tecno.ar/2026-11-21-avance-historico-inteligencia-artificial-apoya-nueva-solucio",
+    "tema": "solution"
+  },
+  {
+    "titulo": "Daniel Ek de Spotify Apoya Startup de **Fusión** con Enfoque en IA y Simulaciones",
+    "url": "https://tecno.ar/2026-11-21-daniel-ek-de-spotify-apoya-startup-de-fusion-con-enfoque-en-",
+    "tema": "fusion"
+  },
+  {
+    "titulo": "Expertos Advierten: La Trampa `honey` Amenaza a la Cúpula Tecnológica y de IA",
+    "url": "https://tecno.ar/2026-11-21-expertos-advierten-la-trampa-honey-amenaza-a-la-cupula-tecno",
+    "tema": "honey"
+  },
+  {
     "titulo": "Controversia Rodea la Salida de Jensen Huang de Nvidia: El Estilo de Liderazgo del Ex-CEO en la Mira",
     "url": "https://tecno.ar/2026-11-20-controversia-rodea-la-salida-de-jensen-huang-de-nvidia-el-es",
     "tema": "huang"
@@ -973,30 +998,5 @@
     "titulo": "TechCrunch Disrupt 2026 Cierra con Debates Visionarios y la Final del Startup Battlefield",
     "url": "https://tecno.ar/2026-10-15-techcrunch-disrupt-2026-cierra-con-debates-visionarios-y-la-",
     "tema": "techcrunch"
-  },
-  {
-    "titulo": "Google Lanza \"Universal Cart\" en EE. UU. para Simplificar tus Compras Online con IA",
-    "url": "https://tecno.ar/2026-10-15-google-lanza-universal-cart-en-ee-uu-para-simplificar-tus-co",
-    "tema": "cart"
-  },
-  {
-    "titulo": "Ramp Impulsa su Valoración a $60.000 Millones con Foco en la IA",
-    "url": "https://tecno.ar/2026-10-15-ramp-impulsa-su-valoracion-a-60000-millones-con-foco-en-la-i",
-    "tema": "ramp"
-  },
-  {
-    "titulo": "Rivian Anuncia Integración de Agentes de IA de Terceros para Vehículos Eléctricos",
-    "url": "https://tecno.ar/2026-10-15-rivian-anuncia-integracion-de-agentes-de-ia-de-terceros-para",
-    "tema": "rivian"
-  },
-  {
-    "titulo": "Netflix Anuncia Recortes de Personal en Medio de Competencia Intensificada",
-    "url": "https://tecno.ar/2026-10-14-netflix-anuncia-recortes-de-personal-en-medio-de-competencia",
-    "tema": "netflix"
-  },
-  {
-    "titulo": "Floqer Revela Plataforma IA de Conocimiento del Cliente y Plan de Código Abierto en TechCrunch Disrupt 2026",
-    "url": "https://tecno.ar/2026-10-14-floqer-revela-plataforma-ia-de-conocimiento-del-cliente-y-pl",
-    "tema": "floqer"
   }
 ]
