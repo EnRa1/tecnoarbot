@@ -1,5 +1,25 @@
 [
   {
+    "titulo": "Jensen Huang Regresa a Nvidia en Medio de Fuerte Escala de Controversia",
+    "url": "https://tecno.ar/2026-11-23-jensen-huang-regresa-a-nvidia-en-medio-de-fuerte-escala-de-c",
+    "tema": "huang"
+  },
+  {
+    "titulo": "Jensen Huang Regresa como CEO de Nvidia en Medio de Aclamación y Controversia",
+    "url": "https://tecno.ar/2026-11-23-jensen-huang-regresa-como-ceo-de-nvidia-en-medio-de-aclamaci",
+    "tema": "nvidia"
+  },
+  {
+    "titulo": "La **Company** Megaspeed, en el Centro de un Escándalo de Espionaje, Enfrenta Sanciones de EE. UU.",
+    "url": "https://tecno.ar/2026-11-23-la-company-megaspeed-en-el-centro-de-un-escandalo-de-espiona",
+    "tema": "company"
+  },
+  {
+    "titulo": "Elon Musk Celebra el Regreso de Jensen Huang a Nvidia en Medio de Controversia",
+    "url": "https://tecno.ar/2026-11-23-elon-musk-celebra-el-regreso-de-jensen-huang-a-nvidia-en-med",
+    "tema": "musk"
+  },
+  {
     "titulo": "El Director Nacional de Ciberseguridad de EE. UU. Anuncia su Renuncia en Medio de Desafíos Críticos",
     "url": "https://tecno.ar/2026-11-21-el-director-nacional-de-ciberseguridad-de-ee-uu-anuncia-su-r",
     "tema": "national"
@@ -978,25 +998,5 @@
     "titulo": "Zach Yadegari revela la fórmula detrás del éxito **viral** de Cal AI en TechCrunch Disrupt",
     "url": "https://tecno.ar/2026-10-16-zach-yadegari-revela-la-formula-detras-del-exito-viral-de-ca",
     "tema": "viral"
-  },
-  {
-    "titulo": "Bluesky: Cómo **Make**r Sostenible una Red Social Descentralizada Sin Publicidad",
-    "url": "https://tecno.ar/2026-10-15-bluesky-como-maker-sostenible-una-red-social-descentralizada",
-    "tema": "make"
-  },
-  {
-    "titulo": "Amazon Apuesta por la Computación Ambiental y el Fin de las Apps con Nuevos Dispositivos AI",
-    "url": "https://tecno.ar/2026-10-15-amazon-apuesta-por-la-computacion-ambiental-y-el-fin-de-las-",
-    "tema": "amazon"
-  },
-  {
-    "titulo": "Meta Lanza Muse Spark Open, Su Modelo de IA de Peso Abierto Optimizado para Macs",
-    "url": "https://tecno.ar/2026-10-15-meta-lanza-muse-spark-open-su-modelo-de-ia-de-peso-abierto-o",
-    "tema": "open"
-  },
-  {
-    "titulo": "TechCrunch Disrupt 2026 Cierra con Debates Visionarios y la Final del Startup Battlefield",
-    "url": "https://tecno.ar/2026-10-15-techcrunch-disrupt-2026-cierra-con-debates-visionarios-y-la-",
-    "tema": "techcrunch"
   }
 ]
