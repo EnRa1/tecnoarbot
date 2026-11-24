@@ -1,5 +1,15 @@
 [
   {
+    "titulo": "Anthropic Lanza Claude Ship: Agentes de IA Optimizan la Gestión y Aprobación de **Code**",
+    "url": "https://tecno.ar/2026-11-24-anthropic-lanza-claude-ship-agentes-de-ia-optimizan-la-gesti",
+    "tema": "code"
+  },
+  {
+    "titulo": "Figma Bajo Demanda: Ingeniera Acusa a la Compañía de Acoso y Discriminación",
+    "url": "https://tecno.ar/2026-11-24-figma-bajo-demanda-ingeniera-acusa-a-la-compania-de-acoso-y-",
+    "tema": "figma"
+  },
+  {
     "titulo": "Jensen Huang Regresa a Nvidia en Medio de Fuerte Escala de Controversia",
     "url": "https://tecno.ar/2026-11-23-jensen-huang-regresa-a-nvidia-en-medio-de-fuerte-escala-de-c",
     "tema": "huang"
@@ -988,15 +998,5 @@
     "titulo": "Mark Wahlberg Detalla su Visión sobre la IA en el Cine y el Futuro de su Legado Digital",
     "url": "https://tecno.ar/2026-10-16-mark-wahlberg-detalla-su-vision-sobre-la-ia-en-el-cine-y-el-",
     "tema": "wahlberg"
-  },
-  {
-    "titulo": "Jev: El Model de IA de Decisiones que Bate Récords de Adopción",
-    "url": "https://tecno.ar/2026-10-16-jev-el-model-de-ia-de-decisiones-que-bate-records-de-adopcio",
-    "tema": "model"
-  },
-  {
-    "titulo": "Zach Yadegari revela la fórmula detrás del éxito **viral** de Cal AI en TechCrunch Disrupt",
-    "url": "https://tecno.ar/2026-10-16-zach-yadegari-revela-la-formula-detras-del-exito-viral-de-ca",
-    "tema": "viral"
   }
 ]

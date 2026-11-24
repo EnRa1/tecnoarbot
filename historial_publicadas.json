@@ -1,17 +1,5 @@
 [
   {
-    "titulo": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-    "fecha": "2026-11-17T04:51:50.945110"
-  },
-  {
-    "titulo": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
-    "fecha": "2026-11-17T04:53:55.917920"
-  },
-  {
-    "titulo": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-    "fecha": "2026-11-17T04:55:40.508816"
-  },
-  {
     "titulo": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
     "fecha": "2026-11-17T20:19:09.256517"
   },
@@ -146,5 +134,13 @@
   {
     "titulo": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
     "fecha": "2026-11-23T23:09:50.046695"
+  },
+  {
+    "titulo": "Figma employee sues, alleging company forced her to confront harassers",
+    "fecha": "2026-11-24T06:48:28.851029"
+  },
+  {
+    "titulo": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "fecha": "2026-11-24T06:50:36.012362"
   }
 ]
