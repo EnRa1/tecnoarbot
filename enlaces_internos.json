@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Nueva **York** Prohíbe Juguetes con Inteligencia Artificial para Niños",
+    "url": "https://tecno.ar/2026-11-25-nueva-york-prohibe-juguetes-con-inteligencia-artificial-para",
+    "tema": "york"
+  },
+  {
+    "titulo": "1Password Confirma Brecha de Seguridad Interna, Pero Tus Password Estarían Seguras",
+    "url": "https://tecno.ar/2026-11-25-1password-confirma-brecha-de-seguridad-interna-pero-tus-pass",
+    "tema": "password"
+  },
+  {
+    "titulo": "Anthropic Rechaza Acusaciones de Entregar el Control Humano a la IA",
+    "url": "https://tecno.ar/2026-11-25-anthropic-rechaza-acusaciones-de-entregar-el-control-humano-",
+    "tema": "anthropic"
+  },
+  {
+    "titulo": "El Tesla Cybertruck, Pese a su Futura Cancelación, Lidera el Mercado de Usados",
+    "url": "https://tecno.ar/2026-11-25-el-tesla-cybertruck-pese-a-su-futura-cancelacion-lidera-el-m",
+    "tema": "tesla"
+  },
+  {
+    "titulo": "Jensen Huang Admite Romper el Code de Conducta de Nvidia: Un Desafío Ético y Cultural",
+    "url": "https://tecno.ar/2026-11-25-jensen-huang-admite-romper-el-code-de-conducta-de-nvidia-un-",
+    "tema": "code"
+  },
+  {
+    "titulo": "OpenAI Unifica Chat y Trabajo en ChatGPT: ¿Menos Uso para Usuarios Intensivos?",
+    "url": "https://tecno.ar/2026-11-25-openai-unifica-chat-y-trabajo-en-chatgpt-menos-uso-para-usua",
+    "tema": "openai"
+  },
+  {
     "titulo": "Jensen Huang Muestra Remordimiento y Agradecimiento en su Regreso a Nvidia",
     "url": "https://tecno.ar/2026-11-25-jensen-huang-muestra-remordimiento-y-agradecimiento-en-su-re",
     "tema": "huang"
@@ -968,35 +998,5 @@
     "titulo": "Empleados de TikTok Alertaron Repetidamente sobre Riesgos para Menores que Ejecutivos Ignoraron",
     "url": "https://tecno.ar/2026-10-20-empleados-de-tiktok-alertaron-repetidamente-sobre-riesgos-pa",
     "tema": "tiktok"
-  },
-  {
-    "titulo": "Ataque a **OpenCode**: API Keys Expuestas y el Desafío de la IA Defensiva",
-    "url": "https://tecno.ar/2026-10-20-ataque-a-opencode-api-keys-expuestas-y-el-desafio-de-la-ia-d",
-    "tema": "opencode"
-  },
-  {
-    "titulo": "Hugging Face Alerta sobre la Inmadurez de las Evaluaciones de IA y Urge Estandarización",
-    "url": "https://tecno.ar/2026-10-20-hugging-face-alerta-sobre-la-inmadurez-de-las-evaluaciones-d",
-    "tema": "hugging"
-  },
-  {
-    "titulo": "Anthropic y Nscale en Negociaciones por Otro Megacuerdo de **Compute** de 45.000 Millones de Dólares",
-    "url": "https://tecno.ar/2026-10-20-anthropic-y-nscale-en-negociaciones-por-otro-megacuerdo-de-c",
-    "tema": "compute"
-  },
-  {
-    "titulo": "Elon Musk Promete la Donación de **Shares** de SpaceX a Niños Estadounidenses",
-    "url": "https://tecno.ar/2026-10-19-elon-musk-promete-la-donacion-de-shares-de-spacex-a-ninos-es",
-    "tema": "shares"
-  },
-  {
-    "titulo": "Apple Refuerza Normativas para Bloquear **Apps** Engañosas y de Contenido Ofensivo Generado por IA",
-    "url": "https://tecno.ar/2026-10-19-apple-refuerza-normativas-para-bloquear-apps-enganosas-y-de-",
-    "tema": "apps"
-  },
-  {
-    "titulo": "Nvidia Lanza Nuevos Modelos de IA Abiertos para Agentes Empresariales y PCs",
-    "url": "https://tecno.ar/2026-10-19-nvidia-lanza-nuevos-modelos-de-ia-abiertos-para-agentes-empr",
-    "tema": "nvidia"
   }
 ]
