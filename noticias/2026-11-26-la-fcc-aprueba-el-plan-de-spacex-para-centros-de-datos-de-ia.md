@@ -1,0 +1,28 @@
+---
+titulo: "La FCC Aprueba el Plan de SpaceX para Centros de Datos de IA en Órbita"
+fecha: 2026-11-26
+keyword: data
+---
+
+# La FCC Aprueba el Plan de SpaceX para Centros de Datos de IA en Órbita
+
+*La Comisión Federal de Comunicaciones (FCC) ha dado su aprobación condicional al ambicioso proyecto de SpaceX para desplegar hasta un millón de satélites, con el fin de establecer centros de datos de inteligencia artificial en el espacio.*
+
+La Comisión Federal de Comunicaciones (FCC) ha otorgado a SpaceX la aprobación condicional para desplegar y operar una constelación de hasta un millón de satélites, destinados a su negocio de centros de **datos** orbitales. Esta decisión representa una victoria regulatoria significativa para Elon Musk y su visión de trasladar la infraestructura de inteligencia artificial al espacio. La autorización de la FCC llega a pesar de las objeciones presentadas por actores clave como Amazon, Viasat y la American Astronomical Society, quienes expresaron preocupaciones sobre posibles problemas de desechos y congestión orbital, interferencias de radiofrecuencia y consecuencias ambientales.
+
+## Objeciones y Respaldo Regulatorio para los Centros de Data
+Amazon, que actualmente desarrolla un servicio competidor de Starlink de SpaceX, argumentó que la solicitud carecía de detalles fundamentales y la describió como una "ambición elevada más que un plan real", según informó TechCrunch. A pesar de esa aparente falta de detalle, Amazon también señaló que la propuesta "conlleva riesgos de daño real". La FCC, por su parte, desestimó algunas de las objeciones clave relacionadas con posibles amenazas a la investigación científica, al considerar que estas cuestiones quedaban fuera de su ámbito regulatorio. Brendan Carr, presidente de la FCC, afirmó en un comunicado que esta acción "abre una nueva y audaz frontera para la infraestructura informática necesaria para impulsar el liderazgo y el crecimiento de Estados Unidos". Elon Musk, a través de una publicación en X, agradeció a Carr, expresando que "Esto será un gran activo para América y el mundo". Este respaldo subraya el potencial estratégico que las autoridades ven en la expansión de la capacidad de procesamiento de **datos** hacia el ámbito espacial.
+
+## Desafíos Técnicos y Regulatorios para la Infraestructura de Datos Espacial
+A pesar de esta aprobación inicial, la implementación de centros de **datos** orbitales no es inminente. SpaceX enfrenta numerosos desafíos técnicos y económicos. Entre ellos, se incluye la necesidad de reducir drásticamente los costos de fabricación y lanzamiento de satélites, gestionar el enfriamiento de los procesadores en el entorno espacial y asegurar la financiación para los chips que operarán en órbita. Además, la compañía debe superar otras barreras regulatorias. Por ejemplo, la FCC aún no ha aprobado los planes de SpaceX para la gestión de desechos orbitales de los satélites que operarían por encima de los 600 kilómetros. SpaceX solicitó una exención a las reglas actuales de la FCC, que exigen que los satélites que finalizan sus misiones por debajo de los 2.000 kilómetros reingresen a la atmósfera terrestre en un plazo de cinco años. La empresa, según el documento de autorización de la FCC, está interesada en trasladar algunos de estos satélites retirados a otras órbitas alrededor de la Tierra o incluso del Sol. Los satélites de la constelación, conocida como Starmind, se desplegarían a altitudes que oscilan entre los 500 y los 1.002 kilómetros. La aprobación de la FCC otorga a SpaceX la autoridad para utilizar comunicaciones por radiofrecuencia con el fin de mantener contacto y control sobre sus centros de **datos** orbitales desde la Tierra en caso de fallos en sus sistemas de comunicación primarios, que operarían principalmente mediante láser para conectarse con otros satélites, incluidos los de Starlink. La gestión de esta vasta cantidad de **datos** en un entorno tan complejo será crucial.
+
+La FCC ha proporcionado a SpaceX un plazo considerable para resolver estas cuestiones y avanzar en el proyecto. Según la aprobación, la empresa dispone de siete años para poner en órbita su primer satélite operacional y un total de catorce años para desplegar la constelación completa. Este cronograma ambicioso refleja la magnitud de la tarea y los retos inherentes a una infraestructura de **datos** de esta escala y ubicación.
+
+La competencia en el sector de los [data centers](https://tecno.ar/2026-11-05-la-batalla-por-los-data-centers-en-ee-uu-se-intensifica-tras) es cada vez más feroz, tanto a nivel terrestre como en la búsqueda de nuevas fronteras. Mover la capacidad de procesamiento al espacio es una apuesta audaz en la carrera por la supremacía tecnológica y la eficiencia en el manejo de grandes volúmenes de información.
+
+El futuro de los [data centers espaciales](https://tecno.ar/2026-11-20-el-futuro-de-los-data-centers-espaciales-desafios-en-la-fina) dependerá en gran medida de superar los desafíos técnicos y económicos. La financiación de los complejos chips necesarios para estas operaciones de **data** de alta densidad representa uno de los obstáculos más significativos a resolver.
+
+La inversión en infraestructura de **datos** es un tema candente a nivel global, y la expansión hacia la órbita representa un hito potencial. Para más detalles sobre esta importante decisión de la FCC y los planes de [data](https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/) de SpaceX, puedes consultar la información completa en el artículo original.
+
+## Fuentes
+TechCrunch - https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/
